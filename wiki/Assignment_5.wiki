@@ -1,4 +1,4 @@
-#summary Assignment 5 stub
+#summary Week 3 Assignment - Project website and plan
 #labels assignement1,website,plan,project
 
 = *Assignment 5* =
