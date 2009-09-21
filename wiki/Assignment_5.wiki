@@ -1,8 +1,6 @@
 #summary Week 3 Assignment - Project website and plan
 #labels assignement1,website,plan,project
 
-= *Assignment 5* =
-
 *Project website:
 http://code.google.com/p/virtual-mechanic/
 
