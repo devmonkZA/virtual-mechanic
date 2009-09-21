@@ -1,9 +1,9 @@
 #summary Assignment 5 stub
 #labels assignement1,website,plan,project
 
-= Assignment 5 =
+= *Assignment 5* =
 
 *Project website:
 http://code.google.com/p/virtual-mechanic/
 
-Project plan:
+*Project plan:
