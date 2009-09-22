@@ -1,13 +1,6 @@
-#summary Assignment 1 stub
+#summary Week 3 Assignment - Project website and plan
 
-= Assignment 1 =
+*Project website:
+http://code.google.com/p/virtual-mechanic/
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+*Project plan:
