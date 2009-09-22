@@ -68,6 +68,7 @@ _Monday, September 21, 2009, 4:30 @ McKenzie Cafe @ SFU_
 
 - Defined roles for our program *5 min*
    = Admin
+
    = User
 
 *Member Tasks*
