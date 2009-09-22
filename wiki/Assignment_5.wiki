@@ -1,7 +1,0 @@
-#summary Week 3 Assignment - Project website and plan
-#labels assignment_1,website,plan,project
-
-*Project website:
-http://code.google.com/p/virtual-mechanic/
-
-*Project plan:
