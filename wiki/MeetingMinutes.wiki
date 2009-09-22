@@ -21,26 +21,28 @@ _Sunday, September 20, 2009 : Lougheed Mall Food Court_
    =Jeff will be in charge of directing Website features
 
 - Discussed previous projects and experiences *15 min*
+
 - Project plan discussion *10 min*
    =Image layering idea with orientation about generic PC.
+
 - Set a time for next team meeting *2 min*
    =Monday, Sept. 21, 4:30 PM, McKenzie Cafe @ SFU
+
 - Tentative project managers volunteered
    = Jeff : Media
+
    = Marc : Documentation
+
    = Chien : Programming
 (Not definite yet)
+
 *Member tasks*
    = Every member should write up their own bio.
+
    = Jeff will set up website.
+
    = Marc will write up a draft of our Project Plan.
+
    = Everyone should familiarize themselves with Objective C.
+
    = Look into installing Mac OS on PC
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
