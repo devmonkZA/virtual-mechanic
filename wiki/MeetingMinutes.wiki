@@ -2,27 +2,27 @@
 #labels minutes,virtualmechanic,meeting
 
 =Meeting 1=
-_Sunday, September 20, 2009 : Lougheed Mall Food Court_
+_Sunday, September 20, 2009, 12:00 @ Lougheed Mall Food Court_
 
 - Everyone present and accounted for -
 
 - Introductions - *5 min*
 
 - Brainstorming project ideas *45 min*
-   =Decided on Image Layering idea
+   = Decided on Image Layering idea
 
 - Discussed website setup and management *10 min*
-   =Decided to use Google Code as our host
+   = Decided to use Google Code as our host
 
-   =Jeff will be in charge of directing Website features
+   = Jeff will be in charge of directing Website features
 
 - Discussed previous projects and experiences *15 min*
 
 - Project plan discussion *10 min*
-   =Image layering idea with orientation about generic PC.
+   = Image layering idea with orientation about generic PC.
 
 - Set a time for next team meeting *2 min*
-   =Monday, Sept. 21, 4:30 PM, McKenzie Cafe @ SFU
+   = Monday, Sept. 21, 4:30 PM @ McKenzie Cafe @ SFU
 
 - Tentative project managers volunteered
    = Jeff : Media
@@ -42,3 +42,39 @@ _Sunday, September 20, 2009 : Lougheed Mall Food Court_
    = Everyone should familiarize themselves with Objective C.
 
    = Look into installing Mac OS on PC
+
+=Meeting 2=
+_Monday, September 21, 2009, 4:30 @ McKenzie Cafe @ SFU_
+
+- Chien is away sick, everyone else present -
+
+- Website is up and running. Thank you Jeff. *5 min*
+   = Student number and Bio need to be added to our site.
+
+- Decided on our team name : Virtual Mechanics *2 min*
+
+- Set up a weekly team meeting *3 min*
+   = Mondays at 4:30 until 5:30 in the McKenzie Cafe at SFU
+
+   = Tuesday at 12:30 until 2:30 in CSIL at SFU
+
+- Gantt chart needed for project scheduling
+   = Greg volunteered to head this one.
+
+- Talked about meeting in case of holidays *2 min*
+   = Meeting will be held at Lougheed Mall in this case
+
+- Discussed essential features of our project. *5 min*
+
+- Defined roles for our program *5 min*
+   = Admin
+   = User
+
+*Member Tasks*
+   - Look into downloading XCode and MacOS onto PC
+
+   - Marc will transfer Project Proposal to website
+
+   - Review lecture slides
+
+   - Add information to bio section of website
