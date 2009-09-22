@@ -1,11 +1,7 @@
 #summary Minutes from every meeting held by Virtual Mechanics.
 #labels minutes,virtualmechanic,meeting
 
-= Introduction =
-
-Add your content here.
-
-*Meeting 1*
+=Meeting 1=
 _Sunday, September 20, 2009 : Lougheed Mall Food Court_
 
 - Everyone present and accounted for -
