@@ -11,11 +11,15 @@ _Sunday, September 20, 2009 : Lougheed Mall Food Court_
 - Everyone present and accounted for -
 
 - Introductions - *5 min*
+
 - Brainstorming project ideas *45 min*
    =Decided on Image Layering idea
+
 - Discussed website setup and management *10 min*
    =Decided to use Google Code as our host
+
    =Jeff will be in charge of directing Website features
+
 - Discussed previous projects and experiences *15 min*
 - Project plan discussion *10 min*
    =Image layering idea with orientation about generic PC.
