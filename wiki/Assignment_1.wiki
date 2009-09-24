@@ -44,6 +44,15 @@ http://code.google.com/p/virtual-mechanic/
 <td>- Backup steps in  to pick up the slack, if possible keeping the absent member informed as to his tasks progress.
 <br>- Other teamembers ease some of the backups old work off and maintain communication with the backup.</br></td>
 </tr>
+
+<tr>
+<td>Too little time to finish the origional project</td>
+<td>Medium</td>
+<td>Medium</td>
+<td>- Start working early in a phase!
+<br>- Many of the optional features may be stripped from the project plan</br></td>
+<td>- Strip away unecissary aspects of the project <p color="red">Need more here</p></td>
+</tr>
 </table>
 
 <p><h3>Hardware and software resource requirements </h3></p>
