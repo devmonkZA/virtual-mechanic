@@ -85,7 +85,7 @@ This program is not meant to be exclusive, rather, anyone with an iPhone will be
 </tr>
 </table>
 
-==Hardware and software resource requirements==
+==Hardware and Software Resource Requirements==
 
 <table cellpadding="2" border="1"><tr>
 <td width="200">Hardware</td><td width="200">Software (Documentation)</td><td width="200">Software(Development)</td>
@@ -94,7 +94,7 @@ This program is not meant to be exclusive, rather, anyone with an iPhone will be
 </tr><tr><td></td><td>MS word</td></tr>
 </table>
 
-==Work breakdown==
+==Work Breakdown==
 
 <p>Besides the actual coding, the group members will also contribute in:</p>
 
