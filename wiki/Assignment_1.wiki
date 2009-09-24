@@ -73,12 +73,29 @@ http://code.google.com/p/virtual-mechanic/
 <p><h3>Work breakdown </h3></p>
 
 <p>Besides the actual coding, the group members will also contribute in:</p>
-<p>Jeffrey: Media, website, documentation</p>
-<p>Marc: Documentation</p>
-<p>Chien: Media, documentation</p>
-<p>Tyler: Code management</p>
-<p>Greg: Website, code management</p>
 
+<table><tr>
+<td>Team Member</td>
+<td>Role</td>
+</tr>
+
+<tr>
+<td>Jeffrey</td>
+<td>Media, website, documentation</td>
+</tr><tr>
+<td>Marc</td> 
+<td>Documentation</td>
+</tr><tr>
+<td>Chien</td>
+<td>Media, documentation</td>
+</tr><tr>
+<td>Tyler</td>
+<td>Code management</td>
+</tr><tr>
+<td>Greg</td>
+<td>Website, code management</td>
+</tr>
+</table>
 
 <p><h3>Project schedule </h3></p>
 
