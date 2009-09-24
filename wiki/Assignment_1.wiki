@@ -4,7 +4,7 @@
 *Project website:
 http://code.google.com/p/virtual-mechanic/
 
-<p><h4>Project Plan</h4></p>
+<p><h1>Project Plan</h1></p>
 
 <p><h3>Intro</h3></p>
 
