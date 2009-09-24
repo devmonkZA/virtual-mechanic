@@ -25,7 +25,7 @@ http://code.google.com/p/virtual-mechanic/
 <td>Low</td> 
 <td>High</td> 
 <td> - Ensure that everybody documents their work thoroughly.
-- Have back ups for each leading role maintain close communication with the current leader. </td> 
+<br>- Have back ups for each leading role maintain close communication with the current leader. </td> 
 
 </blockquote></tr> 
 <tr> 
