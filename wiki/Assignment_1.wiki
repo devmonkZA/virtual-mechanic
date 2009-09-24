@@ -36,7 +36,8 @@ http://code.google.com/p/virtual-mechanic/
 <blockquote><td>A team member is sick/absent</td> 
 <td>Medium</td> 
 <td>Low</td> 
-<td>- Ensure that everybody documents their work thoroughly. </td>
+<td>- Ensure that everybody documents their work thoroughly.
+<br>- Have back ups for each leading role maintain close communication with the current leader.</br></td>
 <td>- Backup steps in  to pick up the slack, if possible keeping the absent member informed as to his tasks progress.
 <br>- Other teamembers ease some of the backups old work off and maintain communication with the backup.</br></td>
 </blockquote></tr></blockquote>
