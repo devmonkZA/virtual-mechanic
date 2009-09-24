@@ -56,7 +56,7 @@ http://code.google.com/p/virtual-mechanic/
 
 <tr>
 <td>Can't find a way to edit code in windows</td>
-</td>Uknown</td>
+<td>Uknown</td>
 <td>Medium</td>
 <td>- Start searching for a method early. </td>
 <td>- Try to install Mac on our machines.
