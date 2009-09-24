@@ -88,7 +88,7 @@ http://code.google.com/p/virtual-mechanic/
 </tr>
 </table>
 
-<p><h3>Hardware and software resource requirements </h3></p>
+==Hardware and software resource requirements==
 
 <table cellpadding="2" border="1"><tr>
 <td width="200">Hardware</td><td width="200">Software (Documentation)</td><td width="200">Software(Development)</td>
