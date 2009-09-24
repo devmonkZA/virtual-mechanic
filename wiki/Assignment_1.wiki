@@ -88,6 +88,13 @@ http://code.google.com/p/virtual-mechanic/
 
 <p><h3>Hardware and software resource requirements </h3></p>
 
+<table cellpadding="2"><tr>
+<td>Hardware</td><td>Software (Documentation/Oragnization)</td><td>Software(Development)</td>
+</tr>
+<tr><td>Computer with Osx installed</td><td>MS Project</td><td>Xcode Ide</td>
+</tr><tr><td></td><td>MS word</td></tr>
+</table>
+
 <p>Computer with OS X installed (PC or Mac)</p>
 <p>Xcode IDE</p>
 <p>iPhone Apps Developer Account</p>
