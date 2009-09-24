@@ -97,7 +97,7 @@ http://code.google.com/p/virtual-mechanic/
 </tr><tr><td></td><td>MS word</td></tr>
 </table>
 
-<p><h3>Work breakdown </h3></p>
+==Work breakdown==
 
 <p>Besides the actual coding, the group members will also contribute in:</p>
 
