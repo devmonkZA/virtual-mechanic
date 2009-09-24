@@ -11,12 +11,12 @@ So here is the list:
 
 -Intro (our product description)  DONE
 
--Project Organization  (Any idea what he mmeans here?)
+-Project Organization  (Any idea what he means here?)
 
 -Risk analysis  (I've got this)
 
 -Hardware and software resource requirements
-(I suppose we list any software/hardware used in the developemant process? ex: ms project)
+(I suppose we list any software/hardware used in the developement process? ex: ms project)
 
 -Work breakdown  (list who we've assigned what jobs to)
 
