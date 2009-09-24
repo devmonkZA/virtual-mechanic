@@ -124,8 +124,8 @@ http://code.google.com/p/virtual-mechanic/
 </tr>
 </table>
 
-<p><h3>Project schedule </h3></p>
+==Project schedule==
 
 http://i34.tinypic.com/bednjk.jpg
 
-<p><h3>Monitoring and reporting mechanisms</h3></p>
+==Monitoring and reporting mechanisms==
