@@ -89,7 +89,7 @@ http://code.google.com/p/virtual-mechanic/
 <p><h3>Hardware and software resource requirements </h3></p>
 
 <table cellpadding="2"><tr>
-<td>Hardware</td><td width="400">Software (Documentation/Oragnization)</td><td width="400">Software(Development)</td>
+<td width="200">Hardware</td><td width="200">Software (Documentation/Oragnization)</td><td width="200">Software(Development)</td>
 </tr>
 <tr><td>Computer with Osx installed</td><td>MS Project</td><td>Xcode Ide</td>
 </tr><tr><td></td><td>MS word</td></tr>
