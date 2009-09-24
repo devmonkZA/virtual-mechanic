@@ -16,8 +16,9 @@ http://code.google.com/p/virtual-mechanic/
 
 <blockquote><td width="250"><b>Risk</b></td> 
 <td><b>Occurence</b></td> 
-<td><b>Severity</b></td> 
-<td width="400"><b>Prevention/Solution</b></td> 
+<td><b>Severity</b></td>
+<td width="400"><b>Anticipation</b></td>  
+<td width="400"><b>Reaction</b></td> 
 </blockquote></tr> 
 <tr> 
 <blockquote><td>Permanent Loss of a team member</td> 
