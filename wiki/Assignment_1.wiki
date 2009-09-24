@@ -64,10 +64,11 @@ http://code.google.com/p/virtual-mechanic/
 </tr>
 
 <tr>
-<td>Team members in disagreement/argument about some aspect of the project</td>
+<td>Team members in disagreement about some aspect of the project</td>
 <td>Low</td>
 <td>Low-Medium</td>
-<td>- Make sure that didtinct leadership roles are assigned, to the correct people.</td>
+<td>- Make sure that didtinct leadership roles are assigned, to the correct people.
+<br>- Maintain clear communication with respect to our intentions and idea of the direction of the project as it continues to grow.</br></td>
 <td>Depending on the Nature of the disagreement we shall:
 <br>- Adress the disagreement with a group vote. </br>
 <br>- Or leave the decision to the leader of the relevent section</br></td>
