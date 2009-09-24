@@ -8,6 +8,8 @@ http://code.google.com/p/virtual-mechanic/
 
 <wiki:toc max_depth="1" />
 
+#sidebar TableOfContents
+
 <p><h3>Introduction</h3></p>
 
     What we propose to do is create a piece-by-piece walkthrough of a generic PC build. It will feature examination of the different layers and components involved and the capabilities and functions of each. This application will be used on the iPhone platform and programmed using the Objective C programming language.
