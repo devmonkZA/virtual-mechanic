@@ -32,7 +32,7 @@ http://code.google.com/p/virtual-mechanic/
 <td> - Ensure that everybody documents their work thoroughly.
 <br>- Have back ups for each leading role, who maintain close communication with the current leader.</br></td>
 <td>- Backup steps in and to pick up the slack
-<br>- Other teamembers ease some of the backups old work off and maintain communication with the backup, allowing a smooth transition. </br></td>
+<br>- Other team members ease some of the backups old work off and maintain communication with the backup, allowing a smooth transition. </br></td>
 </tr> 
 
 <tr> 
@@ -42,7 +42,7 @@ http://code.google.com/p/virtual-mechanic/
 <td>- Ensure that everybody documents their work thoroughly.
 <br>- Have back ups for each leading role, who maintain close communication with the current leader.</br></td>
 <td>- Backup steps in  to pick up the slack, if possible keeping the absent member informed of his tasks progress.
-<br>- Other teamembers ease some of the backups old work off and maintain communication with the backup.</br></td>
+<br>- Other team members ease some of the backups old work off and maintain communication with the backup.</br></td>
 </tr>
 
 <tr>
@@ -51,11 +51,11 @@ http://code.google.com/p/virtual-mechanic/
 <td>Medium</td>
 <td>- Start working early in a phase!
 <br>- Many of the optional features may be stripped from the project plan</br></td>
-<td>- Strip away unecissary aspects of the project</td>
+<td>- Strip away unnecessary aspects of the project</td>
 </tr>
 
 <tr>
-<td>Particular member of the team is struggling with thier role</td>
+<td>Particular member of the team is struggling with their role</td>
 <td>Medium</td>
 <td>Medium</td>
 <td>- Ensure that everybody documents their work thoroughly.
@@ -67,7 +67,7 @@ http://code.google.com/p/virtual-mechanic/
 
 <tr>
 <td>Can't find a way to edit code in windows</td>
-<td>Uknown</td>
+<td>Unknown</td>
 <td>Medium</td>
 <td>- Start searching for a method early. </td>
 <td>- Try to install Mac on our machines.
@@ -78,11 +78,11 @@ http://code.google.com/p/virtual-mechanic/
 <td>Team members in disagreement about some aspect of the project</td>
 <td>Low</td>
 <td>Low-Medium</td>
-<td>- Make sure that didtinct leadership roles are assigned, to the correct people.
+<td>- Make sure that distinct leadership roles are assigned, to the correct people.
 <br>- Maintain clear communication with respect to our intentions and idea of the direction of the project as it continues to grow.</br></td>
 <td>Depending on the Nature of the disagreement we shall:
-<br>- Adress the disagreement with a group vote. </br>
-<br>- Or leave the decision to the leader of the relevent section</br></td>
+<br>- Address the disagreement with a group vote. </br>
+<br>- Or leave the decision to the leader of the relevant section</br></td>
 </tr>
 </table>
 
@@ -91,7 +91,7 @@ http://code.google.com/p/virtual-mechanic/
 <table cellpadding="2" border="1"><tr>
 <td width="200">Hardware</td><td width="200">Software (Documentation)</td><td width="200">Software(Development)</td>
 </tr>
-<tr><td>Computer with Osx installed</td><td>MS Project</td><td>Xcode Ide</td>
+<tr><td>Computer with OSX installed</td><td>MS Project</td><td>Xcode Ide</td>
 </tr><tr><td></td><td>MS word</td></tr>
 </table>
 
