@@ -74,7 +74,7 @@ http://code.google.com/p/virtual-mechanic/
 
 <p>Besides the actual coding, the group members will also contribute in:</p>
 
-<table><tr>
+<table cellpadding="2" border="1"><tr>
 <td>Team Member</td>
 <td>Role</td>
 </tr>
