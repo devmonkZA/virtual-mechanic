@@ -121,12 +121,15 @@ This program is not meant to be exclusive, rather, anyone with an iPhone will be
 </tr>
 </table>
 
-==Project schedule==
+==Project Schedule==
 
 http://i34.tinypic.com/bednjk.jpg
 
 ==Project Website==
 http://code.google.com/p/virtual-mechanic/
 
-==Meeting minutes==
+==Meeting Minutes==
 http://code.google.com/p/virtual-mechanic/wiki/MeetingMinutes
+
+==Revision History==
+http://code.google.com/p/virtual-mechanic/updates/list
