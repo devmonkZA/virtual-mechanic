@@ -31,36 +31,23 @@ _Sunday, September 20, 2009, 12:00 @ Lougheed Mall Food Court_
 =Meeting 2=
 _Monday, September 21, 2009, 4:30 @ McKenzie Cafe @ SFU_
 
-- Chien is away sick, everyone else present -
-
+- Chien is away sick, everyone else present - <br>
 - Website is up and running. Thank you Jeff. *5 min*
-   = Student number and Bio need to be added to our site.
-
-- Decided on our team name : Virtual Mechanics *2 min*
-
+   = Student number and Bio need to be added to our site. <br>
+- Decided on our team name : Virtual Mechanics *2 min* <br>
 - Set up a weekly team meeting *3 min*
-   = Mondays at 4:30 until 5:30 in the McKenzie Cafe at SFU
-
-   = Tuesday at 12:30 until 2:30 in CSIL at SFU
-
+   = Mondays at 4:30 until 5:30 in the McKenzie Cafe at SFU <br>
+   = Tuesday at 12:30 until 2:30 in CSIL at SFU <br>
 - Gantt chart needed for project scheduling
-   = Greg volunteered to head this one.
-
+   = Greg volunteered to head this one. <br>
 - Talked about meeting in case of holidays *2 min*
-   = Meeting will be held at Lougheed Mall in this case
-
-- Discussed essential features of our project. *5 min*
-
+   = Meeting will be held at Lougheed Mall in this case <br>
+- Discussed essential features of our project. *5 min* <br>
 - Defined roles for our program *5 min*
-   = Admin
-
-   = User
-
+   = Admin <br>
+   = User <br>
 *Member Tasks*
-   - Look into downloading XCode and MacOS onto PC
-
-   - Marc will transfer Project Proposal to website
-
-   - Review lecture slides
-
-   - Add information to bio section of website
+   - Look into downloading XCode and MacOS onto PC <br>
+   - Marc will transfer Project Proposal to website <br>
+   - Review lecture slides <br>
+   - Add information to bio section of website <br>
