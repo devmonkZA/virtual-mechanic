@@ -15,7 +15,7 @@ http://code.google.com/p/virtual-mechanic/
 
 <p><h3>Risks (A work in progress)</h3><table cellpadding="2" border="1"><blockquote><tr>
 
-<td width="250"><blockquote><b>Risk</b></td> 
+<blockquote><td width="250"><b>Risk</b></td> 
 <td><b>Occurence</b></td> 
 <td><b>Severity</b></td>
 <td width="400"><b>Anticipation</b></td>  
