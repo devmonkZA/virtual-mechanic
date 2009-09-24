@@ -15,7 +15,7 @@ http://code.google.com/p/virtual-mechanic/
 
 ==Project Organization==
 
-<p><h3>Risks</h3></p>
+==Risks==
 
 
 <table cellpadding="2" border="1">
