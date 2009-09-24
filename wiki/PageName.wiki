@@ -3,7 +3,9 @@
 = Introduction =
 
 Log-book creation date : Thursday, Sept.24, 2009 <br>
-Please keep an ongoing log of your updates of the project and website here to keep us all on track.
+Please keep an ongoing log of your updates of the project and website here to keep us all on track. Make sure to post time and date as well for us to track it chronologically.<br>
+Sample log post:<br>
+*MM/DD/YY Time of day* - Information - (Team name) <br>
 
 
 = Details =
