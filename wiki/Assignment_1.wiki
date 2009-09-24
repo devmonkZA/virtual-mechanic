@@ -13,7 +13,7 @@ http://code.google.com/p/virtual-mechanic/
 
 <p><h3>Project Organization</h3></p>
 
-<p><h3>Risks (A work in progress)</h3><table cellpadding="2" border="1"> <blockquote><tr> 
+<p><h3>Risks (A work in progress)</h3><table cellpadding="2" border="1"><tr> 
 
 <blockquote><td width="250"><b>Risk</b></td> 
 <td><b>Occurence</b></td> 
@@ -40,7 +40,7 @@ http://code.google.com/p/virtual-mechanic/
 <br>- Have back ups for each leading role maintain close communication with the current leader.</br></td>
 <td>- Backup steps in  to pick up the slack, if possible keeping the absent member informed as to his tasks progress.
 <br>- Other teamembers ease some of the backups old work off and maintain communication with the backup.</br></td>
-</blockquote></tr></blockquote>
+</blockquote></tr>
 </table>
 
 <p><h3>Hardware and software resource requirements </h3></p>
