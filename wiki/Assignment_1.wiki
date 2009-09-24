@@ -3,8 +3,6 @@
 
 <wiki:toc max_depth="2" />
 
-*Project website:
-http://code.google.com/p/virtual-mechanic/
 
 =Project Plan=
 
@@ -131,3 +129,6 @@ http://code.google.com/p/virtual-mechanic/
 http://i34.tinypic.com/bednjk.jpg
 
 ==Monitoring and reporting mechanisms==
+
+==Project Website==
+http://code.google.com/p/virtual-mechanic/
