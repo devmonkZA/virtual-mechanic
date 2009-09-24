@@ -61,7 +61,7 @@ http://code.google.com/p/virtual-mechanic/
 <td>- Ensure that everybody documents their work thoroughly.
 <br>- Have back ups for each leading role, who maintain close communication with the current leader.</br></td>
 <td>Two cases here:
-<br>- If the struggling member is a leader the backup steps in and the struggling member is swapped with a backup from another section</br>
+<br>- If the struggling member is a leader, the backup assumes the leadership role and the struggling member is swapped with a backup from another (hopefully more comfortable) section</br>
 <br>- If the struggling member is a backup, they are simply swapped with a backup from another section.</br></td>
 </tr>
 
