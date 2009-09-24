@@ -24,7 +24,8 @@ http://code.google.com/p/virtual-mechanic/
 <blockquote><td>Permanent Loss of a team member</td> 
 <td>Low</td> 
 <td>High</td> 
-<td>Quickly reassign and distribute the missing team member&#x27;s tasks to the rest of the group members</td> 
+<td> - Ensure that everybody documents their work thoroughly.
+- Have back ups for each leading role maintain close communication with the current leader. </td> 
 
 </blockquote></tr> 
 <tr> 
