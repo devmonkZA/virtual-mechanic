@@ -51,7 +51,7 @@ http://code.google.com/p/virtual-mechanic/
 <td>Medium</td>
 <td>- Start working early in a phase!
 <br>- Many of the optional features may be stripped from the project plan</br></td>
-<td>- Strip away unecissary aspects of the project <span style="color:red">Need more here</span></td>
+<td>- Strip away unecissary aspects of the project</td>
 </tr>
 </table>
 
