@@ -12,7 +12,7 @@ http://code.google.com/p/virtual-mechanic/
 
 
 
-</p><p><h3>Risks</h3><table cellpadding="2" border="1"> <blockquote><tr> 
+<p><h3>Risks</h3><table cellpadding="2" border="1"> <blockquote><tr> 
 
 <blockquote><td width="250"><b>Risk</b></td> 
 <td><b>Occurence</b></td> 
@@ -20,7 +20,7 @@ http://code.google.com/p/virtual-mechanic/
 <td width="400"><b>Prevention/Solution</b></td> 
 </blockquote></tr> 
 <tr> 
-<blockquote><td>We lose a team member (i.e. dropped course, or died)</td> 
+<blockquote><td>Permanent Loss of a team member</td> 
 <td>Low</td> 
 <td>High</td> 
 <td>Quickly reassign and distribute the missing team member&#x27;s tasks to the rest of the group members</td> 
