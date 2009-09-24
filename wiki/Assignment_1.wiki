@@ -4,9 +4,9 @@
 *Project website:
 http://code.google.com/p/virtual-mechanic/
 
-<p><h1>Project Plan</h1></p>
+=Project Plan=
 
-<wiki:toc max_depth="1" />
+
 
 ==Introduction==
 
