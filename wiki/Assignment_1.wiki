@@ -1,7 +1,7 @@
 #summary Week 1 Assignment - Project website and plan
 #labels assignment_1,website,plan,team_members
 
-<wiki:toc max_depth="1" />
+<wiki:toc max_depth="2" />
 
 *Project website:
 http://code.google.com/p/virtual-mechanic/
