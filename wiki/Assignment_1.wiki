@@ -12,7 +12,7 @@ http://code.google.com/p/virtual-mechanic/
 
 
 
-<p><h3>Risks</h3><table cellpadding="2" border="1"> <blockquote><tr> 
+<p><h3>Risks (A work in progress)</h3><table cellpadding="2" border="1"> <blockquote><tr> 
 
 <blockquote><td width="250"><b>Risk</b></td> 
 <td><b>Occurence</b></td> 
