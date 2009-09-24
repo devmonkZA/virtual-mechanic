@@ -39,7 +39,8 @@ http://code.google.com/p/virtual-mechanic/
 <td>- Ensure that everybody documents their work thoroughly. </td>
 <td>- Backup steps in  to pick up the slack, if possible keeping the absent member informed as to his tasks progress.
 <br>- Other teamembers ease some of the backups old work off and maintain communication with the backup.</br></td>
-
+</blockquote></tr>
+</table>
 
 <p><h3>Hardware and software resource requirements </h3></p>
 
