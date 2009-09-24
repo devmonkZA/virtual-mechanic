@@ -12,9 +12,7 @@ http://code.google.com/p/virtual-mechanic/
 
 
 
-
-</blockquote></tr> 
-</blockquote></table> </p><p><h3>Assumptions</h3> <ol> <li><h4>Users</h4> <ul><li>The user is using an iPhone or an iTouch </li><li>The user listens to music and has music on the device  </li><li>The user is not blind </li></ul></li> </p><p><li><h4>Team Members</h4> <ul><li>The project will be completed on time </li><li>The project will be working properly </li><li>Nobody drops </li><li>Team members attend all meetings and don’t slack off </li><li>Team members will be able to learn enough Objective-C to complete the project </li></ul></li> </p><p></ol> </p><p><h3>Risks</h3> <table cellpadding="2" border="1"> <blockquote><tr> 
+</p><p><h3>Risks</h3><table cellpadding="2" border="1"> <blockquote><tr> 
 
 <blockquote><td width="250"><b>Risk</b></td> 
 <td><b>Occurence</b></td> 
