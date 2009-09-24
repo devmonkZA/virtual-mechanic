@@ -57,7 +57,19 @@ http://code.google.com/p/virtual-mechanic/
 
 <p><h3>Hardware and software resource requirements </h3></p>
 
+<p>Computer with OS X installed (PC or Mac)</p>
+<p>Xcode IDE</p>
+<p>iPhone Apps Developer Account</p>
+
 <p><h3>Work breakdown </h3></p>
+
+<p>Besides the actual coding, the group members will also contribute in:</p>
+<p>Jeffrey: Media, website, documentation</p>
+<p>Marc: Documentation</p>
+<p>Chien: Media, documentation</p>
+<p>Tyler: Code management</p>
+<p>Greg: Website, code management</p>
+
 
 <p><h3>Project schedule </h3></p>
 
