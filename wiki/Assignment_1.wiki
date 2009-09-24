@@ -11,7 +11,7 @@ http://code.google.com/p/virtual-mechanic/
     What we propose to do is create a piece-by-piece walkthrough of a generic PC build. It will feature examination of the different layers and components involved and the capabilities and functions of each. This application will be used on the iPhone platform and programmed using the Objective C programming language.
     This program is not meant to be exclusive, rather, anyone with an iPhone will be able to use it. Users will start off presented with an image of a PC as it would look fully assembled (i.e. A computer tower and monitor). Users may either choose a component to read/ask/write about or 'zoom in' on the computer to the next layer of components. From this point they may zoom further or zoom out to the previous layer. There will be an online function as well where users will be able to leave notes and questions about various parts in a forum-type discussion board. Also, the users needing further information not discussable through text alone will also be able to post small pictures of the component in question to further clarify what they are trying to say.
 
-<p><h3>Project Organization</p></h3>
+<p><h3>Project Organization</h3></p>
 
 <p><h3>Risks (A work in progress)</h3><table cellpadding="2" border="1"> <blockquote><tr> 
 
@@ -41,10 +41,10 @@ http://code.google.com/p/virtual-mechanic/
 <br>- Other teamembers ease some of the backups old work off and maintain communication with the backup.</br></td>
 
 
-<p><h3>Hardware and software resource requirements </p></h3>
+<p><h3>Hardware and software resource requirements </h3></p>
 
-<p><h3>Work breakdown </p></h3>
+<p><h3>Work breakdown </h3></p>
 
-<p><h3>Project schedule </p></h3>
+<p><h3>Project schedule </h3></p>
 
-<p><h3>Monitoring and reporting mechanisms </p></h3>
+<p><h3>Monitoring and reporting mechanisms</h3></p>
