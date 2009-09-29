@@ -23,7 +23,7 @@ _Sunday, September 20, 2009, 12:00 @ Lougheed Mall Food Court_
    = Jeff : Media <br>
    = Marc : Documentation <br>
    = Chien : Programming <br>
-*Member tasks*
+==Member tasks==
    = Every member should write up their own bio. <br>
    = Jeff will set up website. <br>
    = Marc will write up a draft of our Project Plan. <br>
@@ -48,8 +48,40 @@ _Monday, September 21, 2009, 4:30 @ McKenzie Cafe @ SFU_
 - Defined roles for our program *5 min*
    = Admin <br>
    = User <br>
-*Member Tasks*
+==Member Tasks==
    - Look into downloading XCode and MacOS onto PC <br>
    - Marc will transfer Project Proposal to website <br>
    - Review lecture slides <br>
    - Add information to bio section of website <br>
+
+=Meeting 3=
+_Tuesday, September 29, 2009, 12:30 @ Maggie Benston Centre @ SFU_
+
+- Everyone is present - <br>
+- Discussed assignment 2. *30 mins*
+   = Decided that every sub-category of assignment 2 should have its own wiki-page.
+==Requirements Document==
+- Intended audience list will be drawn up in table form by greg.
+   = Columns will be: "kinds of users", "experience", "expertise", and "goals" <br>
+- The features portion of the req. doc. is to be worked on by all team members and is of the highest priority. <br>
+   = Automatic table of contents on a wiki page. <br>
+   = Must be an exhaustive list. <br>
+   = Everyone needs to work on this before Thursday's lecture. <br>
+- Chien will work on the non-functional requirements part of the assignment. <br>
+- Jeff will work on setting up some example tutorials. <br>
+- Marc will work on the glossary for the user manual. <br>
+
+==Design Document==
+- Greg will be taking care of the Guidelines section. <br>
+- Tyler has already started working a little on the System Diagrams section. <br>
+- Data requirements will be left alone for now until we've researched it a little more. <br>
+   = Greg mentioned using MySQL for our Database client. <br>
+- Feature priorities will be assigned after we have completed our "Features" document. <br>
+
+==Qualiity Assurance Plan==
+- Most of this will be discussed in our next meeting. <br>
+- Internal deadlines will be set using both our Gantt chart and a list as a more physical reference. <br>
+
+==Member Tasks==
+- Work on respective assigned tasks for Assignment 2. <br>
+- Contribute to the "Features" wiki page.
