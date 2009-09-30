@@ -56,7 +56,7 @@ Send anonymous usage report to server?
 
 
 
- =*_The whole system will be in a window with navigation menu, with 5 options:_*= 
+ =*_User can navigate between different pages any time from a navigate bar with 5 items:_*= 
 ==1. Select Objects(ex: car, computer)==
 
 == 2. 2D View of the selected object==
