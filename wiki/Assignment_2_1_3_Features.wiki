@@ -1,5 +1,5 @@
-#summary One-sentence summary of this page.
-Automatic Table of Contents, by header:
+#summary Features.
+
 <wiki:toc max_depth="3" />
 
 =Features=
@@ -16,6 +16,9 @@ Pressing and holding on a machine part brings up a dialog that shows the part de
 ==Photo uploading==
 Pressing and holding on a machine part brings up a dialog that shows the part description and other relevant photos. A link in the dialog brings up an option to upload a photo or take a photo and attach it to the part description.
 
+==Zooming==
+Using two fingers to tap and expand on the screen will zoom in to the machine. When looking at photos, the action zooms into/out of photos. 
+
 ==Download new machines==
 A button in the main menu opens up a catalog of machines available for download.
 
@@ -25,14 +28,21 @@ A button in the main menu links to a search page. Here, users can search for a p
 ==Help==
 In every screen, a question-mark button at the bottom right offers help when users are unsure what to do. The question-mark button can be disabled in the settings.
 
+==Program feedback==
+A button in the main menu links to a form that allows users to give feedback on the application. 
+
+==Game mode?==
+Assemble a "broken" machine back together in the shortest time. Record time taken and upload time to an online scoreboard.
+
 ==Settings==
 Help: on/off
 Shake-to-reset: on/off
 OR
 Shake-to-randomize: on/off (mixes up the part positions)
 Background colour: automatic/set color
-
-
+Sound?
+Automatically download new content?
+Send anonymous usage report to server?
 
 =Something=
 ==Something else==
