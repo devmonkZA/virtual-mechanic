@@ -2,13 +2,14 @@
 Automatic Table of Contents, by header:
 <wiki:toc max_depth="3" />
 
-= Introduction =
+=Features=
 
-Add your content here.
+==Something==
+==Something else==
+==Some other thing==
 
 
 = Details =
-
 
 =Heading1=
 
