@@ -6,6 +6,7 @@
 
 ==Disassembly==
 Using their fingers, users can take a machine apart piece by piece, placing the pieces anywhere on the screen.
+And they can drag to zoom specific component they want to look at in detail.
 
 ==Reset==
 A reset button on the screen resets all the pieces back to their original positions. Optionally, the user can shake the device to reset all the pieces. This shake-to-reset feature can be turned off in the settings menu
@@ -40,9 +41,11 @@ Shake-to-reset: on/off
 OR
 Shake-to-randomize: on/off (mixes up the part positions)
 Background colour: automatic/set color
-Sound?
+Sound: there will be sound while user doing action such as dragging a component to somewhere or shake to
+reset.
 Automatically download new content?
 Send anonymous usage report to server?
+
 
 =Something=
 ==Something else==
