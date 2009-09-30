@@ -4,22 +4,42 @@ Automatic Table of Contents, by header:
 
 =Features=
 
-==Something==
+==Disassembly==
+Using their fingers, users can take a machine apart piece by piece, placing the pieces anywhere on the screen.
+
+==Reset==
+A reset button on the screen resets all the pieces back to their original positions. Optionally, the user can shake the device to reset all the pieces. This shake-to-reset feature can be turned off in the settings menu
+
+==Commenting==
+Pressing and holding on a machine part brings up a dialog that shows the part description and other relevant photos. A link in the dialog goes to the part description.
+
+==Photo uploading==
+Pressing and holding on a machine part brings up a dialog that shows the part description and other relevant photos. A link in the dialog brings up an option to upload a photo or take a photo and attach it to the part description.
+
+==Download new machines==
+A button in the main menu opens up a catalog of machines available for download.
+
+==Search==
+A button in the main menu links to a search page. Here, users can search for a part and find part descriptions, comments, photos, etc.
+
+==Help==
+In every screen, a question-mark button at the bottom right offers help when users are unsure what to do. The question-mark button can be disabled in the settings.
+
+==Settings==
+Help: on/off
+Shake-to-reset: on/off
+OR
+Shake-to-randomize: on/off (mixes up the part positions)
+Background colour: automatic/set color
+
+
+
+=Something=
 ==Something else==
-==Some other thing==
+===Some other thing===
 
 
-= Details =
 
-=Heading1=
-
-==Heading2==
-
-===Heading3===
-
-==Heading2==
-
-=Heading1=
 
 
 
