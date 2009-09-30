@@ -1,5 +1,5 @@
 #summary One-sentence summary of this page.
-
+Automatic Table of Contents, by header:
 <wiki:toc max_depth="3" />
 
 = Introduction =
