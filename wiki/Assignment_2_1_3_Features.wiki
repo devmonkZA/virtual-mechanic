@@ -55,7 +55,7 @@ Send anonymous usage report to server?
 
 
 
-
+________________________________________________
  =*_User can navigate between different pages any time from a navigate bar with 5 items:_*= 
 ==1. Select Objects(ex: car, computer)==
 
@@ -68,7 +68,7 @@ Send anonymous usage report to server?
      (help documentation)
 = 5. BUG Post =
      (for users to post Bugs on post board)
-
+__________________________________________________
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
