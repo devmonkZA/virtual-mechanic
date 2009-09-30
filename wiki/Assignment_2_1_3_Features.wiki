@@ -56,13 +56,18 @@ Send anonymous usage report to server?
 
 
 
-* =The whole system will be in a window with navigation menu, with 5 options=: 
-==-Select Objects(ex: car, computer)==
-== -2D View of the selected object(which we can perform drag or click to discuss action==
-==-discussion space==(for user to post comment and picture of current selected component of the object 
+ =*_The whole system will be in a window with navigation menu, with 5 options:_*= 
+==1. Select Objects(ex: car, computer)==
+
+== 2. 2D View of the selected object==
+      (which we can perform drag or click to discuss action
+==3. discussion space==
+     (for user to post comment and picture of current selected component of the object 
     and user can also click one component from the whole image to enter this discussion space 
-== -Help==(help documentation)
-== -BUG Post ==(for users to post Bugs on post board)*
+== 4. Help==
+     (help documentation)
+= 5. BUG Post =
+     (for users to post Bugs on post board)
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
