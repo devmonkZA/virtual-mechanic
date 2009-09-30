@@ -84,5 +84,5 @@ _Tuesday, September 29, 2009, 12:30 @ Maggie Benston Centre @ SFU_
 
 ==Member Tasks==
 - Work on respective assigned tasks for Assignment 2. <br>
-- Greg to update Gantt Chart for assignment 2
+- Greg to update Gantt Chart for assignment 2<br>
 - Contribute to the "Features" wiki page.
