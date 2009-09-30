@@ -1,6 +1,6 @@
 #summary One-sentence summary of this page.
 
-<wiki:toc max_depth="1" />
+<wiki:toc max_depth="3" />
 
 = Introduction =
 
@@ -9,11 +9,17 @@ Add your content here.
 
 = Details =
 
+
 =Heading1=
+
 ==Heading2==
+
 ===Heading3===
+
 ==Heading2==
+
 =Heading1=
+
 
 
 Add your content here.  Format your content with:
