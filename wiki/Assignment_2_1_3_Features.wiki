@@ -5,8 +5,7 @@
 =Features=
 
 ==Disassembly==
-By using their fingers, users can take a machine apart piece by piece. Using a "click-and-drag" interface, users can place the pieces anywhere on the screen. Users can also view the deeper components by dragging the upper images to other place. (<= Needs clarification)
-In addition to viewing the deeper image, users can drag to zoom specific component they want to look at in detail.
+By using their fingers, users can take a machine apart piece by piece. Using a "click-and-drag" interface, users can place the pieces anywhere on the screen. Users can also view the deeper components by dragging the upper images to other place. (<= Needs clarification) <br> In addition to viewing the deeper image, users can drag to zoom specific component they want to look at in detail.
 
 ==Reset==
 A reset button on the screen resets all the pieces back to their original positions. Optionally, the user can shake the device to reset all the pieces. This shake-to-reset feature can be turned off in the settings menu.
