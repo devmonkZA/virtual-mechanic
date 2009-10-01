@@ -5,7 +5,7 @@
 =Features=
 
 ==Disassembly==
-Using their fingers, users can take a machine apart piece by piece, placing the pieces anywhere on the screen.
+By using their fingers, users can take a machine apart piece by piece, placing the pieces anywhere on the screen. Users can also view the deeper components by dragging the upper images to other place. 
 And they can drag to zoom specific component they want to look at in detail.
 
 ==Reset==
