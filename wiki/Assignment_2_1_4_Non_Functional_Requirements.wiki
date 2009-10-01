@@ -2,7 +2,7 @@
 
 = Introduction =
 
-The whole system will be build with objective-c, using iphone SDK
+The whole system will be build with objective-c, using iphone SDK 3.0
 
 
 The size of component images clipped from the main object image(like the door of a car)
