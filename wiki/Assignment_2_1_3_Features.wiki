@@ -23,7 +23,7 @@ Using two fingers to tap and expand on the screen will zoom in to the machine. W
 A button in the main menu opens up a catalog of machines available for download. *(we may not want to implement this one in any of our versions as it would mean we would need more than the one machine to 'take apart')*
 
 ==Search==
-A button in the main menu links to a search page. Here, users can search for a part and find part descriptions, comments, photos, etc.
+A button in the main menu links to a search page. Here, users can type the key word in search engine to search for a part which will show on the screen in Iphone and find part descriptions, comments from others, photos, etc.
 
 ==Help==
 In every screen, a question-mark button at the bottom right offers help when users are unsure what to do. The question-mark button can be disabled in the settings.
