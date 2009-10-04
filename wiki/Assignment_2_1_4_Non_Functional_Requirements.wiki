@@ -16,38 +16,55 @@ will be shown in each of their post in discussion area as identification
 
 = Non-functional Requirements =
 == Product Requirements ==
+Add stuff here
 
 === Usability Requirements ===
+Add stuff here
 
 === Efficiency requirements ===
+add stuff here
 
 ==== Performance Requirements ====
+add stuff here
 
 ==== Space Requirements ====
+add stuff here
 
 === Reliability Requirements ===
+add stuff here
 
 === Portability Requirements ===
+add stuff here
 
 == Organisational Requirements ==
+add stuff here
 
 === Delivery Requirements ===
+add stuff here
 
 === Implementation Requirement ===
+add stuff here
 
 === Standards Requirements ===
+add stuff here
 
 == External Requirements ==
+add stuff here
 
 === Interoperability Requirements ===
+add stuff here
 
 === Ethical Requirements ===
+add stuff here
 
 === Legislative Requirements ===
+add stuff here
 
 ==== Privacy Requirements ====
+add stuff here
 
 ==== Safety Requirements ====
+add stuff here
 
 
 
