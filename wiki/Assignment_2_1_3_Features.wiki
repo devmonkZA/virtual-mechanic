@@ -17,7 +17,7 @@ Pressing and holding on a machine part brings up a dialog that shows the part's 
 Pressing and holding on a machine part brings up a dialog that shows the part's description and other relevant photos. A link in the dialog brings up an option to upload a photo or take a photo and attach it to the part description.
 
 ==Zooming==
-Using two fingers to tap and expand on the screen will zoom in to the machine. When looking at photos, the action zooms into/out of photos. 
+Using two fingers to tap and expand on the screen will zoom in to the machine. To be more precisely, the screen will start zooming in from the place where the two fingers tapped at beginning. So the users can decide where to zoom in. When looking at photos, the action zooms into/out of photos. 
 
 ==Download new machines==
 A button in the main menu opens up a catalog of machines available for download. *(we may not want to implement this one in any of our versions as it would mean we would need more than the one machine to 'take apart')*
