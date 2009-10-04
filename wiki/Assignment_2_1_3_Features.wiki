@@ -8,7 +8,7 @@
 By using their fingers, users can take a machine, apart piece by piece. Using a "click-and-drag" interface, users can place the pieces anywhere they wish on the screen. Since the machine is build by many overlapping images, Users can view the deeper components by dragging the upper images to other place. *(<= Needs clarification)* <br> In addition to viewing the deeper image, users can drag to zoom specific component they want to look at in detail.
 
 ==Reset==
-A reset button on the screen resets all the pieces back to their original positions. Optionally, the user can shake the device to reset all the pieces. This shake-to-reset feature can be turned off in the settings menu.
+A reset button on the screen resets all the pieces back to their original positions. However, the comments that user entered before will not be deleted by pressing the reset button. Optionally, the user can shake the device to reset all the pieces. This shake-to-reset feature can be turned off in the settings menu.
 
 ==Commenting==
 Pressing and holding on a machine part brings up a dialog that shows the part's description and other relevant photos. A link in the dialog goes to the part's description.
