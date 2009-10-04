@@ -12,8 +12,45 @@ The only thing an user account information would contain should be: username, pa
 will be shown in each of their post in discussion area as identification
 
 
-= Details =
+= Non-functional Requirements =
+== Product Requirements ==
 
+=== Usability Requirements ===
+
+=== Efficiency requirements ===
+
+==== Performance Requirements ====
+
+==== Space Requirements ====
+
+=== Reliability Requirements ===
+
+=== Portability Requirements ===
+
+== Organisational Requirements ==
+
+=== Delivery Requirements ===
+
+=== Implementation Requirement ===
+
+=== Standards Requirements ===
+
+== External Requirements ==
+
+=== Interoperability Requirements ===
+
+=== Ethical Requirements ===
+
+=== Legislative Requirements ===
+
+==== Privacy Requirements ====
+
+==== Safety Requirements ====
+
+
+
+
+== Intero
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
