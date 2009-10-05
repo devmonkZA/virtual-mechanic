@@ -16,14 +16,13 @@ Allows the user to download new machines from the server
 A button in the main menu opens up a catalog of machines available for download. *(we may not want to implement this one in any of our versions as it would mean we would need more than the one machine to 'take apart')*
 
 ===Settings===
-Help: on/off
-Shake-to-reset: on/off
-OR
-Shake-to-randomize: on/off (mixes up the part positions)
-Background colour: automatic/set color  <----(Can we get a color wheel for this or can we only offer finitely many colors?)
-Sound: there will be sound while user doing action such as dragging a component to somewhere or shake to
-reset.
-Automatically download new content?http://code.google.com/p/virtual-mechanic/w/edit/Assignment_2_1_3_Features
+Help: on/off<br>
+Shake-to-reset: on/off<br>
+OR<br>
+Shake-to-randomize: on/off (mixes up the part positions)<br>
+Background colour: automatic/set color  <----(Can we get a color wheel for this or can we only offer finitely many colors?)<br>
+Sound: there will be sound while user doing action such as dragging a component to somewhere or shake to reset. <br>
+Automatically download new content?http://code.google.com/p/virtual-mechanic/w/edit/Assignment_2_1_3_Features <br>
 Send anonymous usage report to server?
 
 ===Program feedback===
