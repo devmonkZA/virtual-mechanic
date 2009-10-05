@@ -2,12 +2,6 @@
 
 = Introduction =
 
-Add your content here.
-
+The "Virtual Mechanic" app for iPhone/iTouch is a teaching tool that allows users to learn about how things work by virtually dissect machines on a touchscreen. When presented with a machine, users can click and drag components around on the screen so that it feels like the user is dismantling the machine. For each component, users can find out what it does from reading the comments. The user can also contribute by taking and posting relevant photos and comments. For each machine, the user essentially sees a group of components represented by layered images that can be selected and dragged about to possibly reveal other components (images) below them.
 
 = Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
