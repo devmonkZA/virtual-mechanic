@@ -64,7 +64,7 @@ add stuff here
 While users editing their comments on images in this application, if users do not upload their comments on the server, others cannot access to users' Iphone and see the comments. Moreover, the application will not upload any users' information without users' permission. 
 
 ==== Safety Requirements ====
-add stuff here
+While using this application, please do not drop, disassemble, open, crush iPhone.
 
 
 
