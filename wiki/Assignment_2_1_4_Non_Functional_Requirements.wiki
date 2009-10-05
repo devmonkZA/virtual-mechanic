@@ -33,7 +33,7 @@ This Iphone application must be 100% efficient when Iphone has power. If the pow
 While tapping on any one peace, the comment, or description should show on the screen no more than 2 seconds, otherwise this may make user spending too much time analyzing the whole machine. Dragging peace and zooming in the image should perform immediately after users giving the order.
 
 ==== Space Requirements ====
-The machine should fit the whole screen on Iphone when the program just started or when users press reset. After zooming in, the images do not have to fit the screen anymore. In the memory part, the sum of total images' size should not exceed 10Mb*<Need to be changed>*. 
+The machine should fit the whole screen on Iphone when the program just started or when users press reset. After zooming in, the images do not have to fit the screen anymore. In the memory part, the sum of total images' size should not exceed 10Mb*<Need to be classified>*. 
 
 === Reliability Requirements ===
 add stuff here
