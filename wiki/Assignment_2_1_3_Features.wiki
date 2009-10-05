@@ -28,6 +28,7 @@ Send anonymous usage report to server?
 A button in the main menu links to a form that allows users to give feedback on the application. 
 
 -------------------------------------------------------------------
+===Learning about the device===
 ==The Control Bar==
 The control bar is present whenever the user is viewing a device.  It is displayed at the bottom of the screen and contains 5 buttons:
 ===Reset===
