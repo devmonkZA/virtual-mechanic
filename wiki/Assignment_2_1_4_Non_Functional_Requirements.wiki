@@ -15,6 +15,7 @@ will be shown in each of their post in discussion area as identification
 
 
 = Non-functional Requirements =
+----
 == Product Requirements ==
 Add stuff here
 
@@ -36,7 +37,7 @@ add stuff here
 
 === Portability Requirements ===
 add stuff here
-
+----
 == Organisational Requirements ==
 add stuff here
 
@@ -48,7 +49,7 @@ add stuff here
 
 === Standards Requirements ===
 add stuff here
-
+----
 == External Requirements ==
 add stuff here
 
