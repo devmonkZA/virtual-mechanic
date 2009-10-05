@@ -12,7 +12,7 @@ Machine: A composition of images of different parts of a machine, placed on top 
 The main menu shall show the logo, and name of the product, as well as 5 buttons at the bottom of the screen, which offer the following options:
 
 ===Load Machine===
-Allows the user to load a machine which is saved onto the device (excluding comments on parts and the machine itself)
+Allows the user to load a *machine* which is saved onto the device (excluding comments on *parts* and the machine itself)
 
 ===Download new Machines===
 Allows the user to download new machines from the server
@@ -25,7 +25,7 @@ Shake-to-reset: on/off<br>
 OR<br>
 Shake-to-randomize: on/off (mixes up the part positions)<br>
 Background colour: automatic/set color  <----(Can we get a color wheel for this or can we only offer finitely many colors?)<br>
-Sound: there will be sound while user doing action such as dragging a component to somewhere or shake to reset. <br>
+Sound: there will be sound while user doing action such as dragging a *component* to somewhere or shake to reset. <br>
 Automatically download new content?http://code.google.com/p/virtual-mechanic/w/edit/Assignment_2_1_3_Features <br>
 Send anonymous usage report to server?
 
@@ -50,7 +50,7 @@ If no part is selected it brings up the comment window for the machine.
 If the comment window is already open it closes the comment window (returning the machine view)
 
 ====Photo uploading/Viewing====
-The Photo button brings up the photo window for the currently selected part.  If no part is selected then it brings up a photo window for the machine.
+The *Photo* button brings up the photo window for the currently selected part.  If no part is selected then it brings up a photo window for the machine.
 
 ====Help====
 The Help button brings up the help window
@@ -61,9 +61,10 @@ Returns the user to the main menu
 ===The Machine view===
 The Machine view is the screen where the user may view and interact with the machine.
 ====Disassembly====
-By using their fingers, users can take a machine, apart piece by piece. Using a "click-and-drag" interface, users can place the pieces anywhere they wish on the screen. Since the machine is build by many overlapping images, Users can view the deeper components by dragging the upper images to other place. *(<= Needs clarification)* <br> In addition to viewing the deeper image, users can drag to zoom specific component they want to look at in detail.
+By using their fingers, users can take a machine, apart piece by piece. Using a "click-and-drag" interface, users can place the pieces anywhere they wish on the screen. Since the machine is built with many overlapping images, users can view the deeper components by dragging the upper images to other places on the screen.  <br> 
+In addition to viewing the deeper image, users can drag to zoom to a specific component they want to look at in detail.
 
-To select a part: The user taps the layer with their finger.  The name of the part is displayed at the top of the screen to show that the correct part has been selected.
+To select a part: The user taps the *layer* with their finger.  The name of the part is displayed at the top of the screen to show that the correct part has been selected.
 
 To deselect a part:  The user may tap empty space.
 
