@@ -3,6 +3,42 @@
 <wiki:toc max_depth="3" />
 
 =Features=
+==Main Menu==
+===Load Macine===
+Allow the user to load a machine which is saved onto the device (excluding comments)
+
+===Download new Machines===
+Allows the user to download new machines from the server
+
+===Settings===
+Help: on/off
+Shake-to-reset: on/off
+OR
+Shake-to-randomize: on/off (mixes up the part positions)
+Background colour: automatic/set color
+Sound: there will be sound while user doing action such as dragging a component to somewhere or shake to
+reset.
+Automatically download new content?http://code.google.com/p/virtual-mechanic/w/edit/Assignment_2_1_3_Features
+Send anonymous usage report to server?
+
+
+==The Control Bar==
+The control bar is present whenever the user is viewing a device.  It is displayed at the bottom of the screen and contains 5 buttons:
+===Reset===
+The reset button returns all the parts of the device to thier default location
+
+===Commenting===
+The commenting button allows users bring up the comment window for the currently selected part.  If no part is selected it brings up the comment window for the device.
+
+===Photo uploading/Viewing===
+The Photo button brings up the photo window for the currently selected part.  If no part is selected then it brings up a photo window for the device.
+
+===Help===
+The Help button brins up the help window
+
+===Main Menu===
+Returns the user to the main menu
+
 
 ==Disassembly==
 By using their fingers, users can take a machine, apart piece by piece. Using a "click-and-drag" interface, users can place the pieces anywhere they wish on the screen. Since the machine is build by many overlapping images, Users can view the deeper components by dragging the upper images to other place. *(<= Needs clarification)* <br> In addition to viewing the deeper image, users can drag to zoom specific component they want to look at in detail.
@@ -13,14 +49,8 @@ To deselect a part:  The user may tap empty space.
 
 To move a part:  Once the part is selected the user may press and hold their finger over the layer and then drag the layer to the desired location.
 
-==Reset==
-A reset button at the bottom of the screen resets all the pieces back to their original positions. However, the comments that user entered before will not be deleted by pressing the reset button. Optionally, the user can shake the device to reset all the pieces. This shake-to-reset feature can be turned off in the settings menu.
 
-==Commenting==
-Pressing and holding on a machine part brings up a dialog that shows the part's description and other relevant photos. A link in the dialog goes to the part's description.
 
-==Photo uploading==
-Pressing and holding on a machine part brings up a dialog that shows the part's description and other relevant photos. A link in the dialog brings up an option to upload a photo or take a photo and attach it to the part description.
 
 ==Zooming==
 Using two fingers to tap and expand on the screen will zoom in to the machine. To be more precisely, the screen will start zooming in from the place where the two fingers tapped at beginning. So the users can decide where to zoom in. When looking at photos, the action zooms into/out of photos. 
@@ -31,8 +61,7 @@ A button in the main menu opens up a catalog of machines available for download.
 ==Search==
 A button in the main menu links to a search page. Here, users can type the key word in search engine to search for a part which will show on the screen in Iphone and find part descriptions, comments from others, photos, etc.
 
-==Help==
-In every screen, a question-mark button at the bottom right offers help when users are unsure what to do. The question-mark button can be disabled in the settings.
+
 
 ==Program feedback==
 A button in the main menu links to a form that allows users to give feedback on the application. 
@@ -40,16 +69,7 @@ A button in the main menu links to a form that allows users to give feedback on 
 ==Game mode?==
 Assemble a "broken" machine back together in the shortest time. Record time taken and upload time to an online scoreboard.
 
-==Settings==
-Help: on/off
-Shake-to-reset: on/off
-OR
-Shake-to-randomize: on/off (mixes up the part positions)
-Background colour: automatic/set color
-Sound: there will be sound while user doing action such as dragging a component to somewhere or shake to
-reset.
-Automatically download new content?http://code.google.com/p/virtual-mechanic/w/edit/Assignment_2_1_3_Features
-Send anonymous usage report to server?
+
 
 
 -----------------------------
