@@ -3,10 +3,12 @@
 <wiki:toc max_depth="3" />
 
 =Features=
----------------------------------------------------------------------
+-------------------------------------------------------------------
 ==Main Menu==
+The main menu shall show the logo, and name of the product, as well as 5 buttons at the bottom of the screen, which offer the following options:
+
 ===Load Macine===
-Allow the user to load a machine which is saved onto the device (excluding comments)
+Allows the user to load a machine which is saved onto the device (excluding comments on parts and the device itself)
 
 ===Download new Machines===
 Allows the user to download new machines from the server
@@ -18,14 +20,17 @@ Help: on/off
 Shake-to-reset: on/off
 OR
 Shake-to-randomize: on/off (mixes up the part positions)
-Background colour: automatic/set color
+Background colour: automatic/set color  <----(Can we get a color wheel for this or can we only offer finitely many colors?)
 Sound: there will be sound while user doing action such as dragging a component to somewhere or shake to
 reset.
 Automatically download new content?http://code.google.com/p/virtual-mechanic/w/edit/Assignment_2_1_3_Features
 Send anonymous usage report to server?
 
 ===Program feedback===
-A button in the main menu links to a form that allows users to give feedback on the application. 
+A button in the main menu links to a form that allows users to give feedback on the application.
+
+====Help===
+The Help button brings up the help window
 
 -------------------------------------------------------------------
 ==Learning about the device==
