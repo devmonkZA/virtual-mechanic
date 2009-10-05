@@ -21,9 +21,10 @@ Add stuff here
 
 === Usability Requirements ===
 
-* User with Iphone experience, in the first attempt, they must be able to know how to analyze the machine within an average of 2 minutes. Users also must be able to comment on the machine within an average of 4 minutes.
+User with Iphone experience, in the first attempt, they must be able to know how to analyze the machine within an average of 2 minutes. Users also must be able to comment on the machine within an average of 4 minutes.
 
-* User without Iphone experience, in the first attempt, they must be able to know how to analyze the machine within an average of 10 minutes. Users also must be able to comment on the machine within an average of 20 minutes.
+
+User without Iphone experience, in the first attempt, they must be able to know how to analyze the machine within an average of 10 minutes. Users also must be able to comment on the machine within an average of 20 minutes.
 
 === Efficiency requirements ===
 add stuff here
