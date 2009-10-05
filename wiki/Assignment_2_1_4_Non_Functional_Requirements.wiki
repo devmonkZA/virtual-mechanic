@@ -20,8 +20,8 @@ will be shown in each of their post in discussion area as identification
 Add stuff here
 
 === Usability Requirements ===
-1.User with Iphone experience, in the first attempt, they must be able to know how to analyze the machine within an average of 2 minutes. Users also must be able to comment on the machine within an average of 4 minutes.
-2.User without Iphone experience, in the first attempt, they must be able to know how to analyze the machine within an average of 10 minutes. Users also must be able to comment on the machine within an average of 20 minutes.
+*1.User with Iphone experience, in the first attempt, they must be able to know how to analyze the machine within an average of 2 minutes. Users also must be able to comment on the machine within an average of 4 minutes.
+*2.User without Iphone experience, in the first attempt, they must be able to know how to analyze the machine within an average of 10 minutes. Users also must be able to comment on the machine within an average of 20 minutes.
 
 === Efficiency requirements ===
 add stuff here
