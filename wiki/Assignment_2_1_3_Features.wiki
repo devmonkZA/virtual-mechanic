@@ -4,7 +4,7 @@
 
 First Some terms (these shall be moved to the Glossary later)
 
-Machine: 
+Machine: A composition of images of different parts of a machine, placed on top of each other to recreate the machine as viewed from some angle.  As well as a collection of comments associated with the parts and with the machine itself.
 
 =Features=
 -------------------------------------------------------------------
@@ -47,7 +47,7 @@ The commenting button allows users bring up the comment window for the currently
 
 If no part is selected it brings up the comment window for the machine.
 
-If the comment window is already open it closes the comment window (returning the view of the device)
+If the comment window is already open it closes the comment window (returning the machine view)
 
 ====Photo uploading/Viewing====
 The Photo button brings up the photo window for the currently selected part.  If no part is selected then it brings up a photo window for the machine.
@@ -58,7 +58,8 @@ The Help button brings up the help window
 ====Main Menu====
 Returns the user to the main menu
 -------------------------------------------------------------------
-===Manipulating the Device===
+===The Machine view===
+The Machine view is the screen where the user may view and interact with the machine.
 ====Disassembly====
 By using their fingers, users can take a machine, apart piece by piece. Using a "click-and-drag" interface, users can place the pieces anywhere they wish on the screen. Since the machine is build by many overlapping images, Users can view the deeper components by dragging the upper images to other place. *(<= Needs clarification)* <br> In addition to viewing the deeper image, users can drag to zoom specific component they want to look at in detail.
 
