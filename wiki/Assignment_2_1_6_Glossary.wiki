@@ -1,4 +1,5 @@
-
+----
+=Glossary=
 
 Layered Image: A composition of images of different parts of a mechanical object, placed on top of each other to recreate the mechanical object as viewed from some angle.
 
