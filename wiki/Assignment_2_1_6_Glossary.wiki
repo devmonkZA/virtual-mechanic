@@ -5,5 +5,10 @@ Layered Image: A composition of images of different parts of a mechanical object
 
 Layer: Each part of the mechanical device constitutes a Layer.  Even if 2 parts are not overlapping they are on seperate layers.
 
+Machine: A composition of images of different parts of a machine, placed on top of each other to recreate the machine as viewed from some angle. As well as a collection of comments associated with the parts and with the machine itself.
+
+Part/Component: An image of a single section of a machine.
+
+Photo: A user-uploaded picture file of a part or machine.
 
 ----
