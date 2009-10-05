@@ -39,7 +39,9 @@ The machine should fit the whole screen on Iphone when the program just started 
 While running this application, the system will not crush if users follows the safety requirements. If users cannot put the images into original position, pressing reset button will solve this problem.  
 
 === Portability Requirements ===
-add stuff here
+The average time needed to port the application from Mac OSX Operation System to Iphone must not exceeds 1 minutes.
+
+Porting the application from Mac OSX to Iphone must not require modifying more than 0.5% of the modules.
 ----
 == Organisational Requirements ==
 add stuff here
