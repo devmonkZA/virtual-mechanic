@@ -3,6 +3,7 @@
 <wiki:toc max_depth="3" />
 
 =Features=
+----
 ==Main Menu==
 ===Load Macine===
 Allow the user to load a machine which is saved onto the device (excluding comments)
@@ -20,8 +21,7 @@ Sound: there will be sound while user doing action such as dragging a component 
 reset.
 Automatically download new content?http://code.google.com/p/virtual-mechanic/w/edit/Assignment_2_1_3_Features
 Send anonymous usage report to server?
-
-
+----
 ==The Control Bar==
 The control bar is present whenever the user is viewing a device.  It is displayed at the bottom of the screen and contains 5 buttons:
 ===Reset===
@@ -38,8 +38,7 @@ The Help button brins up the help window
 
 ===Main Menu===
 Returns the user to the main menu
-
-
+----
 ==Disassembly==
 By using their fingers, users can take a machine, apart piece by piece. Using a "click-and-drag" interface, users can place the pieces anywhere they wish on the screen. Since the machine is build by many overlapping images, Users can view the deeper components by dragging the upper images to other place. *(<= Needs clarification)* <br> In addition to viewing the deeper image, users can drag to zoom specific component they want to look at in detail.
 
