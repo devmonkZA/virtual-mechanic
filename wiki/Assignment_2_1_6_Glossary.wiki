@@ -4,3 +4,6 @@
 Layered Image: A composition of images of different parts of a mechanical object, placed on top of each other to recreate the mechanical object as viewed from some angle.
 
 Layer: Each part of the mechanical device constitutes a Layer.  Even if 2 parts are not overlapping they are on seperate layers.
+
+
+----
