@@ -17,7 +17,7 @@ Allows the user to load a *machine* which is saved onto the device (excluding co
 ===Download new Machines===
 Allows the user to download new machines from the server
 
-A button in the main menu opens up a catalog of machines available for download. *(we may not want to implement this one in any of our versions as it would mean we would need more than the one machine to 'take apart')*
+A button in the main menu opens up a catalog of machines available for download.
 
 ===Settings===
 Help: on/off<br>
@@ -82,6 +82,3 @@ The option to post a rely will be given after the last post on that part, by a b
 -------------------------------------------------------------------
 ==Search==
 A button in the main menu links to a search page. Here, users can type the key word in search engine to search for a part which will show on the screen in Iphone and find part descriptions, comments from others, photos, etc.
-
-==Game mode?==
-Assemble a "broken" machine back together in the shortest time. Record time taken and upload time to an online scoreboard. <-- (I think this is outside of the scope of the project and would be too much work for what it brings to the table (Greg))
