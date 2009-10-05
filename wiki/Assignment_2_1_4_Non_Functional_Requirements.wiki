@@ -50,7 +50,6 @@ add stuff here
 add stuff here
 
 === Implementation Requirement ===
-add stuff here
 The software will be developed using XCode, Interface Builder.
 Programming language is Objective-C.
 Operating system is Mac OS.
@@ -61,13 +60,11 @@ The feature online user interactive will be based on an FTP server.
 add stuff here
 ----
 == External Requirements ==
-add stuff here
 User accounts will be recorded in an FTP server 
 === Interoperability Requirements ===
 add stuff here
 
 === Ethical Requirements ===
-add stuff here
 No feature of the software will request user make any kind of payment(except for geting
 this software).
 
