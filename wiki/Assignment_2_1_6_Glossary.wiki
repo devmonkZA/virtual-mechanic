@@ -1,13 +1,5 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-Add your content here.
 
 
-= Details =
+Layered Image: A composition of images of different parts of a mechanical object, placed on top of each other to recreate the mechanical object as viewed from some angle.
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Layer: Each part of the mechanical device constitutes a Layer.  Even if 2 parts are not overlapping they are on seperate layers.
