@@ -28,26 +28,26 @@ Send anonymous usage report to server?
 A button in the main menu links to a form that allows users to give feedback on the application. 
 
 -------------------------------------------------------------------
-===Learning about the device===
-==The Control Bar==
+==Learning about the device==
+===The Control Bar===
 The control bar is present whenever the user is viewing a device.  It is displayed at the bottom of the screen and contains 5 buttons:
-===Reset===
+====Reset====
 The reset button returns all the parts of the device to thier default location
 
-===Commenting===
+====Commenting====
 The commenting button allows users bring up the comment window for the currently selected part.  If no part is selected it brings up the comment window for the device.
 
-===Photo uploading/Viewing===
+====Photo uploading/Viewing====
 The Photo button brings up the photo window for the currently selected part.  If no part is selected then it brings up a photo window for the device.
 
-===Help===
+====Help====
 The Help button brings up the help window
 
-===Main Menu===
+====Main Menu====
 Returns the user to the main menu
 -------------------------------------------------------------------
-==Manipulating the Device==
-===Disassembly===
+===Manipulating the Device===
+====Disassembly====
 By using their fingers, users can take a machine, apart piece by piece. Using a "click-and-drag" interface, users can place the pieces anywhere they wish on the screen. Since the machine is build by many overlapping images, Users can view the deeper components by dragging the upper images to other place. *(<= Needs clarification)* <br> In addition to viewing the deeper image, users can drag to zoom specific component they want to look at in detail.
 
 To select a part: The user taps the layer with their finger.  The name of the part is displayed at the top of the screen to show that the correct part has been selected.
@@ -56,7 +56,7 @@ To deselect a part:  The user may tap empty space.
 
 To move a part:  Once the part is selected the user may press and hold their finger over the layer and then drag the layer to the desired location.
 
-===Zooming===
+====Zooming====
 Using two fingers to tap and expand on the screen will zoom in to the machine. To be more precisely, the screen will start zooming in from the place where the two fingers tapped at beginning. So the users can decide where to zoom in. When looking at photos, the action zooms into/out of photos. 
 
 ==Search==
