@@ -47,7 +47,7 @@ Porting the application from Mac OSX to Iphone must not require modifying more t
 add stuff here
 
 === Delivery Requirements ===
-add stuff here
+This application requires the application(h file, m file,etc),and all the data including the images of the machine must be delivered into Iphone. 
 
 === Implementation Requirement ===
 The software will be developed using XCode, Interface Builder.
