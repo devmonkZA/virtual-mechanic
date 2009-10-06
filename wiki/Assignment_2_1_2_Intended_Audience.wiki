@@ -1,13 +1,19 @@
-#summary One-sentence summary of this page.
+=Intended Audience List=
 
-= Introduction =
+==Groups==
+The application is quite general and may apply to almost any sort of mechanical device one can imagine: Computers, cars, boats, clocks, etc etc.  The user groups are expected to have particular interest in performing their learning in a social setting, and are not expected to have a lot of experience with the Iphone or computers.  The groups may be categorized as follows:
 
-Add your content here.
+- Students learning about mechanical devices
+- People working in the field maintaining mechanical devices
+- People interested in developing mechanical devices
+- People who enjoy learning about mechanical devices for their hobby
+
+==User Requirements==
+
+- The application is completely visual and thus the users must be able to see
+- The users must have access to and Iphone
+- In order to view comments, or download new content the user must have access to the internet
+- Because the application is so heavily text based the user should also be able to understand English
 
 
-= Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
