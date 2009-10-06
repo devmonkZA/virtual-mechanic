@@ -6,7 +6,7 @@ First Some terms (these shall be moved to the Glossary later)
 
 Machine: A composition of images of different parts of a machine, placed on top of each other to recreate the machine as viewed from some angle.  As well as a collection of comments associated with the parts and with the machine itself.
 
-Machine View: Is the view
+Machine View: Is the view of the Machine where one may disassemble it, and select different parts.
 
 =Features=
 -------------------------------------------------------------------
@@ -50,7 +50,7 @@ If no part is selected it brings up the comment window for the machine.
 
 If the comment window is already open it closes the comment window (returning the machine view)
 
-====Photo uploading/Viewing Button====
+====Photo Button====
 The *Photo* button brings up the photo window for the currently selected part.  If no part is selected then it brings up a photo window for the machine.
 
 ====Help Button====
@@ -78,18 +78,18 @@ The help button on this screen brings up a help window which describes the Machi
 ===The Comments page===  
 The comments page replaces the view of the machine leaving visible the control bar and the name of the part at the top of the screen.  The comments page will display 10 comments per page, with the option to skip pages at the foot of each page.  Each Comment will contain the following information:  Posters name, heading, and the comment itself.  The first comment will be stored inside the Ipod and will be a basic description given by the Machines creator.  The rest shall be loaded from the server and displayed in the format described above, or if no connection to the server may be achieved a single post shall be added which contains only the comment: Could not connect to server.
 ====Close Comments====
-The user will be able to close the comments page by clicking an X in the top right hand corner.
-====Post Reply====
-The option to post a rely will be given after the last post on that part, by a buttton "reply" to the left of the current page indicator.
+The user will be able to close the comments page by again clicking the Comments button.
+====Post Reply Button====
+The option to post a rely will be given after the last post on that part, by the post reply button centered below the last post.
 ====Help Button====
 The help button on this screen brings up a help window which describes the comments page and all functions available to the user here.
 -------------------------------------------------------------------
 ===The Photo page===  
-The photo page replaces the view of the machine leaving visible the control bar and the name of the part at the top of the screen.  The photo page will display a list of entries separated by horizontal rules each containing: A picture, a user name, a date, and a comment.
+The photo page replaces the view of the machine leaving visible the control bar and the name of the part at the top of the screen.  The photo page will display a list of entries separated by horizontal rules each containing: A picture, a user name, a date, and a comment.  All of the photo entries shall be loaded from the server and if no connection to the server may be achieved then a single entry shall be displayed on the page containing a comment stating: Could not connect to server
 ====Close Photos====
-The user will be able to close the photo page by again clicking the photo button on the control bar.
-====Post Reply====
-The option to post a rely will be given after the last post on that part, by a buttton "reply" to the left of the current page indicator.
+The user will be able to close the comments page by again clicking the Photo button.
+====Post Reply Button====
+The option to post a rely will be given after the last post on that part, the post reply button centered after the last post.
 ====Help Button====
 The help button on this screen brings up a help window which describes the Photo page, and all functions available to the user here.
 -------------------------------------------------------------------
