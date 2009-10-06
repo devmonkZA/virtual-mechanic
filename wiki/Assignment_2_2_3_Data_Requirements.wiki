@@ -2,7 +2,43 @@
 
 = Introduction =
 
-Add your content here.
+The files of in-development project will be generally 
+1:  .xcodeproject file which can directly launch XCode 
+with the current project development window, which is convenient for delivering incompleted project file 
+among team to open the project;   
+2:  .h files which are header files of the classes;   
+3:  .m files which are implementation of classes;
+4:   .plist files which contain configuration information of the project;
+5:   .xib files which are actually  user interface files based on Interface Builder;
+
+Images will be used to describe different components and layers of the machines for user to explore. 
+Type of all Images will be GIF. And all images will be stored in Image folder under project folder.  
+
+Audio files will be stored in Sound folder under project folder.
+
+
+The generated file extension will be .ss (SoundScape)
+The file is used to store information regarding an audio file such as the pitch and volume
+The file also stores the physical directory of the file
+The data is stored as a complex matrix serialized as a text file
+It is important to note that when audio files are “imported”, the physical directories of the files do not change.
+
+------------------------------------------
+
+
+I/O requeirements:  
+
+
+Before the page of machine assembly view:
+
+touching on the general navigation bar items will activate normal events: switch between pages or post, download things(Available pages: start page, select machine page, help page, post bug page, discussion page and machine build view page, etc). 
+ 
+During machine assembly view display:
+
+ user can touch any component of the machine to high light this component.
+Using two fingers to drag the screen will zoom in or zoom out the image of the machine(or component of the machine).Also, zooming in and out using two fingers can control the transparent of the current top layer of the build of the machine. User can drag any component of the machine to see the inner components under this component.  
+
+
 
 
 = Details =
