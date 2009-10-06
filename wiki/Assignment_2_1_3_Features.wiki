@@ -14,7 +14,7 @@ Machine View: Is the view of the Machine where one may disassemble it, and selec
   * [http://code.google.com/p/virtual-mechanic/wiki/Assignment_2_1_3_Features#View_machines View Machines]
 
 ==View machines==
-==Drag and drop (disassemble)==
+==Drag and drop (disassemble machines)==
 ==Download new machines==
 ==Commenting==
 ==Photo posting==
