@@ -8,6 +8,18 @@ Machine: A composition of images of different parts of a machine, placed on top 
 
 Machine View: Is the view of the Machine where one may disassemble it, and select different parts.
 
+
+=Features=
+
+==View machines==
+==Drag and drop (disassemble)==
+==Download new machines==
+==Commenting==
+==Photo posting==
+==Layered images==
+==Help/Instructions==
+
+
 =Features=
 -------------------------------------------------------------------
 ==Main Menu==
