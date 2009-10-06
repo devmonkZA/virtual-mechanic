@@ -1,0 +1,26 @@
+=The Machine View=
+==The Interface==
+===The Title Bar===
+The title bar is found at the very top of the screen and contains:
+
+[Image?]
+
+-To the far left the option to go back to the previous page  [Button image?]
+-In the center the name of the current object selected, if no object is selected it will display the name of the Machine.   
+-To the right is give the option to access this help page <--- (Is this necissary? I think it is often in help documents)  [Image]
+
+===The Control Bar===
+The control bar is displayed at the very bottom of the page and contains 3 Buttons:
+
+[Image]
+
+-The Comments button will open up the [comments window] <--(link to comments window help) [Button image]
+-The Photo button will open up the [photo window] <-- link [Button image]
+-*Not quite sure yet here*
+
+==The Canvas==
+The canvas is the screen on which the machine is displayed.  It is here that you may dissasemble the Machine on the canvas one may perform 3 actions.
+
+-To select a part simply tap the part that you wish to select and its name will be displayed at the top of the screen.
+-To move a part, first select it, and then click and hold the part, add drag the part to where you wish to place it.
+-To zoom in and [Gonna copy instructions in here]
