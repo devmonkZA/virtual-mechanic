@@ -11,7 +11,7 @@ Machine View: Is the view of the Machine where one may disassemble it, and selec
 
 =Features=
 
-[Assignment_2_1_3_Features#View machines]
+Assignment_2_1_3_Features#View machine
 
 ==View machines==
 ==Drag and drop (disassemble)==
