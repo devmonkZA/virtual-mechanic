@@ -13,7 +13,7 @@ Machine View: Is the view of the Machine where one may disassemble it, and selec
 
   * [http://code.google.com/p/virtual-mechanic/wiki/Assignment_2_1_3_Features#View_machines View Machines]
   * [http://code.google.com/p/virtual-mechanic/wiki/Assignment_2_1_3_Features#Download_new_machines Download new machines]
-  * [http://code.google.com/p/virtual-mechanic/wiki/Assignment_2_1_3_Features#View_machines#Download_new_machines Download new machines]
+  * [http://code.google.com/p/virtual-mechanic/wiki/Assignment_2_1_3_Features#View_machines#Drag_and_drop_(disassemble machines) Drag and drop (disassemble machines)]
   * [http://code.google.com/p/virtual-mechanic/wiki/Assignment_2_1_3_Features#Commenting Commenting]
   * [http://code.google.com/p/virtual-mechanic/wiki/Assignment_2_1_3_Features#Photo_posting Photo posting]
   * [http://code.google.com/p/virtual-mechanic/wiki/Assignment_2_1_3_Features#Layered_images Layered images]
