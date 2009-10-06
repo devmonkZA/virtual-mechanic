@@ -90,13 +90,13 @@ _Tuesday, September 29, 2009, 12:30 @ Maggie Benston Centre @ SFU_
 =Meeting 4=
 _Tuesday, October 6, 2009, 12:30 @ CSIL @ SFU_
 
-- Everyone present (Marc was late, sorry!) -
-- Touched base on Assignment 2
-- Examples are looking great.
-- Going to migrate wikis over to Google docs tomorrow. (Jeff)
-- Features, Glossary, Non-Functional requirements should be finished tonight.
-- Start work on Design Document and QAP tonight or tomorrow.
+- Everyone present (Marc was late, sorry!) - <br>
+- Touched base on Assignment 2 <br>
+- Examples are looking great. Thanks Jeff! <br>
+- Going to migrate wikis over to Google docs tomorrow. (Jeff) <br>
+- Features, Glossary, Non-Functional requirements should be finished tonight. <br>
+- Start work on Design Document and QAP tonight or tomorrow. <br>
 
 ==Member Tasks==
-- Finish up Assignment 2a requirements and start on 2b
-- Meet up again tomorrow to regroup
+- Finish up Assignment 2a requirements and start on 2b <br>
+- Meet up again tomorrow to regroup <br>
