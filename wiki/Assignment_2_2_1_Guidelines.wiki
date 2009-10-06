@@ -2,7 +2,11 @@
 
 = Introduction =
 
-Add your content here.
+The development of the sofware will base on Mac OS. The whole development process will be using Objective-C, the development envirment is XCode provided by Apple. Iphone Simulator and compiler tools of XCode will be applied during development phrase. There will be an FTP server supporting the online discussion and bug reporting feature of the product. The database in the server side will be MySQL database, which will recorde user information, uploaded files as well as files for downloading.   Language used in database development is SQL language. 
+
+The whole project will be implemented using hone SDK 3.0 in general. For more detial:   The connection between server side and client side will be implemented using CFNetwork framework; And user interface design will based on Interface Builder provided by Apple; The image process,  page switch and all other user interface functionality will be implemented based on UIKit framework.
+
+
 
 
 = Details =
