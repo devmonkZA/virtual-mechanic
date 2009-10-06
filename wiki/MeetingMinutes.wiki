@@ -78,7 +78,7 @@ _Tuesday, September 29, 2009, 12:30 @ Maggie Benston Centre @ SFU_
    = Greg mentioned using MySQL for our Database client. <br>
 - Feature priorities will be assigned after we have completed our "Features" document. <br>
 
-==Qualiity Assurance Plan==
+==Quality Assurance Plan==
 - Most of this will be discussed in our next meeting. <br>
 - Internal deadlines will be set using both our Gantt chart and a list as a more physical reference. <br>
 
@@ -86,3 +86,17 @@ _Tuesday, September 29, 2009, 12:30 @ Maggie Benston Centre @ SFU_
 - Work on respective assigned tasks for Assignment 2. <br>
 - Greg to update Gantt Chart for assignment 2<br>
 - Contribute to the "Features" wiki page.
+
+=Meeting 4=
+_Tuesday, October 6, 2009, 12:30 @ CSIL @ SFU_
+
+- Everyone present (Marc was late, sorry!) -
+- Touched base on Assignment 2
+- Examples are looking great.
+- Going to migrate wikis over to Google docs tomorrow. (Jeff)
+- Features, Glossary, Non-Functional requirements should be finished tonight.
+- Start work on Design Document and QAP tonight or tomorrow.
+
+==Member Tasks==
+- Finish up Assignment 2a requirements and start on 2b
+- Meet up again tomorrow to regroup
