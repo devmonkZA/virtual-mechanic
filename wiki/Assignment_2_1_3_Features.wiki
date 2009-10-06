@@ -72,25 +72,25 @@ To move a part:  Once the part is selected the user may press and hold their fin
 
 ====Zooming====
 Using two fingers to tap and expand on the screen will zoom in to the machine. To be more precisely, the screen will start zooming in from the place where the two fingers tapped at beginning. So the users can decide where to zoom in. When looking at photos, the action zooms into/out of photos.
-====Help Button (Control Bar)====
+====Help Button (On the Control Bar)====
 The help button on this screen brings up a help window which describes the Machine View and all functions available to the user here.
 -------------------------------------------------------------------
 ===The Comments page===  
 The comments page replaces the view of the machine leaving visible the control bar and the name of the part at the top of the screen.  The comments page will display 10 comments per page, with the option to skip pages at the foot of each page.  Each Comment will contain the following information:  Posters name, heading, date posted, and the comment itself.  The first comment will be stored inside the Ipod and will be a basic description given by the Machines creator.  The rest shall be loaded from the server and displayed in the format described above, or if no connection to the server may be achieved a single post shall be added which contains only the comment: Could not connect to server.
-====Close Comments (Control Bar)====
+====Close Comments (On the Control Bar)====
 The user will be able to close the comments page by again clicking the Comments button.
 ====Post Reply Button====
 The option to post a rely will be given after the last post on that part, by the post reply button centered below the last post.
-====Help Button (Control Bar)====
+====Help Button (On the Control Bar)====
 The help button on this screen brings up a help window which describes the comments page and all functions available to the user here.
 -------------------------------------------------------------------
 ===The Photo page===  
 The photo page replaces the view of the machine leaving visible the control bar and the name of the part at the top of the screen.  The photo page will display a list of entries separated by horizontal rules each containing: A picture, a user name, date posted, and a comment.  All of the photo entries shall be loaded from the server and if no connection to the server may be achieved then a single entry shall be displayed on the page containing a comment stating: Could not connect to server
-====Close Photos (Control Bar)====
+====Close Photos (On the Control Bar)====
 The user will be able to close the comments page by again clicking the Photo button.
 ====Post Reply Button====
 The option to post a rely will be given after the last post on that part, the post reply button centered after the last post.
-====Help Button (Control Bar)====
+====Help Button (On the Control Bar)====
 The help button on this screen brings up a help window which describes the Photo page, and all functions available to the user here.
 -------------------------------------------------------------------
 ==Search==
