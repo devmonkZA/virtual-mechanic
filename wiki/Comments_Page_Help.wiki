@@ -16,6 +16,8 @@ The comments page is a page that provides you with a list of up to 10 comments o
 
 - The first comment is saved onto the device and is a comment made by the creator of the machine which gives a basic description of the part, and includes only the comment itself.<br>
 
+(Image of a single comment to show format?)
+
 - The following (up to) 9 comments are posted by users and include to the top left the username, to the top right the date posted, and centered below the comment made by the user.  These comments are loaded from the server and if no connection may be achieved will instead be replaced by the comment: Could not connect to the server.<br>
 
 - If the comments need more space than offered on the screen then, there will be a scroll bar displayed to the right of the screen.<br>
