@@ -2,14 +2,18 @@
 
 = Introduction =
 
-The files of in-development project will be generally 
-1:  .xcodeproject file which can directly launch XCode 
-with the current project development window, which is convenient for delivering incompleted project file 
-among team to open the project;   
-2:  .h files which are header files of the classes;   
-3:  .m files which are implementation of classes;
-4:   .plist files which contain configuration information of the project;
-5:   .xib files which are actually  user interface files based on Interface Builder;
+The files used in development of the project will be mainly:
+ 
+  #  .xcodeproject file which can directly launch XCode with the current project development window, which is convenient for distributing incomplete project files 
+among team members.
+   
+  # .h files which are header files of the classes.
+
+  # .m files which are implementation of classes.
+
+  # .plist files which contain configuration information of the project
+
+  # .xib files which are actually  user interface files based on Interface Builder;
 
 Images will be used to describe different components and layers of the machines for user to explore. 
 Type of all Images will be GIF. And all images will be stored in Image folder under project folder.  
