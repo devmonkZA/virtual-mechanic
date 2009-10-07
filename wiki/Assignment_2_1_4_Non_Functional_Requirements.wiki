@@ -51,7 +51,7 @@ The average time needed to port the application from Mac OSX Operation System to
 Porting the application from Mac OSX to Iphone must not require modifying more than 0.5% of the modules.
 ----
 == Organisational Requirements ==
-add stuff here
+Each machine has as many part of images as possible.The machine's name and images' name has maximum of 20 characters. Each images has maximum 10 comments and each comments has maximum 200 characters. Each users name has maximum 20 characters. Uploading image and comments requires date.
 
 === Delivery Requirements ===
 This application requires the application(h files, m files,etc).Also all the data, including images and comments, of the machine must be delivered into Iphone to run this application successfully. 
