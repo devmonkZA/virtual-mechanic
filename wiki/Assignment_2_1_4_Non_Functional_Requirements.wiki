@@ -4,14 +4,11 @@
 
 = Introduction =
 
-The whole system will be build with objective-c, using iphone SDK 3.0
+The whole system will be built using the Objective-C programming language in the iPhone SDK 3.0 environment.
 
+The size of component images clipped from the machine image (like the door of a car) should be exactly the same size as the original (not clipped away).
 
-The size of component images clipped from the main object image(like the door of a car)
-should be exactly same as it original size(as when it is not clipped)
-
-The only thing an user account information would contain should be: username, password. the username
-will be shown in each of their post in discussion area as identification
+The only user information that will be retained is the username (chosen by the user upon first use of the application) which will be shown in each of their posts in the comments area.
 
 ----
 = Non-functional Requirements =
@@ -22,39 +19,38 @@ Product Name: virtual-mechanic
 
 Created by : Fall 2009 CMPT 275, Group 12 
 
-Propose: Let users know and analyze a machine by dissembling the machine.
+Propose: Let users analyze a machine by virtually disassembling the machine and inspecting the individual components that it is comprised of.
 
-Users: This is a public application, every can use. 
+Users: This application will be built such that any iPhone user may use it without difficulty. 
 
 === Usability Requirements ===
 
-User with Iphone experience, in the first attempt, they must be able to know how to analyze the machine within an average of 2 minutes. Users also must be able to comment on the machine within an average of 4 minutes.
-
+User with iPhone experience, in the first attempt, they must be able to know how to analyze the machine within an average of 2 minutes. Users also must be able to comment on the machine within an average of 4 minutes.
 
 User without Iphone experience, in the first attempt, they must be able to know how to analyze the machine within an average of 10 minutes. Users also must be able to comment on the machine within an average of 20 minutes.
 
 === Efficiency requirements ===
-This Iphone application must be 100% efficient when Iphone has power. If the power supply cannot support Iphone to run this application, the application would not be performed.
+This iPhone application must be 100% efficient when Iphone has power. If the power supply cannot support Iphone to run this application, the application would not be performed.
 
 ==== Performance Requirements ====
-While tapping on any one peace, the comment, or description should show on the screen no more than 2 seconds, otherwise this may make user spending too much time analyzing the whole machine. Dragging peace and zooming in the image should perform immediately after users giving the order. Remaining time should be shown on the screen while Uploading comments. 
+While tapping on any one piece, the comment, or description should show on the screen no more than 2 seconds, otherwise this may make user spending too much time analyzing the whole machine. Dragging peace and zooming in the image should perform immediately after users giving the order. Remaining time should be shown on the screen while Uploading comments. 
 
 ==== Space Requirements ====
 The machine should fit the whole screen on Iphone when the program just started or when users press reset. After zooming in, the images do not have to fit the screen anymore. In the memory part, each part has at most 10 comments including Date, Name(10 characters), comment(200 characters). For the size of pictures, it depends on how many parts the machine has.  
 
 === Reliability Requirements ===
-While running this application, the system will not crush if users follows the safety requirements. If users cannot put the images into original position, pressing reset button will solve this problem.  
+While running this application, the system will not crash if users follows the safety requirements. If users cannot put the images into original position, pressing reset button will solve this problem.  
 
 === Portability Requirements ===
 The average time needed to port the application from Mac OSX Operation System to Iphone must not exceeds 1 minutes.
 
 Porting the application from Mac OSX to Iphone must not require modifying more than 0.5% of the modules.
 ----
-== Organisational Requirements ==
+== Organizational Requirements ==
 Each machine has as many part of images as possible.The machine's name and images' name has maximum of 20 characters. Each images has maximum 10 comments and each comments has maximum 200 characters. Each users name has maximum 20 characters. Uploading image and comments requires date.
 
 === Delivery Requirements ===
-This application requires the application(h files, m files,etc).Also all the data, including images and comments, of the machine must be delivered into Iphone to run this application successfully. 
+This application requires the application(h files, m files,etc). Also all the data, including images and comments, of the machine must be delivered into Iphone to run this application successfully. 
 
 === Implementation Requirement ===
 The software will be developed using XCode, Interface Builder.
@@ -66,11 +62,12 @@ The feature online user interactive will be based on an FTP server.
 ----
 == External Requirements ==
 User accounts will be recorded in an FTP server 
+
 === Interoperability Requirements ===
 The requirement of importing this application in a machine (computer, cellar-phone, etc) is the operating system. The operating system must be Mac OSX or SDK 3.0.
 
 === Ethical Requirements ===
-No feature of the software will request user make any kind of payment(except for geting
+No feature of the software will request user make any kind of payment(except for getting
 this software).
 
 === Legislative Requirements ===
