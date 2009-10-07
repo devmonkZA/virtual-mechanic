@@ -18,7 +18,13 @@ will be shown in each of their post in discussion area as identification
 
 
 == Product Requirements ==
-Add stuff here
+Product Name: virtual-mechanic
+
+Created by : Fall 2009 CMPT 275, Group 12 
+
+Propose: Let users know and analyze a machine by dissembling the machine.
+
+Users: This is a public application, every can use. 
 
 === Usability Requirements ===
 
