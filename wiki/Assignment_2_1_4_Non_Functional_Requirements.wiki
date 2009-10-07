@@ -13,7 +13,7 @@ should be exactly same as it original size(as when it is not clipped)
 The only thing an user account information would contain should be: username, password. the username
 will be shown in each of their post in discussion area as identification
 
-
+----
 = Non-functional Requirements =
 ----
 == Product Requirements ==
