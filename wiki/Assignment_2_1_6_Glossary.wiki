@@ -1,9 +1,17 @@
 ----
 =Glossary=
 
-Machine: A composition of images of different parts of a machine, placed on top of each other to recreate the machine as viewed from some angle. As well as a collection of comments associated with the parts and with the machine itself.
+Canvas: The background of the application's *Machine View*
 
-Part/Component: An image of a single section of a machine, as well as the comments and photos associated with it.
+Comments Page: A page where one may view, or add comments about a *part*, or a *machine*.
+
+Component: An image of a single section of a *machine*. *Comments* and *photos* can be associated with a *part* just as they are with the *machine*.
+
+Control bar: The control bar contains the options for the user's current view (i.e. Machine View, Main menu, etc.).
+
+Machine: A composition of images of different parts of a machine, placed on top of each other to recreate the machine as viewed from some angle. A collection of comments associated with the parts and with the machine itself are accessible through this.
+
+Part: See *Component*.
 
 Photo: A user-uploaded picture file of a part or machine.
 
@@ -11,11 +19,6 @@ Machine View: The screen where one may disassemble or select different parts of 
 
 Title bar: The bar shown at the top of the screen which shows the name of the currently selected part, and is visible at the machine view, the comments page, and the photo page.
 
-Canvas: The background of the Machine View
-
-Control bar: The control bar contains the, 
-
-Comments Page: A page where one may view, or add comments about a part, or a machine.
-
 Photo Page: A page where one may view, or add photos, and comments about a part, or a machine.
+
 ----
