@@ -81,12 +81,3 @@ While users editing their comments on images in this application, if users do no
 
 ==== Safety Requirements ====
 While using this application, please do not drop, disassemble, open, crush iPhone.
-
-
-
-
-== Intero
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
