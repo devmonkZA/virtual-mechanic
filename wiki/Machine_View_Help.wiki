@@ -1,12 +1,12 @@
-ok feel free to change the format or wording or whatever, I just think this is a nice simple layout for explaining the interface piece by piece.  I think if we do this for all the other pages this is our features section.
-
+ok feel free to change the format or wording or whatever, I just think this is a nice simple layout for explaining the interface piece by piece.  I think if we do this for all the other pages (with a few little alterations) this would make a fine features section.
 
 =The Machine View=
 ==The Interface==
+(Image of full interface)
 ===The Title Bar===
 The title bar is found at the very top of the screen and contains:
 
-(Image)
+(Image of only the Title bar)
 
 -To the far left the option to go back to the previous page  (Button image)<br>
 -In the center the name of the current object selected, if no object is selected it will display the name of the Machine.<br>
@@ -15,7 +15,7 @@ The title bar is found at the very top of the screen and contains:
 ===The Control Bar===
 The control bar is displayed at the very bottom of the page and contains 3 Buttons:
 
-(Image)
+(Image of only the control bar)
 
 -The Comments button will open up the (comments window) <--(link to comments window help) (Button image)<br>
 -The Photo button will open up the (photo window) <-- link (Button image)<br>
@@ -24,7 +24,7 @@ The control bar is displayed at the very bottom of the page and contains 3 Butto
 ==The Canvas==
 The canvas is the screen on which the machine is displayed.  It is here that you may dissasemble the Machine on the canvas one may perform 3 actions.
 
-(Image)
+(Image of only the canvas in the process of dissasembly)
 
 -To select a part simply tap the part that you wish to select and its name will be displayed at the top of the screen.<br>
 -To move a part, first select it, and then click and hold the part, add drag the part to where you wish to place it.<br>
