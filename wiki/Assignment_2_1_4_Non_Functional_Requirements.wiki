@@ -33,7 +33,7 @@ This Iphone application must be 100% efficient when Iphone has power. If the pow
 While tapping on any one peace, the comment, or description should show on the screen no more than 2 seconds, otherwise this may make user spending too much time analyzing the whole machine. Dragging peace and zooming in the image should perform immediately after users giving the order. Remaining time should be shown on the screen while Uploading comments. 
 
 ==== Space Requirements ====
-The machine should fit the whole screen on Iphone when the program just started or when users press reset. After zooming in, the images do not have to fit the screen anymore. In the memory part, the sum of total images' size should not exceed 10Mb*<Need to be classified>*. 
+The machine should fit the whole screen on Iphone when the program just started or when users press reset. After zooming in, the images do not have to fit the screen anymore. In the memory part, each part has at most 10 comments including Date, Name(10 characters), comment(200 characters). For the size of pictures, it depends on how many parts the machine has.  
 
 === Reliability Requirements ===
 While running this application, the system will not crush if users follows the safety requirements. If users cannot put the images into original position, pressing reset button will solve this problem.  
@@ -47,7 +47,7 @@ Porting the application from Mac OSX to Iphone must not require modifying more t
 add stuff here
 
 === Delivery Requirements ===
-This application requires the application(h file, m file,etc),and all the data including the images of the machine must be delivered into Iphone. 
+This application requires the application(h files, m files,etc).Also all the data, including images and comments, of the machine must be delivered into Iphone to run this application successfully. 
 
 === Implementation Requirement ===
 The software will be developed using XCode, Interface Builder.
@@ -56,20 +56,18 @@ Operating system is Mac OS.
 The framework involved are: Cocoa touch, CFNetwork.
 The feature online user interactive will be based on an FTP server.
 
-=== Standards Requirements ===
-add stuff here
 ----
 == External Requirements ==
 User accounts will be recorded in an FTP server 
 === Interoperability Requirements ===
-add stuff here
+The requirement of importing this application in a machine (computer, cellar-phone, etc) is the operating system. The operating system must be Mac OSX or SDK 3.0.
 
 === Ethical Requirements ===
 No feature of the software will request user make any kind of payment(except for geting
 this software).
 
 === Legislative Requirements ===
-add stuff here
+This application is for public users so users must not upload the machines related to any violent, erotica stuff. 
 
 ==== Privacy Requirements ====
 While users editing their comments on images in this application, if users do not upload their comments on the server, others cannot access to users' Iphone and see the comments. Moreover, the application will not upload any users' information without users' permission. 
