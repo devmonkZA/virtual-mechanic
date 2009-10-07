@@ -10,29 +10,21 @@ The files used in development of the project will be mainly:
   # .plist files which contain configuration information of the project
   # .xib files which are actually  user interface files based on Interface Builder;
 
-Images will be used to describe different components and layers of the machines for user to explore. 
-Type of all Images will be GIF. And all images will be stored in Image folder under project folder.  
+Images will be used to depict different components (layers) of the machines for users to explore. The type of all images will be of the .GIF format. All images will be stored in the Image folder under the project folder.
 
-Audio files will be stored in Sound folder under project folder.
+Audio files will be stored in the Sound folder under the project folder.
 
-
-The generated file extension will be .ss (SoundScape)
-The file is used to store information regarding an audio file such as the pitch and volume
-The file also stores the physical directory of the file
-The data is stored as a complex matrix serialized as a text file
-It is important to note that when audio files are “imported”, the physical directories of the files do not change.
+The generated file extension will be of the .ss (SoundScape) format. The file is used to store information regarding an audio file, such as pitch and volume. The file also stores the physical directory of the file. The data is stored as a complex matrix serialized as a text file. It is important to note that when audio files are “imported”, the physical directories of the files do not change.
 
 ------------------------------------------
 
+==I/O requirements==  
 
-I/O requeirements:  
+===Main menu===
 
-
-Before the page of machine assembly view:
-
-touching on the general navigation bar items will activate normal events: switch between pages or post, download things(Available pages: start page, select machine page, help page, post bug page, discussion page and machine build view page, etc). 
+  Touching on the menu's navigation bar allows the user to switch between different pages. Users will be able download new machines or open existing ones. 
  
-During machine assembly view display:
+===Machine view===
 
  user can touch any component of the machine to high light this component.
 Using two fingers to drag the screen will zoom in or zoom out the image of the machine(or component of the machine).Also, zooming in and out using two fingers can control the transparent of the current top layer of the build of the machine. User can drag any component of the machine to see the inner components under this component.  
