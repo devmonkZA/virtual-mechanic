@@ -2,11 +2,13 @@
 
 || *Feature* || *Version 1* || *Version 2* || *Version 3* ||
 || View machine || x || x || x ||
-|| Drag and Drop || x || x || x ||
-|| Download new machines ||  ||  || x ||
-|| Commenting ||  || x || x ||
-|| Photo posting ||  || x || x ||
+|| Drag-and-Drop || x || x || x ||
 || Layered images || x || x || x ||
 || Help/Instructions || x || x || x ||
+|| Menus || x || x || x ||
+|| User friendly interface || x || x || x ||
+|| Commenting ||  || x || x ||
+|| Photo posting ||  || x || x ||
+|| Download new machines ||  ||  || x ||
 || Search ||  ||  || x ||
 ||  ||  ||  ||  ||
