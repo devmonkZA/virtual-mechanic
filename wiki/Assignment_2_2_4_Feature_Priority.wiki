@@ -9,6 +9,6 @@
 || User friendly interface || x || x || x ||
 || Commenting ||  || x || x ||
 || Photo posting ||  || x || x ||
+|| Search ||  || x || x ||
 || Download new machines ||  ||  || x ||
-|| Search ||  ||  || x ||
 ||  ||  ||  ||  ||
