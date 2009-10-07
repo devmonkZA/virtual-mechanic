@@ -3,19 +3,19 @@
 ===The Title Bar===
 The title bar is found at the very top of the screen and contains:
 
-[Image?]
+(Image?)
 
--To the far left the option to go back to the previous page  [Button image?]<br>
+-To the far left the option to go back to the previous page  (Button image)<br>
 -In the center the name of the current object selected, if no object is selected it will display the name of the Machine.<br>
 -To the right is give the option to access this help page <--- (Is this necissary? I think it is often in help documents)  [Image]<br>
 
 ===The Control Bar===
 The control bar is displayed at the very bottom of the page and contains 3 Buttons:
 
-[Image]
+(Image)
 
--The Comments button will open up the [comments window] <--(link to comments window help) [Button image]<br>
--The Photo button will open up the [photo window] <-- link [Button image]<br>
+-The Comments button will open up the (comments window) <--(link to comments window help) (Button image)<br>
+-The Photo button will open up the (photo window) <-- link (Button image)<br>
 -*Not quite sure yet here*<br>
 
 ==The Canvas==
