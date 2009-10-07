@@ -1,13 +1,12 @@
-#summary One-sentence summary of this page.
+#summary Version release for features
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+|| *Feature* || *Version 1* || *Version 2* || *Version 3* ||
+|| View machine || x || x || x ||
+|| Drag and Drop || x || x || x ||
+|| Download new machines ||  ||  || x ||
+|| Commenting ||  || x || x ||
+|| Photo posting ||  || x || x ||
+|| Layered images || x || x || x ||
+|| Help/Instructions || x || x || x ||
+|| Search ||  ||  || x ||
+||  ||  ||  ||  ||
