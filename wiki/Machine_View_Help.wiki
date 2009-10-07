@@ -4,7 +4,7 @@ ok feel free to change the format or wording or whatever, I just think this is a
 ==The Interface==
 (Image of full interface)
 ===The Title Bar===
-The title bar is found at the very top of the screen and contains:
+The title bar is displayed at the very top of the screen and contains:
 
 (Image of only the Title bar)
 
