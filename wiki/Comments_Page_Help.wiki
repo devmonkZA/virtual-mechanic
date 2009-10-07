@@ -1,0 +1,23 @@
+=The Comments Page=
+==The Interface==
+(Image of full interface)
+===The Title Bar===
+The title bar is displayed at the very top of the screen and contains:
+
+(Image of only the Title bar)
+
+-To the far left the option to go back to the previous page  (Button image)<br>
+-In the center the name of the current object selected, if no object is selected it will display the name of the Machine.<br>
+-To the right is give the option to access this help page <--- (Is this necissary? I think it is often in help documents)  (Image)<br>
+
+==Posting or Viewing comments==
+===Viewing Comments===
+The comments page will provide the user with a list of up to 10 comments.<br>
+
+- The first comment will be saved onto the device and will be a comment made by the creator of the machine which gives a basic description of the part, and includes only the comment itself.<br>
+
+- The following (up to) 9 comments will be posted by users and will include the username, the date posted, and the comment made by the user.  These comments will be loaded from the server and if no connection may be achieved then it will display a single comment: Could not connect to the server.<br>
+
+- If the comments need more space than offered on the screen then, there will be a scroll bar displayed to the right of the screen.<br>
+
+- 
