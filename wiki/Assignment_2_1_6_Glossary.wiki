@@ -17,7 +17,7 @@
 
 *FTP*: File Transfer Protocol: a software protocol for exchanging information between computers over a network.
 
-*FTP Server*: A network server program or computer which responds to requests for files via FTP.
+*FTP Server*: A network server program or computer which responds to requests for files via _FTP_.
 
 *Layered Image*: An image that is actually comprised of more than one image. Each image is given a hierarchal position so that it seems to cover over some other image(s) and is covered by others. This creates the "layering" effect.
 
