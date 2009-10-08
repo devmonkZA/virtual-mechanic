@@ -1,6 +1,7 @@
 Example Tutorials
 
 = Introduction =
+
 = Details =
 *STEP1 - The initial screen once we start the application* 
 
@@ -19,7 +20,7 @@ Then, in this tutorial, we choose the personal computer as an example. Click the
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/TheMachineView.jpg]
 
-Now we can see whole machine. This step we wanna see the comments, by choosing one part of the machine which user wanna see the information about and click on the Detail & discuss button The screen will show the following picture.
+Now we can see whole machine. This step we wanna see the comments, by choosing one part of the machine which user wanna see the information about (in this example we choose the DVD driver)and click on the Detail & discuss button The screen will show the following picture.
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentingInterface.jpg]
 ----
@@ -31,13 +32,13 @@ We want to add our comments of the part of machine so we can press the button ca
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/CommentingInterface.jpg]
 ----
-[http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/THeTitleBar.jpg]
+
 ----
-[http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/TheControlBarDiscussion.jpg]
+
 ----
-[http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/TheControlBar.jpg]
+
 ----
-[http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/TheMachineView.jpg]
+
 ----
 
 
