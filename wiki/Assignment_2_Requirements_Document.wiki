@@ -24,7 +24,7 @@ The application is quite general and may apply to almost any sort of mechanical 
 ==User Requirements==
 
 - The application is completely visual and thus is unavailable to the visually-impaired. <br>
-- The users must have access to an iPhone, iTunes with internet access. <br>
+- The users must have access to an iPhone. <br>
 - In order to view comments, or download new content the user must have access to the internet. <br>
 - Because the application is so heavily text based the user should also have an intermediate understanding of the English language. <br>
 ----
@@ -35,7 +35,7 @@ The application is quite general and may apply to almost any sort of mechanical 
 The main menu shall show the logo, and name of the product, the version number, as well as 3 buttons at the bottom of the screen, which offer the following options:
 
 ===Start===
-Allows the user to load a machine which is already on the device, together with all relevant details, comments and photos. Includes an option to jump to "Download Machines" below. 
+ Allows the user to load a machine which is already on the device, together with all relevant details, comments and photos. Includes an option to jump to "Download Machines" below. 
 
 ===Download Machines===
 Shows a catalog of machines available for download. Allows the user to download new machines from the server, together with all relevant details, comments and photos. 
