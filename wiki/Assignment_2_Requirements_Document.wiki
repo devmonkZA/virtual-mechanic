@@ -88,11 +88,30 @@ The Machine view is the screen where the user may view and interact with the mac
 
   *  To move a part:  Once the part is selected the user may press and move their finger around to simulate a dragging action. The part is dragged to the desired location, and releasing the finger stops the dragging motion. 
 
-  *  Zooming
-Using two fingers to tap and expand on the screen will zoom in to the machine. To be more precisely, the screen will start zooming in from the place where the two fingers tapped at beginning. So the users can decide where to zoom in. When looking at photos, the action zooms into/out of photos.
+  *  Zooming: Using two fingers to tap and expand on the screen will zoom in to the machine. To be more precisely, the screen will start zooming in from the place where the two fingers tapped at beginning. So the users can decide where to zoom in. When looking at photos, the action zooms into/out of photos.
 
   *  Usage of buttons on the control bar, already described above.
--------------------------------------------------------------------
+
+==The Comments Page==
+===The Interface===
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentsPage.jpg?t=1255029846
+
+===Viewing Comments===
+
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentingInterface.jpg?t=1255029888
+
+The comments page is a page that provides you with a list of up to 5 comments on the part that you have selected, or if you have no part selected then the comments are on the machine itself.<br>
+
+- The first comment is saved onto the device and is a comment made by the creator of the machine which gives a basic description of the part, and includes only the comment itself.<br>
+
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentFormat.jpg?t=1255032153
+
+- The following (up to) 4 comments are posted by users and include: date posted, username, and the comment made by the user.  These comments are loaded from the server and if no connection may be achieved will instead be replaced by the comment: Could not connect to the server.<br>
+
+- If the comments need more space than offered on the screen then, there will be a scroll bar displayed to the right of the screen.<br>
+
+- The option to post a comment will be offered at the bottom of the screen
+
 ===The Photo page===  
 The photo page replaces the view of the machine leaving visible the control bar and the name of the part at the top of the screen.  The photo page will display a list of entries separated by horizontal rules each containing: A picture, a user name, date posted, and a comment.  All of the photo entries shall be loaded from the server and if no connection to the server may be achieved then a single entry shall be displayed on the page containing a comment stating: Could not connect to server
 ====Close Photos (On the Control Bar)====
