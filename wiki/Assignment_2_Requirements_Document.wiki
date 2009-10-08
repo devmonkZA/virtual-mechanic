@@ -187,20 +187,20 @@ While using this application, please do not drop, disassemble, open, crush iPhon
 -------------------------------------------------------------------
 = Example Tutorial =
 
+This tutorial shows how to open up a new machine, move components around, and post a for a DVD drive. 
 
-*STEP1 - The initial screen once we start the application* 
+*STEP1 - The main screen after starting the application* 
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/MainPage.jpg]
 
-First We click on the start button(in the picture above) to get this application start working. Once we click start button, then the screen will show the picture below.
+Click on the start button (in the picture above) to open a machine. 
 
-*STEP2 - Analyze the machine by dissembling it*
- 
+*STEP2 - Analyze the machine by dissembling it* 
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/LoadMachine.jpg]
 
 
-Then, in this tutorial, we choose the personal computer as an example. Click the personal computer , the screen will show the picture in step3.
+In this tutorial, we choose the personal computer as an example. Click the personal computer, the screen will show the picture in step3.
 
 *STEP3 - See the comments and description of the part of machine* 
 
@@ -214,24 +214,23 @@ Or we can put it into the original place.
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/TheMachineView.jpg]
 
-Now we can see and analyze the whole machine. In the next step we want to see the comments, by choosing one part of the machine which the user wants see the information about (in this example we choose the DVD driver)and clicking on the Detail & discuss button The screen will show the following picture.
+Now we can see and analyze the whole machine. In the next step we want to see the comments, by choosing one part of the machine which the user wants see the information about (in this example we choose the DVD driver) and clicking on the "Details & Discuss" button the screen will show the following picture.
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentingInterface.jpg]
 
-*Step4 - Adding our comments of the part of machine *
+*Step4 - Adding our comments of the part of machine*
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentsPage.jpg]
 
-We want to add our comments of the part of machine so we can press the button called "Post new Comments"
+We want to add our comments of the part of machine so we can press the button called "Post new comment.."
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/CommentingInterface.jpg]
 
-Then the keyboard and the comments text field will appear after pressing the "Post new Comments" button as the picture show below.
+Then the keyboard and the comments text field will appear after pressing the "Post new comment" button as the picture show below.
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/Comment_Post.jpg]
 
-In this example we type the question that is shown on the picture, after that we can press the "post" then the comments will be posted on the comments where others could see. We do not have to type user name every time we posting comments, because the user id or password are already memorized once we typed in the beginning of application.
-
+In this example we type the question that is shown on the picture, after that we can press the "post" then the comments will be posted on the comments where others could see. 
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/CommentsPage1.jpg]
 
