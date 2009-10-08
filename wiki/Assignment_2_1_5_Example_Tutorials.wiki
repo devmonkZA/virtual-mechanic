@@ -28,7 +28,7 @@ Now we can see whole machine. This step we wanna see the comments, by choosing o
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentsPage.jpg]
 
-We want to add our comments of the part of machine so we can press the button called "Post Comments"
+We want to add our comments of the part of machine so we can press the button called "Post new Comments"
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/CommentingInterface.jpg]
 ----
