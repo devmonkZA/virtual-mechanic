@@ -2,7 +2,7 @@ ok feel free to change the format or wording or whatever, I just think this is a
 
 =The Machine View=
 ==The Interface==
-(Image of full interface)
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/th_TheMachineView.jpg
 ===The Title Bar===
 The title bar is displayed at the very top of the screen and contains:
 
