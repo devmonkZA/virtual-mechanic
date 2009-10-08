@@ -92,3 +92,69 @@ The help button on this screen brings up a help window which describes the Photo
 -------------------------------------------------------------------
 ==Search==
 A button in the main menu links to a search page. Here, users can type the key word in search engine to search for a part which will show on the screen in Iphone and find part descriptions, comments from others, photos, etc.
+
+----
+
+= Non-functional Requirements =
+
+
+== Product Requirements ==
+Product Name: virtual-mechanic
+Created by : Fall 2009 CMPT 275, Group 12 
+
+Users: This application will be built such that any iPhone user may use it without difficulty. 
+
+=== Usability Requirements ===
+
+User with iPhone experience, in the first attempt, they must be able to know how to analyze the machine within an average of 2 minutes. Users also must be able to comment on the machine within an average of 4 minutes.
+
+User without Iphone experience, in the first attempt, they must be able to know how to analyze the machine within an average of 10 minutes. Users also must be able to comment on the machine within an average of 20 minutes.
+
+=== Efficiency requirements ===
+This iPhone application must be 100% efficient when Iphone has power. If the power supply cannot support Iphone to run this application, the application would not be performed.
+
+==== Performance Requirements ====
+While tapping on any one piece, the comment, or description should show on the screen no more than 2 seconds, otherwise this may make user spending too much time analyzing the whole machine. Dragging peace and zooming in the image should perform immediately after users giving the order. Remaining time should be shown on the screen while Uploading comments. 
+
+==== Space Requirements ====
+The machine should fit the whole screen on Iphone when the program just started or when users press reset. After zooming in, the images do not have to fit the screen anymore. In the memory part, each part has at most 10 comments including Date, Name(10 characters), comment(200 characters). For the size of pictures, it depends on how many parts the machine has.  
+
+=== Reliability Requirements ===
+While running this application, the system will not crash if users follows the safety requirements. If users cannot put the images into original position, pressing reset button will solve this problem.  
+
+=== Portability Requirements ===
+The average time needed to port the application from Mac OSX Operation System to Iphone must not exceeds 1 minutes.
+
+Porting the application from Mac OSX to Iphone must not require modifying more than 0.5% of the modules.
+
+== Organizational Requirements ==
+Each machine has as many part of images as possible.The machine's name and images' name has maximum of 20 characters. Each images has maximum 10 comments and each comments has maximum 200 characters. Each users name has maximum 20 characters. Uploading image and comments requires date.
+
+=== Delivery Requirements ===
+This application requires the application(h files, m files,etc). Also all the data, including images and comments, of the machine must be delivered into Iphone to run this application successfully. 
+
+=== Implementation Requirement ===
+The software will be developed using XCode, Interface Builder.
+Programming language is Objective-C.
+Operating system is Mac OS.
+The framework involved are: Cocoa touch, CFNetwork.
+The feature online user interactive will be based on an FTP server.
+
+== External Requirements ==
+User accounts will be recorded in an FTP server 
+
+=== Interoperability Requirements ===
+The requirement of importing this application in a machine (computer, cellar-phone, etc) is the operating system. The operating system must be Mac OSX or SDK 3.0.
+
+=== Ethical Requirements ===
+No feature of the software will request user make any kind of payment(except for getting
+this software).
+
+=== Legislative Requirements ===
+This application is for public users so users must not upload the machines related to any violent, erotica stuff. 
+
+==== Privacy Requirements ====
+While users editing their comments on images in this application, if users do not upload their comments on the server, others cannot access to users' Iphone and see the comments. Moreover, the application will not upload any users' information without users' permission. 
+
+==== Safety Requirements ====
+While using this application, please do not drop, disassemble, open, crush iPhone.
