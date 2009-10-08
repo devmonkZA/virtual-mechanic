@@ -159,6 +159,7 @@ While users editing their comments on images in this application, if users do no
 ==== Safety Requirements ====
 While using this application, please do not drop, disassemble, open, crush iPhone.
 
+----
 =Example Tutorials=
 
 ----
