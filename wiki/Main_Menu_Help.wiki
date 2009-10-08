@@ -1,0 +1,12 @@
+=The Main Menu=
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/MainPage.jpg?t=1255039839
+
+The main menu offers 4 main functions:
+
+==Start==
+The start function allow the user to access the load machine screen from which they can select which machine they wish to load.
+
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/LoadMachine.jpg?t=1255040096
+
+(A scroll bar shall be displayed if there are too in the list for the screen)
+Once the user has selected the machine they wish to load (by tapping the machine name) the Machine View for that machine will be loaded.
