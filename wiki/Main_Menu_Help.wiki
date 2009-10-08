@@ -14,4 +14,8 @@ http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/LoadMac
 Once the user has selected the machine they wish to load (by tapping the machine name) the Machine View for that machine will be loaded.
 
 ==Download Machines==
-The download machines button opens up a window which displays all available machine that the user does not already have saved onto their ipod.
+The download machines button opens up a window which displays all available machine that the user does not already have saved on their ipod.
+
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/Download_Machines.jpg?t=1255040645
+
+By selecting the machine of interest the user will start the downloading process where a progress bar will be displayed until completion when the user will be redirected to the main menu.
