@@ -94,11 +94,8 @@ The Machine view is the screen where the user may view and interact with the mac
 
 ==The Comments Page==
 ===The Interface===
-http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentsPage.jpg?t=1255029846
-
+http://virtual-mechanic.googlecode.com/files/Comment_2.jpg
 ===Viewing Comments===
-
-http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentingInterface.jpg?t=1255029888
 
 The comments page is a page that provides you with a list of up to 5 comments on the part that you have selected, or if you have no part selected then the comments are on the machine itself.<br>
 
@@ -112,14 +109,16 @@ http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/Comment
 
 - The option to post a comment will be offered at the bottom of the screen
 
-===The Photo page===  
-The photo page replaces the view of the machine leaving visible the control bar and the name of the part at the top of the screen.  The photo page will display a list of entries separated by horizontal rules each containing: A picture, a user name, date posted, and a comment.  All of the photo entries shall be loaded from the server and if no connection to the server may be achieved then a single entry shall be displayed on the page containing a comment stating: Could not connect to server
-====Close Photos (On the Control Bar)====
-The user will be able to close the comments page by again clicking the Photo button.
-====Post Reply Button====
-The option to post a rely will be given after the last post on that part, the post reply button centered after the last post.
-====Help Button (On the Control Bar)====
-The help button on this screen brings up a help window which describes the Photo page, and all functions available to the user here.
+==The Photo Page==
+===The Interface===
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/Photos.jpg?t=1255043665
+
+===Posting or Viewing photos===
+To view a larger version of the image of one of the photos simply click it in the photo screen and you will be redirected to a page with the title bar (containing the back 
+button, part name, and help button) and the larger version of the image. In this view, the user can zoom and drag the picture around with finger pinching and dragging respectively. 
+
+To post a new image, the user can upload a photo from the iPhone library, or take a new photo with the iPhone camera. 
+
 -------------------------------------------------------------------
 = Non-functional Requirements =
 
