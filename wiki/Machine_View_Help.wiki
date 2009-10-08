@@ -6,7 +6,7 @@ http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/TheMach
 ===The Title Bar===
 The title bar is displayed at the very top of the screen and contains:
 
-http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/th_THeTitleBar.jpg
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/THeTitleBar.jpg?t=1255029726
 
 -To the far left the option to go back to the previous page  (Button image)<br>
 -In the center the name of the current object selected, if no object is selected it will display the name of the Machine.<br>
