@@ -47,24 +47,34 @@ Shows a catalog of machines available for download. Allows the user to download 
   *  Background color - Lets users set background color while in machine view.
 
 ==Machine View==
+===The Interface===
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/TheMachineView.jpg?t=1255029587
+===The Title Bar===
+The title bar is displayed at the very top of the screen and contains:
+
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/THeTitleBar.jpg?t=1255029726
+
+  *  Back Button
+To the far left, clicking on this button always goes back to the previous page/view. 
+
+  *  Selected status
+In the center the name of the current object selected, if no object is selected it will display "Selected now: Overall".
+
+  *  Help Button
+The help button which appears on all windows brings up a menu which gives the user an option to browse the user manual, search for a topic in the manual, or to report a bug. Clicking on the help button again or clicking on "Back" returns to the previous screen.
 
 ===The Control Bar===
 The control bar is present whenever the user is viewing a machine.  It is displayed at the bottom of the screen and contains 4 clickable buttons:
 
-  *  Undo - Undo previous drag and drop action
+http://i875.photobucket.com/albums/ab318/greg1337Steff/TheControlBar.jpg?t=1255027176
+
+  *  Undo - Undo previous drag and drop action. I.e. Undoes the last manipulation of the Machine. That is it will return the most recently moved part to its last position.
   *  Details and Discuss - Brings up a screen which shows the details and comments of a particular part (when a part is selected) or the machine in general. Has an option to allow users to add a comment. If this screen is already open, clicking it closes the comment window (returning the machine view). Each Comment will contain the following information:  Posters name, date posted, and the comment itself.  The first comment will always be a detailed description of the part/machine. This description will be made by the machine designer. The rest of the comments are user-created and will be updated from the central server and displayed. If no internet connection is found, then new posts will not be uploaded or downloaded. 
   *  Photos - The button brings up a photo album with relevant photos for the currently selected part. If no part is selected then it brings up a photo album with relevant photos of the overall machine. Clicking on a photo expands the photo to the size of the screen. Zooming in and out of the photo is done by placing two fingers on the screen and separating and pinching the fingers. Dragging a single finger around moves the image around on the screen. There is an option to upload a picture from the iPhone's library or to take a new photo. Clicking on this button shows a menu where the user can select the source of photo. After uploading a photo, the photo appears in the library. 
   *  Reset Button - The reset button returns all the parts of the machine to their original default location. This feature can be supplemented turning on the "Shake to reset" option under "Settings"
 
-
-===Help Button===
-The help button which appears on all windows brings up a menu which gives the user an option to browse the user manual, search for a topic in the manual, or to report a bug. Clicking on the help button again or clicking on "Back" returns to the previous screen.
-
-===Back Button===
-Clicking on this button always goes back to the previous page/view. 
-
 ==Available actions while in the Machine View==
-The Machine view is the screen where the user may view and interact with the machine.
+The Machine view is the screen where the user may view and interact with the machine. It is here that the user may dissasemble the Machine or perform other actions.
 
 ===Disassembly===
   *  By using their fingers, users can take a machine, apart piece by piece. Using a "click-and-drag" interface, users can place the pieces anywhere they wish on the screen. Since the machine is built with many overlapping images, users can view the deeper components by dragging the upper images to other places on the screen.  <br> 
@@ -79,7 +89,7 @@ The Machine view is the screen where the user may view and interact with the mac
   *  Zooming
 Using two fingers to tap and expand on the screen will zoom in to the machine. To be more precisely, the screen will start zooming in from the place where the two fingers tapped at beginning. So the users can decide where to zoom in. When looking at photos, the action zooms into/out of photos.
 
-  *  Usage of buttons on the control bar, as described above.
+  *  Usage of buttons on the control bar, already described above.
 -------------------------------------------------------------------
 ===The Photo page===  
 The photo page replaces the view of the machine leaving visible the control bar and the name of the part at the top of the screen.  The photo page will display a list of entries separated by horizontal rules each containing: A picture, a user name, date posted, and a comment.  All of the photo entries shall be loaded from the server and if no connection to the server may be achieved then a single entry shall be displayed on the page containing a comment stating: Could not connect to server
