@@ -2,10 +2,20 @@ Example Tutorials
 
 = Introduction =
 = Details =
-[http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/MainPage.jpg]
+*STEP1* 
+
+[http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/MainPage.jpg]
+
+First We click on the start button(in the picture above) to get this application start working. Once we click start button, then the screen will show the picture below.
 ----
-[http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentFormat.jpg]
+*STEP2*
+ 
+[http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/LoadMachine.jpg]
+
+Then, in this tutorial, we choose the personal computer as an example. Click the personal computer in the red square, the screen will show the picture in step3.
 ----
+*STEP3* 
+
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentingInterface.jpg]
 ----
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentsPage.jpg]
