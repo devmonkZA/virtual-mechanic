@@ -6,7 +6,7 @@ ok feel free to change the format or wording or whatever, I just think this is a
 ===The Title Bar===
 The title bar is displayed at the very top of the screen and contains:
 
-(Image of only the Title bar)
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/th_THeTitleBar.jpg
 
 -To the far left the option to go back to the previous page  (Button image)<br>
 -In the center the name of the current object selected, if no object is selected it will display the name of the Machine.<br>
