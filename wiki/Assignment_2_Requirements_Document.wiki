@@ -91,7 +91,7 @@ The option to post a rely will be given after the last post on that part, the po
 The help button on this screen brings up a help window which describes the Photo page, and all functions available to the user here.
 -------------------------------------------------------------------
 ==Search==
-A button in the main menu links to a search page. Here, users can type the key word in search engine to search for a part which will show on the screen in Iphone and find part descriptions, comments from others, photos, etc.
+A button in the main menu links to a search page. Here, users can type the key word in search engine to search for a part which will show on the screen in iPhone and find part descriptions, comments from others, photos, etc.
 
 ----
 
