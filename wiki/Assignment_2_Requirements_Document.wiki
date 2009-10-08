@@ -24,7 +24,7 @@ The application is quite general and may apply to almost any sort of mechanical 
 ==User Requirements==
 
 - The application is completely visual and thus is unavailable to the visually-impaired. <br>
-- The users must have access to an iPhone. <br>
+- The users must have access to an iPhone, iTunes with internet access. <br>
 - In order to view comments, or download new content the user must have access to the internet. <br>
 - Because the application is so heavily text based the user should also have an intermediate understanding of the English language. <br>
 ----
@@ -34,8 +34,10 @@ The application is quite general and may apply to almost any sort of mechanical 
 ==Main Menu==
 The main menu shall show the logo, and name of the product, the version number, as well as 3 buttons at the bottom of the screen, which offer the following options:
 
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/MainPage.jpg?t=1255044582
+
 ===Start===
- Allows the user to load a machine which is already on the device, together with all relevant details, comments and photos. Includes an option to jump to "Download Machines" below. 
+Allows the user to load a machine which is already on the device, together with all relevant details, comments and photos. Includes an option to jump to "Download Machines" below. 
 
 ===Download Machines===
 Shows a catalog of machines available for download. Allows the user to download new machines from the server, together with all relevant details, comments and photos. 
@@ -45,7 +47,7 @@ Shows a catalog of machines available for download. Allows the user to download 
   *  Auto update on/off - Toggles option to update current machines on device automatically.
   *  Save on exit - Toggles option to save part positions automatically on exit. 
   *  Background color - Lets users set background color while in machine view.
-
+-------------------------------------------------------------------
 ==Machine View==
 ===The Interface===
 http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/TheMachineView.jpg?t=1255029587
@@ -100,11 +102,6 @@ The option to post a rely will be given after the last post on that part, the po
 ====Help Button (On the Control Bar)====
 The help button on this screen brings up a help window which describes the Photo page, and all functions available to the user here.
 -------------------------------------------------------------------
-==Search==
-A button in the main menu links to a search page. Here, users can type the key word in search engine to search for a part which will show on the screen in iPhone and find part descriptions, comments from others, photos, etc.
-
-----
-
 = Non-functional Requirements =
 
 
@@ -169,10 +166,10 @@ While users editing their comments on images in this application, if users do no
 ==== Safety Requirements ====
 While using this application, please do not drop, disassemble, open, crush iPhone.
 
-----
+-------------------------------------------------------------------
 =Example Tutorials=
 
-----
+-------------------------------------------------------------------
 =Glossary=
 
 *App*: Short for "application", this refers to the Virtual Mechanic application.
