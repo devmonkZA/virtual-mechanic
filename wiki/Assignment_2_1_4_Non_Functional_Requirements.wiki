@@ -64,8 +64,9 @@ The feature online user interactive will be based on an FTP server.
 User accounts will be recorded in an FTP server 
 
 === Interoperability Requirements ===
-The requirement of importing this application in a machine (computer, cellar-phone, etc) is the operating system. The operating system must be Mac OSX or SDK 3.0.
-
+The device that runs this application must be iphone with iphone OS.
+The platform under where the debug version of this software can be imported must be XCode IDE with iphone SDK upon Mac OS.
+ 
 === Ethical Requirements ===
 No feature of the software will request user make any kind of payment(except for getting
 this software).
