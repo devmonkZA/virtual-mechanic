@@ -1,10 +1,10 @@
 =The Comments Page=
 ==The Interface==
-(Image of full interface)
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentsPage.jpg?t=1255029846
 ===The Title Bar===
 The title bar is displayed at the very top of the screen and contains:
 
-http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/th_THeTitleBar.jpg
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/THeTitleBar.jpg?t=1255029726
 
 -To the far left the option to go back to the previous page  (Button image)<br>
 -In the center the name of the current object selected, if no object is selected it will display the name of the Machine.<br>
@@ -12,6 +12,9 @@ http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/th_THeT
 
 ==Posting or Viewing comments==
 ===Viewing Comments===
+
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentingInterface.jpg?t=1255029888
+
 The comments page is a page that provides you with a list of up to 10 comments on the part that you have selected, or if you have no part selected comments on the machine itself.<br>
 
 - The first comment is saved onto the device and is a comment made by the creator of the machine which gives a basic description of the part, and includes only the comment itself.<br>
