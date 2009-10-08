@@ -7,13 +7,21 @@ Add your content here.
 
 = Details =
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/MainPage.jpg]
+----
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentFormat.jpg]
+----
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentingInterface.jpg]
+----
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentsPage.jpg]
+----
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/THeTitleBar.jpg]
+----
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/TheControlBarDiscussion.jpg]
+----
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/TheControlBar.jpg]
+----
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/TheMachineView.jpg]
+----
 
 
 Add your content here.  Format your content with:
