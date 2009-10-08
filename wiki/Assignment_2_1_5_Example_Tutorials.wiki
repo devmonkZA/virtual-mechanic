@@ -1,8 +1,7 @@
 Example Tutorials
 
-= Introduction =
+= Example Tutorial =
 
-= Details =
 *STEP1 - The initial screen once we start the application* 
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/MainPage.jpg]
