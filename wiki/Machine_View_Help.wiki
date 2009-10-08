@@ -13,13 +13,14 @@ http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/THeTitl
 -To the right is give the option to access this help page <--- (Is this necissary? I think it is often in help documents)  (Image)<br>
 
 ===The Control Bar===
-The control bar is displayed at the very bottom of the page and contains 3 Buttons:
+The control bar is displayed at the very bottom of the page and contains 4 Buttons:
 
 http://i875.photobucket.com/albums/ab318/greg1337Steff/TheControlBar.jpg?t=1255027176
 
 -The Comments button will open up the (comments window) <--(link to comments window help) (Button image)<br>
 -The Photo button will open up the (photo window) <-- link (Button image)<br>
--*Not quite sure yet here*<br>
+-The undo button will undo the last manipulation of the Machine.  That is it will return the most recently moved part to its last position.<br>
+-The reset button will return all parts to their origional positions.
 
 ==The Canvas==
 The canvas is the screen on which the machine is displayed.  It is here that you may dissasemble the Machine on the canvas one may perform 3 actions.
