@@ -27,7 +27,7 @@ Or we can put it into the original place.
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/TheMachineView.jpg]
 
-Now we can see whole machine. Next step we wanna see the comments, by choosing one part of the machine which user wanna see the information about (in this example we choose the DVD driver)and click on the Detail & discuss button The screen will show the following picture.
+Now we can see and analyze the whole machine. Next step we wanna see the comments, by choosing one part of the machine which user wanna see the information about (in this example we choose the DVD driver)and click on the Detail & discuss button The screen will show the following picture.
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentingInterface.jpg]
 ----
@@ -38,18 +38,7 @@ Now we can see whole machine. Next step we wanna see the comments, by choosing o
 We want to add our comments of the part of machine so we can press the button called "Post new Comments"
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/CommentingInterface.jpg]
+
+Then the keyboard and the comments text field will appear after pressing the "Post new Comments" button as the picture show below.
+[http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/Comment_Post.jpg]
 ----
-
-----
-
-----
-
-----
-
-----
-
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
