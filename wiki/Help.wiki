@@ -16,4 +16,4 @@ The view by topic button will bring up a window which displays a list of the 5 d
 The search button brings up text field underneath where the user can enter a keyword.  After entering the keyword the user presses the search button again to search all the help pages for that word.  The returned result will be a page listing the help pages containing the word, or a page saying sorry the word could not be found.
 
 ==Report a bug==
-The option to report a bug can be found at the bottom of the page 
+The option to report a bug can be found at the bottom of the page.  Upon clicking the button the user will be directed to a window showing the titlebar (with the title of the page and the back button), and a textfield.  Here the user can enter the report and submit it by clicking the submit button, and they will be redirected to the help page.  Or they can go back by clicking the back button
