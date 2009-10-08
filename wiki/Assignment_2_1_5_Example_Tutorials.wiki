@@ -1,10 +1,6 @@
-#summary One-sentence summary of this page.
+Example Tutorials
 
 = Introduction =
-
-Add your content here.
-
-
 = Details =
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/MainPage.jpg]
 ----
