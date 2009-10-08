@@ -26,7 +26,7 @@ Then, in this tutorial, we choose the personal computer as an example. Click the
 
 Once we click the personal computer, the whole machine will shown on the screen like the picture above. And  now we can drag any part of the machine to anywhere in the screen. In this example, we choose the DVD driver. We can drag the DVD driver to the up left corner like the picture shown below.
 
-[http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/Open__Drag.jpg]
+[http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/Open__Drag1.jpg]
 
 Or we can put it into the original place.
 
