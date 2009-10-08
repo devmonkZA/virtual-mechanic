@@ -2,23 +2,34 @@ Example Tutorials
 
 = Introduction =
 = Details =
-*STEP1* 
+*STEP1 - The initial screen once we start the application* 
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/MainPage.jpg]
 
 First We click on the start button(in the picture above) to get this application start working. Once we click start button, then the screen will show the picture below.
 ----
-*STEP2*
+*STEP2 - Analyze the machine by dissembling it*
  
+
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/LoadMachine.jpg]
 
-Then, in this tutorial, we choose the personal computer as an example. Click the personal computer in the red square, the screen will show the picture in step3.
+Then, in this tutorial, we choose the personal computer as an example. Click the personal computer , the screen will show the picture in step3.
 ----
-*STEP3* 
+*STEP3 - See the comments and description of the part of machine* 
+
+[http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/TheMachineView.jpg]
+
+Now we can see whole machine. This step we wanna see the comments, by choosing one part of the machine which user wanna see the information about and click on the Detail & discuss button The screen will show the following picture.
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentingInterface.jpg]
 ----
+*Step4 - Adding our comments of the part of machine *
+
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentsPage.jpg]
+
+We want to add our comments of the part of machine so we can press the button called "Post Comments"
+
+[http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/CommentingInterface.jpg]
 ----
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/THeTitleBar.jpg]
 ----
