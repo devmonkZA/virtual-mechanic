@@ -27,3 +27,10 @@ http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/Setting
 This option allows the user to in the machine view, shake the device to return all the parts of a machine to their origonal positions.
 
 ===Auto update===
+The auto update feature allows the user to specify whether or not they want the iPod to update a machine with all the new comments and photos from the server every time that they open a machine.
+
+===Save on exit===
+Saves the positions of all the parts in the machine view for the next time the user views that machine.
+
+===Background color===
+Allows the user to change the color of the canvas in the machine view.  Allows the user to choose from a selection of 9 colors.
