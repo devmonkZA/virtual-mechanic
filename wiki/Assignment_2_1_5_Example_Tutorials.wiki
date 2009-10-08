@@ -13,6 +13,7 @@ First We click on the start button(in the picture above) to get this application
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/LoadMachine.jpg]
 
+
 Then, in this tutorial, we choose the personal computer as an example. Click the personal computer , the screen will show the picture in step3.
 ----
 *STEP3 - See the comments and description of the part of machine* 
@@ -40,5 +41,6 @@ We want to add our comments of the part of machine so we can press the button ca
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/CommentingInterface.jpg]
 
 Then the keyboard and the comments text field will appear after pressing the "Post new Comments" button as the picture show below.
+
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/Comment_Post.jpg]
 ----
