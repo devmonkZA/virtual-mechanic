@@ -46,22 +46,16 @@ Shows a catalog of machines available for download. Allows the user to download 
   *  Save on exit - Toggles option to save part positions automatically on exit. 
   *  Background color - Lets users set background color while in machine view.
 
--------------------------------------------------------------------
-==Viewing the Machine==
+==Machine View==
+
 ===The Control Bar===
-The control bar is present whenever the user is viewing a machine.  It is displayed at the bottom of the screen and contains 5 buttons:
-====Reset Button====
-The reset button returns all the parts of the machine to their default location
+The control bar is present whenever the user is viewing a machine.  It is displayed at the bottom of the screen and contains 4 clickable buttons:
 
-====Commenting Button====
-The commenting button allows users bring up the comment window for the currently selected part.  
+  *  Undo - Undo previous drag and drop action
+  *  Details and Discuss - Brings up a screen which shows the details and comments of a particular part (when a part is selected) or the machine in general. Has an option to allow users to add a comment. If this screen is already open, clicking it closes the comment window (returning the machine view)
+  *  Photos - The button brings up a photo album with relevant photos for the currently selected part. If no part is selected then it brings up a photo album with relevant photos of the overall machine.
+  *  Reset Button - The reset button returns all the parts of the machine to their original default location. This feature can be supplemented turning on the "Shake to reset" option under "Settings"
 
-If no part is selected it brings up the comment window for the machine.
-
-If the comment window is already open it closes the comment window (returning the machine view)
-
-====Photo Button====
-The *Photo* button brings up the photo window for the currently selected part.  If no part is selected then it brings up a photo window for the machine.
 
 ====Help Button====
 The help button brings up a help window which gives the user advice about the screen they are currently looking at.  Its precise behavior for each window is described below in the description of each window.  From each help window one can navigate to the help table of contents via a link at the bottom of the page, or go back to your previous window by again clicking the help button.
