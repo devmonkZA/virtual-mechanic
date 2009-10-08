@@ -1,7 +1,11 @@
 Example Tutorials
 
 = Example Tutorial =
+*Introduction*
 
+In this tutorial we are going to use the application called "Virtual Mechanic" to analyze machines and viewing/adding comments of the part of the machine. In other word, That's get start knowing how this application performs!!!
+
+----
 *STEP1 - The initial screen once we start the application* 
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/MainPage.jpg]
@@ -43,4 +47,7 @@ We want to add our comments of the part of machine so we can press the button ca
 Then the keyboard and the comments text field will appear after pressing the "Post new Comments" button as the picture show below.
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/Comment_Post.jpg]
+
+In this example we type the question that is shown on the picture, after that we can press the "post" then the comments will be posted on the comments where others could see. We do not have to type user name every time we posting comments, because the user id or password are already memorized once we typed in the beginning of application.
 ----
+End of this Example Tutorial
