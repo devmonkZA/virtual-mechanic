@@ -32,7 +32,7 @@ Or we can put it into the original place.
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/TheMachineView.jpg]
 
-Now we can see and analyze the whole machine. Next step we wanna see the comments, by choosing one part of the machine which user wanna see the information about (in this example we choose the DVD driver)and click on the Detail & discuss button The screen will show the following picture.
+Now we can see and analyze the whole machine. In the next step we want to see the comments, by choosing one part of the machine which the user wants see the information about (in this example we choose the DVD driver)and clicking on the Detail & discuss button The screen will show the following picture.
 
 [http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentingInterface.jpg]
 ----
