@@ -11,10 +11,10 @@ When presented with a machine, users can click and drag parts of the machine aro
 Users can contribute to the overall discussion by posting photos that are taken by the iPhone. They can also post comments on a specific part of the machine or the machine in general. 
 ----
 
-=Intended Audience List=
+=Intended Audience=
 
 ==User Groups==
-The application is quite general and may apply to almost any sort of mechanical device one can imagine: Computers, cars, boats, clocks, etc.  The user groups are expected to have particular interest in performing their learning in a social setting. Users require no more than a basic understanding of how to operate an iPhone.  The groups may be categorized as follows:
+The application is quite general and may apply to almost any sort of mechanical device one can imagine: Computers, cars, boats, clocks, etc. The user groups are expected to have particular interest in performing their learning in a social setting. Users require no more than a basic understanding of how to operate an iPhone. The groups may be categorized as follows:
 
 - Students learning about mechanical devices. <br>
 - People working in the field maintaining mechanical devices. <br>
@@ -24,7 +24,7 @@ The application is quite general and may apply to almost any sort of mechanical 
 ==User Requirements==
 
 - The application is completely visual and thus is unavailable to the visually-impaired. <br>
-- The users must have access to an iPhone. <br>
+- The users must have access to an iPhone, iTunes with internet access. <br>
 - In order to view comments, or download new content the user must have access to the internet. <br>
 - Because the application is so heavily text based the user should also have an intermediate understanding of the English language. <br>
 ----
@@ -32,31 +32,20 @@ The application is quite general and may apply to almost any sort of mechanical 
 =Features=
 
 ==Main Menu==
-The main menu shall show the logo, and name of the product, as well as 5 buttons at the bottom of the screen, which offer the following options:
+The main menu shall show the logo, and name of the product, the version number, as well as 3 buttons at the bottom of the screen, which offer the following options:
 
-===Load Machine===
-Allows the user to load a *machine* which is saved onto the device (excluding comments on *parts* and the machine itself)
+===Start===
+Allows the user to load a machine which is already on the device, together with all relevant details, comments and photos. Includes an option to jump to "Download Machines" below. 
 
-===Download new Machines===
-Allows the user to download new machines from the server
-
-A button in the main menu opens up a catalog of machines available for download.
+===Download Machines===
+Shows a catalog of machines available for download. Allows the user to download new machines from the server, together with all relevant details, comments and photos. 
 
 ===Settings===
-Help: on/off<br>
-Shake-to-reset: on/off<br>
-OR<br>
-Shake-to-randomize: on/off (mixes up the part positions)<br>
-Background colour: automatic/set color  <----(Can we get a color wheel for this or can we only offer finitely many colors?)<br>
-Sound: there will be sound while user doing action such as dragging a *component* to somewhere or shake to reset. <br>
-Automatically download new content?http://code.google.com/p/virtual-mechanic/w/edit/Assignment_2_1_3_Features <br>
-Send anonymous usage report to server?
+  *  Shake to reset on/off - Toggles option to reset all part locations for a particular machine by shaking the iPhone rigorously. 
+  *  Auto update on/off - Toggles option to update current machines on device automatically.
+  *  Save on exit - Toggles option to save part positions automatically on exit. 
+  *  Background color - Lets users set background color while in machine view.
 
-===Program feedback===
-A button in the main menu links to a form that allows users to give feedback on the application.
-
-====Help===
-The Help button brings up the help table of contents.
 -------------------------------------------------------------------
 ==Viewing the Machine==
 ===The Control Bar===
@@ -78,8 +67,8 @@ The *Photo* button brings up the photo window for the currently selected part.  
 The help button brings up a help window which gives the user advice about the screen they are currently looking at.  Its precise behavior for each window is described below in the description of each window.  From each help window one can navigate to the help table of contents via a link at the bottom of the page, or go back to your previous window by again clicking the help button.
 ====Main Menu====
 Returns the user to the main menu
--------------------------------------------------------------------
-===The Machine view===
+
+===Machine view===
 The Machine view is the screen where the user may view and interact with the machine.
 ====Disassembly====
 By using their fingers, users can take a machine, apart piece by piece. Using a "click-and-drag" interface, users can place the pieces anywhere they wish on the screen. Since the machine is built with many overlapping images, users can view the deeper components by dragging the upper images to other places on the screen.  <br> 
