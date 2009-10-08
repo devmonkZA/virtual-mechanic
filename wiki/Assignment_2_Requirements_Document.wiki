@@ -117,10 +117,12 @@ This iPhone application must be 100% efficient when Iphone has power. If the pow
 While tapping on any one piece, the comment, or description should show on the screen no more than 2 seconds, otherwise this may make user spending too much time analyzing the whole machine. Dragging peace and zooming in the image should perform immediately after users giving the order. Remaining time should be shown on the screen while Uploading comments. 
 
 ==== Space Requirements ====
+The goal here is to use as little iPhone memory as possible. Comments and picture files will be stored on the server, along with the downloadable content (i.e. Machines). Users will have complete control over how many machines are stored on their iPhone. (I think this is what is meant by space requirement -Marc)
+
 The machine should fit the whole screen on Iphone when the program just started or when users press reset. After zooming in, the images do not have to fit the screen anymore. In the memory part, each part has at most 10 comments including Date, Name(10 characters), comment(200 characters). For the size of pictures, it depends on how many parts the machine has.  
 
 === Reliability Requirements ===
-While running this application, the system will not crash if users follows the safety requirements. If users cannot put the images into original position, pressing reset button will solve this problem.  
+While running this application, the system will not crash if users follows the safety requirements. If users cannot put the images into their original positions, pressing the reset button will place all images back at their origin position.  
 
 === Portability Requirements ===
 The average time needed to port the application from Mac OSX Operation System to Iphone must not exceeds 1 minutes.
@@ -128,17 +130,15 @@ The average time needed to port the application from Mac OSX Operation System to
 Porting the application from Mac OSX to Iphone must not require modifying more than 0.5% of the modules.
 
 == Organizational Requirements ==
-Each machine has as many part of images as possible.The machine's name and images' name has maximum of 20 characters. Each images has maximum 10 comments and each comments has maximum 200 characters. Each users name has maximum 20 characters. Uploading image and comments requires date.
+Each machine has as many part of images as possible. The machine's name and images' name has maximum of 20 characters. Each images has maximum 10 comments and each comments has maximum 200 characters. Each users name has maximum 20 characters. Uploading image and comments requires date.
 
 === Delivery Requirements ===
-This application requires the application(h files, m files,etc). Also all the data, including images and comments, of the machine must be delivered into Iphone to run this application successfully. 
+This application requires the application (.h files, .m files,etc). Also all the data, including images and comments, of the machine must be delivered into iPhone to run this application successfully. 
 
 === Implementation Requirement ===
-The software will be developed using XCode, Interface Builder.
-Programming language is Objective-C.
-Operating system is Mac OS.
-The framework involved are: Cocoa touch, CFNetwork.
-The feature online user interactive will be based on an FTP server.
+The software will be developed using the XCode Interface Builder. The system will be programmed using the Objective-C programming language and will run on the iPhone platform. Operating system is Mac OS.
+The frameworks involved are: Cocoa touch, CFNetwork.
+The feature online user interactivity will be based on an FTP server.
 
 == External Requirements ==
 User accounts will be recorded in an FTP server 
