@@ -65,7 +65,7 @@ User accounts will be recorded in an FTP server
 
 === Interoperability Requirements ===
 The device that runs this application must be iphone with iphone OS.
-The platform under where the debug version of this software can be imported must be XCode IDE with iphone SDK upon Mac OS.
+The platform under where the debug version of this software can be imported must be XCode IDE with iphone SDK installed,running on Mac OS.
  
 === Ethical Requirements ===
 No feature of the software will request user make any kind of payment(except for getting
