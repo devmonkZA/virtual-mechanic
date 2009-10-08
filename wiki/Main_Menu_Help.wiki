@@ -19,3 +19,11 @@ The download machines button opens up a window which displays all available mach
 http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/Download_Machines.jpg?t=1255040645
 
 By selecting the machine of interest the user will start the downloading process where a progress bar will be displayed until completion when the user will be redirected to the main menu.
+
+==Settings==
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/Settings.jpg?t=1255040980
+
+===Shake to reset===
+This option allows the user to in the machine view, shake the device to return all the parts of a machine to their origonal positions.
+
+===Auto update===
