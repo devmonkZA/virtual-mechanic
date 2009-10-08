@@ -1,4 +1,6 @@
 =The Main Menu=
+The main menu is the first thing to be displayed when you load the program it is here that you choose which machines you are interested in viewing, or change the settings for the program.
+
 http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/MainPage.jpg?t=1255039839
 
 The main menu offers 4 main functions:
@@ -8,5 +10,8 @@ The start function allow the user to access the load machine screen from which t
 
 http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/LoadMachine.jpg?t=1255040096
 
-(A scroll bar shall be displayed if there are too in the list for the screen)
+(A scroll bar shall be displayed if there are too many machines in the list for the screen)<br>
 Once the user has selected the machine they wish to load (by tapping the machine name) the Machine View for that machine will be loaded.
+
+==Download Machines==
+The download machines button opens up a window which displays all available machine that the user does not already have saved onto their ipod.
