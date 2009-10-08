@@ -72,9 +72,9 @@ The Machine view is the screen where the user may view and interact with the mac
 
   *  To select a part: The user taps the part with their finger.  The name of the part is displayed at the top of the screen to show that the correct part has been selected. The selected part is highlighted with a glowing red 'halo' around it.
 
-  * To deselect a part:  The user taps on an empty space somewhere on the screen. The red 'halo' disappears and the title bar updates to show that the overall machine is now selected. If the user taps on a different part, then the halo disappears from the old part and appears on the new one. The title bar, as usual, reflects this change as well. 
+  *  To deselect a part:  The user taps on an empty space somewhere on the screen. The red 'halo' disappears and the title bar updates to show that the overall machine is now selected. If the user taps on a different part, then the halo disappears from the old part and appears on the new one. The title bar, as usual, reflects this change as well. 
 
-To move a part:  Once the part is selected the user may press and move their finger around to simulate a dragging action. The part is dragged to the desired location, and releasing the finger stops the dragging motion. 
+  *  To move a part:  Once the part is selected the user may press and move their finger around to simulate a dragging action. The part is dragged to the desired location, and releasing the finger stops the dragging motion. 
 
   *  Zooming
 Using two fingers to tap and expand on the screen will zoom in to the machine. To be more precisely, the screen will start zooming in from the place where the two fingers tapped at beginning. So the users can decide where to zoom in. When looking at photos, the action zooms into/out of photos.
