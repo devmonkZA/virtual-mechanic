@@ -50,4 +50,4 @@ Then the keyboard and the comments text field will appear after pressing the "Po
 
 In this example we type the question that is shown on the picture, after that we can press the "post" then the comments will be posted on the comments where others could see. We do not have to type user name every time we posting comments, because the user id or password are already memorized once we typed in the beginning of application.
 ----
-End of this Example Tutorial
+*End of this Example Tutorial*
