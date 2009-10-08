@@ -15,7 +15,7 @@ The title bar is displayed at the very top of the screen and contains:
 ===The Control Bar===
 The control bar is displayed at the very bottom of the page and contains 3 Buttons:
 
-(Image of only the control bar)
+http://i875.photobucket.com/albums/ab318/greg1337Steff/TheControlBar.jpg?t=1255027176
 
 -The Comments button will open up the (comments window) <--(link to comments window help) (Button image)<br>
 -The Photo button will open up the (photo window) <-- link (Button image)<br>
