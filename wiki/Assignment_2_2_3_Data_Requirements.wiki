@@ -1,6 +1,13 @@
 #summary One-sentence summary of this page.
 <wiki:toc max_depth="3" />
 
+
+3.  Data Requirements This is a summary of all the I/O for your system, including
+exact definitions of file and database formats, what other systems (if any) yours
+interacts with, and how the user interacts with the system via the
+mouse/keyboard/wii-mote/etc.
+
+
 = Introduction =
 
 The files used in development of the project will be mainly:
