@@ -26,8 +26,19 @@ under-deliver (too few features).
 || Help/Instructions || x || x || x ||
 || Menus || x || x || x ||
 || User friendly interface || x || x || x ||
+|| Reset || x || x || x ||
+|| Set background colour || x || x || x ||
+|| Back button || x || x || x ||
+|| Undo button || x || x || x ||
 || Commenting ||  || x || x ||
 || Photo posting ||  || x || x ||
 || Search ||  || x || x ||
+|| Save on exit ||  || x || x ||
+|| Help button ||  || x || x ||
+|| Zoom in ||  || x || x ||
+|| Zoom out ||  || x || x ||
+|| Register new user ||  || x || x ||
+|| Shake to reset ||  || x || x ||
 || Download new machines ||  ||  || x ||
+|| Auto update ||  ||  || x ||
 ||  ||  ||  ||  ||
