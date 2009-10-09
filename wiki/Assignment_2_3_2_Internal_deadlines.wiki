@@ -1,4 +1,8 @@
 #summary One-sentence summary of this page.
+2.  The internal deadlines your group sets for unit/system testing of the code for release.
+Naturally, these deadlines must be well enough before the project submission date to
+give you time to do the testing and fix errors that might arise, but also late enough so
+that the development group has time to get all the features implemented.
 
 = Introduction =
 
