@@ -5,7 +5,7 @@ Naturally, these deadlines must be well enough before the project submission dat
 give you time to do the testing and fix errors that might arise, but also late enough so
 that the development group has time to get all the features implemented.
 
-= Introduction =
+= Important Deadlines =
 
 || *Version* || *Action* || *Start Date* || *End Date* || *Supervisor* ||
 || 1 || Unit testing and Revision || October 30, 2009 || November 2, 2009 || Greg ||
@@ -19,10 +19,3 @@ that the development group has time to get all the features implemented.
 || 3 || Submission || - || December 3, 2009 ||  ||
 
 *Okay supervisor's aren't definite yet, just placeholders. We can discuss this at a later date*
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
