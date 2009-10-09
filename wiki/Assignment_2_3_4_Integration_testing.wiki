@@ -1,4 +1,9 @@
 #summary One-sentence summary of this page.
+4.  Detail what kind of integration testing you expect to do, and how you expect to do it.
+It's wise to avoid "big bang" integration, where all the models are combined and
+tested at once. Instead, tell us how you plan to incrementally integrate and test the
+system. Be clear about how this testing differs from the unit testing you are also
+doing.
 
 = Introduction =
 
