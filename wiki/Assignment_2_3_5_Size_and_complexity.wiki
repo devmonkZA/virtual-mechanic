@@ -3,6 +3,12 @@
 You should be automatically counting various software metrics such as number of
 files, number of lines of codes, number of classes, etc. 
 
+In addition to providing the raw measurement values, graph this measurement data
+(e.g. as line-graphs using an Excel spreadsheet) for each version of your project.
+Clearly label your data and graphs so that someone unfamiliar with the details of
+your project can understand what it is about without having to look at anything other
+than the graph itself.
+
 There are commercial tools that help to measure the size and complexity of your poject. Are you using any?
 
 Graphs scuh as:
