@@ -1,5 +1,8 @@
 #summary One-sentence summary of this page.
 
+1. Guidelines List all technical guidelines (e.g. "Development will be done using the 
+Eclipse IDE"), and any relevant ethical or legal issues.
+
 = Introduction =
 
 The development of the sofware will base on Mac OS. The whole development process will be using Objective-C, the development envirment is XCode provided by Apple. Iphone Simulator and compiler tools of XCode will be applied during development phrase. There will be an FTP server supporting the online discussion and bug reporting feature of the product. The database in the server side will be MySQL database, which will recorde user information, uploaded files as well as files for downloading.   Language used in database development is SQL language. 
