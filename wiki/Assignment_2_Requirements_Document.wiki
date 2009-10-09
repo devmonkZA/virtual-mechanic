@@ -125,21 +125,13 @@ button, part name, and help button) and the larger version of the image. In this
 To post a new image, the user can upload a photo from the iPhone library, or take a new photo with the iPhone camera. 
 
 -------------------------------------------------------------------
-#summary Non-Functional Requirements
-
-<wiki:toc max_depth="4" />
-
-= Introduction =
+= Non-functional Requirements =
 
 The whole system will be built using the Objective-C programming language in the iPhone SDK 3.0 environment.
 
 The size of component images clipped from the machine image (like the door of a car) should be exactly the same size as the original (not clipped away).
 
 The only user information that will be retained is the username (chosen by the user upon first use of the application) which will be shown in each of their posts in the comments area.
-
-----
-= Non-functional Requirements =
-
 
 == Product Requirements ==
 Product Name: virtual-mechanic
