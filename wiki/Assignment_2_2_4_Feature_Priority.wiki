@@ -32,13 +32,11 @@ under-deliver (too few features).
 || Undo button || x || x || x ||
 || Commenting ||  || x || x ||
 || Photo posting ||  || x || x ||
-|| Search ||  || x || x ||
 || Save on exit ||  || x || x ||
-|| Help button ||  || x || x ||
-|| Zoom in ||  || x || x ||
-|| Zoom out ||  || x || x ||
 || Register new user ||  || x || x ||
 || Shake to reset ||  || x || x ||
 || Download new machines ||  ||  || x ||
 || Auto update ||  ||  || x ||
+|| Zoom in ||  ||  || x ||
+|| Zoom out ||  ||  || x ||
 ||  ||  ||  ||  ||
