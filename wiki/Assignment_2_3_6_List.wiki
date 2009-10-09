@@ -2,14 +2,8 @@
 6.  List everything else you are doing to ensure the quality of your project. Give specific
 times and dates whenever possible.
 
-= Introduction =
+=Extra Measures=
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+ # Document progress in a thorough manner.
+ # Have supervisors for each testing phase for added insurance.
+ # Take notes through each use case testing to document errors.
