@@ -1,4 +1,11 @@
 #summary One-sentence summary of this page.
+3.  Give the time, date, and location for when user acceptance testing of version 3 of
+your project (the final version) will be done. If you also want to do user testing for
+one or both of the earlier versions, then include the time, date, and location for those
+tests as well.
+Also tell us how this testing will be done: what will you be asking the users to do?
+Describe your the testing you plan to do in enough detail so that someone not in your
+group could run it for you.
 
 = Introduction =
 
