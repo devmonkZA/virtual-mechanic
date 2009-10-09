@@ -1,4 +1,6 @@
 #summary One-sentence summary of this page.
+6.  List everything else you are doing to ensure the quality of your project. Give specific
+times and dates whenever possible.
 
 = Introduction =
 
