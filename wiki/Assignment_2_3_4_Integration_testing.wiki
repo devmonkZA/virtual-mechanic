@@ -7,6 +7,7 @@ doing.
 
 = Introduction =
 Intergration testing is the plan that include all testing of avoiding "big bugs."
+
 *Download Machine*
 
 While downloading machine, the possible bug may be the following problem: Cannot downlaod the machien from the server. For exmaple, if we are trying to downlaod the images of a personal computer, we cannot downlaod so the error will occur. This would be a "big but" of downlaoding the images because of the failture of uplaoding images from other usesrs.
