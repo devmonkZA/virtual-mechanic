@@ -1,21 +1,10 @@
-#summary One-sentence summary of this page.
+= State Machine Diagram =
 
-2.  System Diagrams This should include 2 or 3 (or more, if needed) substantial
-diagrams showing how the major modules, classes, and functions of your system
-relate and share data. Important: these must be diagrams as described in chapter 8
-(System models) of the textbook; you must follow the proper rules and notations for
-the diagrams you use. It is not acceptable to make up your own kind of diagram! If
-you are using an object-oriented programming language, than one of your diagrams
-ought to be a class diagram.
-Keep in mind the purpose of this is not just to draw pretty diagrams, but to create
-blue prints that will later on help you implement your system.
-
-= Introduction =
-
-Add your content here.
+http://i684.photobucket.com/albums/vv204/tyrelltle/Screenshot2009-10-07at656.jpg
 
 
-= Details =
+= Class Diagram =
+http://i684.photobucket.com/albums/vv204/tyrelltle/classDia.jpg
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
