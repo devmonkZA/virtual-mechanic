@@ -6,8 +6,18 @@ system. Be clear about how this testing differs from the unit testing you are al
 doing.
 
 = Introduction =
+Intergration testing is the plan that include all testing of avoiding "big bugs."
+*Download Machine*
 
-Add your content here.
+While downloading machine, the possible bug may be the following problem: Cannot downlaod the machien from the server. For exmaple, if we are trying to downlaod the images of a personal computer, we cannot downlaod so the error will occur. This would be a "big but" of downlaoding the images because of the failture of uplaoding images from other usesrs.
+
+*Drugging part of the machine* 
+
+If we wanna drug any part of the machine, the possible bug may occur would be that users cannot selected the part that users would lilke to drug. For example, if the users want to drug the DVD driver in a personal computers and the origional creator did not upoad to ther server, or users cannot get the images from ther server then the user would not able to drug the part they want to.
+
+*Posting new comments*
+
+
 
 
 = Details =
