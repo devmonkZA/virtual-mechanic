@@ -1,4 +1,5 @@
-#summary One-sentence summary of this page.
+#Integration Testing
+
 4.  Detail what kind of integration testing you expect to do, and how you expect to do it.
 It's wise to avoid "big bang" integration, where all the models are combined and
 tested at once. Instead, tell us how you plan to incrementally integrate and test the
@@ -6,7 +7,7 @@ system. Be clear about how this testing differs from the unit testing you are al
 doing.
 
 = Introduction =
-Intergration testing is the plan that include all testing of avoiding "big bugs."
+Intergration testing is the plan that includes all testing of avoiding "big bugs." We use the usage model testing system to test our application. Usage model run user-like workloads in integrated user-like environments to identify the bugs.
 
 *Download Machine*
 
@@ -29,13 +30,3 @@ While downloading machine, the possible bug may be the following problem: Cannot
 2. If the users cannot connect to the server, then their comments cannot be viewed on others's iPhone so the new comments would only be shown on the users' screen.
 
 3. Transfer error: when we uplolading the comments to ther server, then the comments would be changed into a signal, so there would be some errors in transforming the singals. For example, if we posted the comment "How this work," it may appear in server as "!@# $%! !%!#." 
-
-
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
