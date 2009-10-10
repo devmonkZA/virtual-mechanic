@@ -11,7 +11,10 @@ doing.
 Intergration testing is the plan that includes all testing of avoiding "big bugs." We use the Bottom Up Testing system to test our application. First, we test the lowest components in the application. If the lowest components are correct, then we test the component that one level higher than the lowest components. We keep this rutine until all level components are correct.
 
 *Step 1 Download Machine*
-In the beginning we will have to download to have something the disembling  
+
+In the beginning we will have to download the machine to have something that we can  disassemble, or analyze. Then we can download machines from server and the following bugs may occur.
+
+   
 While downloading machine, the possible bug may be the following problem: Cannot downlaod the machien from the server. For exmaple, if we are trying to downlaod the images of a personal computer, we cannot downlaod so the error will occur. This would be a "big but" of downlaoding the images because of the failture of uplaoding images from other usesrs.
 
 *Drugging part of the machine* 
