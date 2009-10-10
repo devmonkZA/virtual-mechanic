@@ -18,7 +18,10 @@ While downloading machine, the possible bug may be the following problem: Cannot
 
 2.While drugging a part of the machine, delaying may occur. For example, the images cannot follow the moving of our finger. it may takes 5-10 seconds to start move the images.
 
+3.If we are drugging a part of a machine, the cordinate are calcualted wrong, then the images would not move to the exactly place where the users want.
+
 *Posting new comments*
+
 1. If the users type the font that iPhone cannot dispaly the code of the font then it would be shown as confused symbols that cannot be read.
 
 2. If the users cannot connect to the server, then their comments cannot be viewed on others's iPhone so the new comments would only be shown on the users' screen.
