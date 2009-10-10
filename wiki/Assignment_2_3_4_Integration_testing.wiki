@@ -7,10 +7,11 @@ system. Be clear about how this testing differs from the unit testing you are al
 doing.
 
 = Introduction =
-Intergration testing is the plan that includes all testing of avoiding "big bugs." We use the usage model testing system to test our application. Usage model run user-like workloads in integrated user-like environments to identify the bugs.
 
-*Download Machine*
+Intergration testing is the plan that includes all testing of avoiding "big bugs." We use the Bottom Up Testing system to test our application. First, we test the lowest components in the application. If the lowest components are correct, then we test the component that one level higher than the lowest components. We keep this rutine until all level components are correct.
 
+*Step 1 Download Machine*
+In the beginning we will have to download to have something the disembling  
 While downloading machine, the possible bug may be the following problem: Cannot downlaod the machien from the server. For exmaple, if we are trying to downlaod the images of a personal computer, we cannot downlaod so the error will occur. This would be a "big but" of downlaoding the images because of the failture of uplaoding images from other usesrs.
 
 *Drugging part of the machine* 
