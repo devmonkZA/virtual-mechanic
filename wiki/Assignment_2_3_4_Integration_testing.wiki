@@ -14,9 +14,16 @@ While downloading machine, the possible bug may be the following problem: Cannot
 
 *Drugging part of the machine* 
 
-If we wanna drug any part of the machine, the possible bug may occur would be that users cannot selected the part that users would lilke to drug. For example, if the users want to drug the DVD driver in a personal computers and the origional creator did not upoad to ther server, or users cannot get the images from ther server then the user would not able to drug the part they want to.
+1.If we wanna drug any part of the machine, the possible bug may occur would be that users cannot selected the part that users would lilke to drug. For example, if the users want to drug the DVD driver in a personal computers and the origional creator did not upoad to ther server, or users cannot get the images from ther server then the user would not able to drug the part they want to.
+
+2.While drugging a part of the machine, delaying may occur. For example, the images cannot follow the moving of our finger. it may takes 5-10 seconds to start move the images.
 
 *Posting new comments*
+1. If the users type the font that iPhone cannot dispaly the code of the font then it would be shown as confused symbols that cannot be read.
+
+2. If the users cannot connect to the server, then their comments cannot be viewed on others's iPhone so the new comments would only be shown on the users' screen.
+
+3. Transfer error: when we uplolading the comments to ther server, then the comments would be changed into a signal, so there would be some errors in transforming the singals. For example, if we posted the comment "How this work," it may appear in server as "!@# $%! !%!#." 
 
 
 
