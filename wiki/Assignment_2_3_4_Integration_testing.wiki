@@ -20,6 +20,8 @@ While downloading machine, the possible bug may be the following problem: Cannot
 
 3.If we are drugging a part of a machine, the cordinate are calcualted wrong, then the images would not move to the exactly place where the users want.
 
+4.One bug maybe occuring in drugging images. For example, while we move an image form on place to other plece and we will pass by an other images, then the users may also drug the images we just pass by.
+
 *Posting new comments*
 
 1. If the users type the font that iPhone cannot dispaly the code of the font then it would be shown as confused symbols that cannot be read.
