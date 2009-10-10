@@ -36,6 +36,9 @@ The generated file extension will be of the .ss (SoundScape) format. The file is
 
  The user can touch any component of the machine to 'select' it; meaning that the user will be able to view information about it as well as move it around. Using two fingers to drag the screen will zoom in or zoom out the image of the machine (or component of the machine). Also, zooming in and out using two fingers can control the transparent of the current top layer of the build of the machine. The user can drag any component of the machine to see parts under this component.
 
+When User shake the iphone ,all components of the machine which were draged to somewhere will return  to
+where they originally located.
+
 ===Commenting===
 
  When commenting, users will be presented with a 'touch keyboard' on screen to type in their message. A click-and-drag function is available to scan through the page for posts if there are more messages than can fit on-screen.
