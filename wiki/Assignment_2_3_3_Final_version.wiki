@@ -13,7 +13,7 @@ group could run it for you.
 =User Acceptence Testing=
 There shall be 2 user acceptence testsat different points of the implementation phase:
 
-- The 1st earlier in the phase to gain a sense for anything that might be improved early on.
+- The 1st earlier in the phase to gain a sense for anything that might be improved early on.<br>
 - The 2nd towards the end of the project not after having finished (what would be the point)
 == Testing Locations ==
 The testing will be done in two different locations:
