@@ -28,12 +28,74 @@ kinds of software testing. Tell us how you generate and manage your test cases.
 
 =Integration Testing=
 
+4.  Detail what kind of integration testing you expect to do, and how you expect to do it.
+It's wise to avoid "big bang" integration, where all the models are combined and
+tested at once. Instead, tell us how you plan to incrementally integrate and test the
+system. Be clear about how this testing differs from the unit testing you are also
+doing.
+
+Intergration testing is the plan that includes all testing of avoiding "big bugs." We use the Bottom Up Testing system to test our application. First, we test the lowest components in the application. If the lowest components are correct, then we test the component that one level higher than the lowest components. We keep this rutine until all level components are correct.
+
+*Step 1 - Download Machine*
+
+In the beginning we will have to download the machine to have something that we can  disassemble, or analyze. Then we can download machines from server and the following bugs may occur.
+
+   
+While downloading machine, the possible bug may be the following problem: Cannot downlaod the machien from the server. For exmaple, if we are trying to downlaod the images of a personal computer, we cannot downlaod so the error will occur. This would be a "big but" of downlaoding the images because of the failture of uplaoding images from other usesrs.
+
+*Step 2 - Dragging part of the machine* 
+
+Once we have the machines to disassemble, we may want to drag, disassembl the machine part by part. While users usings their fingers to drag the pictures, the following bugs may occur. 
+
+1.If we wanna drag any part of the machine, the possible bug may occur would be that users cannot selected the part that users would lilke to drag. For example, if the users want to drag the DVD driver in a personal computers and the origional creator did not upoad to ther server, or users cannot get the images from ther server then the user would not able to drag the part they want to.
+2.While dragging a part of the machine, delaying may occur. For example, the images cannot follow the moving of our finger. it may takes 5-10 seconds to start move the images.
+3.If we are dragging a part of a machine, the cordinate are calcualted wrong, then the images would not move to the exactly place where the users want.
+4.One bug maybe occuring in dragging images. For example, while we move an image form on place to other plece and we will pass by an other images, then the users may also drag the images we just pass by.
+
+*Step 3 - Posting new comments*
+
+In this stept, as the highest level, we would try to post the comments to ther server. And the following bugs may occur.
+
+1. If the users type the font that iPhone cannot dispaly the code of the font then it would be shown as confused symbols that cannot be read.
+2. If the users cannot connect to the server, then their comments cannot be viewed on others's iPhone so the new comments would only be shown on the users' screen.
+3. Transfer error: when we uplolading the comments to ther server, then the comments would be changed into a signal, so there would be some errors in transforming the singals. For example, if we posted the comment "How this work," it may appear in server as "!@# $%! !%!#." 
+
 ----
 
 =Size and complexity=
 
+5.  The software tool(s) you are using to measure the size and complexity of your project.
+You should be automatically counting various software metrics such as number of
+files, number of lines of codes, number of classes, etc. 
+
+In addition to providing the raw measurement values, graph this measurement data
+(e.g. as line-graphs using an Excel spreadsheet) for each version of your project.
+Clearly label your data and graphs so that someone unfamiliar with the details of
+your project can understand what it is about without having to look at anything other
+than the graph itself.
+
+There are commercial tools that help to measure the size and complexity of your poject. Are you using any?
+
+Graphs scuh as:
+version 1: 200 lines of code
+version 2: 600 lines of code
+version 3: 1500 lines of code
+and/or
+version 1: 2 classes
+version 2: 40 classes
+etc.
+
+Remember, this is a evolving document. You may not have all the information at this stage, but you will as we progress though the term. You will also be required to update this document as the project progresses.
+
 ----
 
 =Miscellaneous=
+
+6.  List everything else you are doing to ensure the quality of your project. Give specific
+times and dates whenever possible.
+
+ # Document progress in a thorough manner.
+ # Have supervisors for each testing phase for added insurance.
+ # Take notes through each use case testing to document errors.
 
 ----
