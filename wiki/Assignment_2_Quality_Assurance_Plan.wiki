@@ -64,28 +64,12 @@ In this stept, as the highest level, we would try to post the comments to ther s
 
 =Size and complexity=
 
-5.  The software tool(s) you are using to measure the size and complexity of your project.
-You should be automatically counting various software metrics such as number of
-files, number of lines of codes, number of classes, etc. 
+|| *Version* || *Lines of code* || *Number of classes* || *Number of files* || *Number of machines* || *Program size* || 
+|| 1 || 200 || 5 || 5 || 1 || 1MB || 
+|| 2 || 500 || 6 || 10 || 2 || 2MB || 
+|| 3 || 800 || 7 || 15 || 2/3 || 3MB || 
 
-In addition to providing the raw measurement values, graph this measurement data
-(e.g. as line-graphs using an Excel spreadsheet) for each version of your project.
-Clearly label your data and graphs so that someone unfamiliar with the details of
-your project can understand what it is about without having to look at anything other
-than the graph itself.
-
-There are commercial tools that help to measure the size and complexity of your poject. Are you using any?
-
-Graphs scuh as:
-version 1: 200 lines of code
-version 2: 600 lines of code
-version 3: 1500 lines of code
-and/or
-version 1: 2 classes
-version 2: 40 classes
-etc.
-
-Remember, this is a evolving document. You may not have all the information at this stage, but you will as we progress though the term. You will also be required to update this document as the project progresses.
+No software tools will be used to measure these figues. Instead, the team will record the actual numbers from observations (ie. noting the number of lines in the xcode, recording the total size of the project folder, etc.) and continuously update these figures.
 
 ----
 
@@ -94,8 +78,11 @@ Remember, this is a evolving document. You may not have all the information at t
 6.  List everything else you are doing to ensure the quality of your project. Give specific
 times and dates whenever possible.
 
- # Document progress in a thorough manner.
- # Have supervisors for each testing phase for added insurance.
- # Take notes through each use case testing to document errors.
+  # Document progress in a thorough manner.
+  # Have supervisors for each testing phase for added assurance.
+  # Take notes through each use case testing to document errors.
+  # Continously update these documents.
+  # Notify users of program updates/documentation.
+  # Assign a team member as Assurance Officer
 
 ----
