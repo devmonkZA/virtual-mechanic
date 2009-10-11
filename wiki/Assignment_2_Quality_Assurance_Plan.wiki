@@ -9,6 +9,17 @@ kinds of software testing. Tell us how you generate and manage your test cases.
 
 =Internal Deadlines=
 
+|| *Version* || *Action* || *Start Date* || *End Date* || *Supervisor* ||
+|| 1 || Unit testing and Revision || October 30, 2009 || November 2, 2009 || Greg ||
+|| 1 || Integration testing and Revision || November 2, 2009 || November 4, 2009 || Tyler ||
+|| 1 || Submission || - || November 5, 2009 ||  ||
+|| 2 || Unit testing and Revision || November 12, 2009 || November 14, 2009 || Chien ||
+|| 2 || Integration testing and Revision || November 14, 2009 || November 17, 2009 || Marc ||
+|| 2 || Submission || - || November 19, 2009 ||  ||
+|| 3 || Unit testing and Revision || November 25, 2009 || November 28, 2009 || Jeff ||
+|| 3 || Integration testing and Revision || November 28, 2009 || December 1, 2009 || Greg ||
+|| 3 || Submission || - || December 3, 2009 ||  ||
+
 ----
 
 =User Testing=
