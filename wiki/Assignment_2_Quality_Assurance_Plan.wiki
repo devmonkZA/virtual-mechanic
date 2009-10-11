@@ -1,14 +1,6 @@
 <wiki:toc max_depth="3" />
 
 
-(last thing: I don't know if I asked do my dates look reasonalbe for the user testing?)
-
-
-
-
-
-
-
 =Software Testing=
 
 The project will use two frameworks to automatically test the software during development. They are:
@@ -16,6 +8,39 @@ The project will use two frameworks to automatically test the software during de
   #  OCUnit: a unit testing framework for Objective-C that integrates with Xcode. The team writes test cases that include assertions about the code under test. Test suites are collections of test cases that are run uniformly by a test runner. When the tests are run, they check their own results and provide an unambiguous pass or fail message.
 
   #  X-Code Shark: A framework which also integrates with Xcode. It traces CPU and memory usage by processes and can reveal bottlenecks or areas that can be optimized by multithreading or wrtiting of code.
+
+==Test cases==
+
+*Main menu*
+
+|| *Input* || *Output* ||
+|| Click "Start" || Show list of machines to open || 
+|| Click on a machine || Open the selected machine, and show the machine view with tabs below || 
+|| Click on "Download new.." || Open the Download Machines menu ||
+|| Click on "Download Machines" || Open the Download Machines menu || 
+|| Click on a machine to download || Download machine and update the list of machines || 
+|| Click on "?" || Show help menu ||
+|| Click on "View topics" || Show all help topics ||
+|| Click on "Search" || Show text field and keyboard for entering search term ||
+|| Click "Report a bug.."  || Show text field and keyboard for bug reporting and submit button ||
+|| Click "Settings" and manipulate options || Show settings menu and change settings as desired ||
+
+
+*Machine interaction*
+
+|| *Input* || *Output* || 
+|| Click on a component || Highlight component with red halo. Show name of component on title bar ||
+|| Click on empty space || Un-highlight any component. Show "Overall" on title bar ||
+|| Click on component and drag to left/right/up/down || Move component left/right/up/down ||
+|| Release component || Anchor component to place where it was released ||
+|| Click undo || Undoes previous action ||
+|| Click "Details and Discuss" || Show comments page for component (if selected) or overall machine ||
+|| Click "Post new comment.. || Show text field and keyboard for comments and a submit button ||
+|| Click "Photos" || Show photos page for component (if selected) or overall machine ||
+|| Tilt iPhone horizontally || Does nothing ||
+|| Shake iPhone || Resets components positions (if setting is turned on!) ||
+
+Test cases will be added whenever there are new features or when a feature is found to have many bugs. During testing, the team will keep track of the number of failures and the severity of them. Features with high-importance should have no failures at all. All strange and unexpected behavior will be recorded, along with how they occurred. New test cases can then be created for them to avoid reoccurance. 
 
 ----
 
@@ -34,83 +59,21 @@ The project will use two frameworks to automatically test the software during de
 
 ----
 
-=Team FTW User testing=
-
-3. User Acceptance Testing
-
-
-User Acceptance Test Date: July 29th, 2009 
-
-
-The user will go through several possible scenarios that demonstrate the features outlined in the original design document. These will include: 
-
-Case1: 
-
-Starting from the main menu, the user will choose to play a song by selecting a song and import it from their music library, then begin playing the level. The user will use touchscreen buttons to navigate their ship through each track, and verify that it is impossible to move through the side walls. During the gameplay, the user's ship will hit several good lane objects, and then hit several bad lane objects. By looking at the progress bar at the top of the screen, the user will note that their progress through the track is being kept. When the track ends, the user will be taken to the end song menu to view their score, and choose the next song to play. 
-
-Desired outcome: 
-
-The user should be able to select a song from the library on their device. Then the song should be imported, and then converted into a track. Afterwards, the user should be able to play the track, until the song finishes. The user will be able to move their ship left and right using the touchscreen buttons, and will not be able to pass through the side walls. When the user's ship hits a good lane object, their score will increase, and will decrease when they hit a bad lane object. Throughout the gameplay, the user's progress should be tracked down by the progress bar. When the song ends, the user should then be brought to the end song menu, they should be shown the top local scores and given the option to choose a new song or go to the next song. If the user chooses the next song, then the next sequential song in their library should start.
-
-Features tested: 
-Choose Song Menu 
-Importing a Song 
-Dynamic Track creation 
-Game play 
-Touchscreen Button Movement 
-Score System 
-Progress Bar 
-Local High Scores Records 
-End Song Menu 
-Next Song Play 
-
-
-Case2: 
-
-Starting from the main menu, the user will select Options, then select accelerometer as the control mode. The user will then select difficulty, and set it to hardest. Then the user will return to the main menu, where they will select new song. The user will select a song from their library to be imported, and a track will be created, then the user will play the track. Using the accelerometer, the user will be able to move their ship left and right, and will not be able to move through the side walls. When then song ends, the user will see the end song menu, and will select view online high scores. Then they will select new song, and will play it.
-
-Desired outcome: 
-
-The user should be able to move from the main menu to the Options menu. From there, the user should be able to find the control mode menu. The user should be given two options, and when the user selects the accelerometer, the game should acknowledge this and bring the user back to the Options menu. When they select difficulty, it should give them the choice of easy, medium, and hard. After the user selects hard as their difficulty, the game should acknowledge it and bring them back to the options menu. The user should then be able to return to the main menu. From there, the user should be able to play a new song. While playing, the user should be able to use the accelerometer to control their ship. The user should notice that the more they tilt left/right, the faster they move left/right, and will not be able to move through the side walls. Also, the user should notice that their ship is moving faster than normal, and the objects are spaced closer due to the increased difficulty. After the level is finished, the user should be shown the end song menu. When the user select view online high scores, their device should connect them to the online server, and will show a list of the highest scores for that particular song. Then the the user selects choose new song, which should bring the user back to the Choose New Song menu.
-
-
-Features Tested: 
-Options Menu 
-Accelerometer Menu 
-Difficulty Menu 
-Accelerometer control 
-Difficulty 
-Online Records 
-New song from end song menu 
-
-Case3: 
-
-From the main menu, the user will select Instructions. The user will be given the option to view a tutorial, in which case, the user will decline and be returned to the main menu. Then the user will select help again, and will accept the tutorial. The game will give the user a demonstration on how to import a song and play the game. At the end of the tutorial, the user will be given the options to watch again, or go back to main menu. The user will choose to watch again, then the user will choose to go back to the main menu when they are given the options at the end of the tutorial.
-
-
-Desired Outcome: 
-
-The user should be able to go to the help menu from the main menu by selecting Instructions, and should be able to return to the main menu. When the user selects a tutorial, the user should be able to watch the corresponding tutorial. At the end of the tutorial, the user should have the options to watch the tutorial again after it is finished, or to return to the main menu.
-
-Features Tested: 
-Instructions 
-Tutorial
-
-----
 =User Acceptence Testing=
 There shall be 2 user acceptence tests at different points of the implementation phase:
 
 - The 1st test date is November 2, 2009 to gain a sense for anything that might be improved early on.<br>
 - The 2nd testing date is November 17, 2009
-== Testing Locations ==
-The testing will be done in two different locations:
+
+The testing will be done in two different locations, SFU and in an auto shop.
 
 *SFU*<br>
-There shall be tests conducted at sfu to test the software in an academic enviroment, with with university students of varying majors (focused around mechanics).  The tests shall be conducted in a variety of settings from load busy hallways to the quiet of the library. This is to test how quickly users can engage in the software in distracting or calm enviroments.  
-*An auto shop*<br>
-The autoshop test shall test the viability of the software in a grungy enviroment, where the users might not have clean hands.  It will also be an opportunity to test the software with trades workers, some of whom have been to trade school, some not.  Again the software shall be tested in load and quiet enviroments.
-== Testing Plan==
+There shall be tests conducted at SFU to test the software in an academic environment, with with university students of varying majors (focused around mechanics).  The tests shall be conducted in a variety of settings from load busy hallways to the quiet of the library. This is to test how quickly users can engage in the software in distracting or calm enviroments.  
 
+*An auto shop*<br>
+The autoshop test shall test the viability of the software in a grungy enviroment, where the users might not have clean hands.  It will also be an opportunity to test the software with trades workers, some of whom have been to trade school, some not. Again the software shall be tested in load and quiet enviroments.
+
+*Testing Plan*<br>
 Case 1: The user will begin in the main menu and will be asked to open a machine by clicking the start button and selecting the machine, and then go back to the main menu by clicking the back button.  The user will then be asked to again click the start button and select a machine to load opening the machine view.  The user will then be asked to select a part and move it to a different part of the screen.  The user will then be asked to comment on the part, by clicking on the comment button.  The user will then click post and write a comment on the part and submit it to the server.  Finally the user will view the comments for that part and verify that it is on the device.
 
 A succesful test: The test could be considered succesfull if the user is able to navigate through all the windows as the description of the software says it should, the comment is actually posted, and if this test may be completed within 5 minutes.
