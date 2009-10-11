@@ -12,7 +12,7 @@ The tools listed above are all free to use. Since the frameworks are only used a
 
 Information about users will be kept confidential. The only information that will be released to the public are usernames. Passwords may be accessed only by an account's owner and administrators. 
 
-
+For machines, we will take our own pictures and blur out logos, brandnames, and other identifying trademarks of the machines. We will only represent simple, frequently seen machines, and will not allow offensive or dangerous (eg. bombs, guns, prank toys, etc) machines. 
 
 ----
 
@@ -43,7 +43,7 @@ The files used in development of the project will be mainly:
 
 Images will be used to depict different components (layers) of the machines for users to explore. The type of all images will be of the .GIF format. All images will be stored in the Image folder under the project folder on both the iPhone and server. It is important to note that when image files are “imported”, the physical directories of the files do not change.
 
-The user will interact with the software with only his/her fingers. No additional hardware or software is needed besides a functional and up-to-date (OS 3.0 or later) iPhone and a iTunes online account to download the software.
+The user will interact with the software with only his/her fingers. No additional hardware or software is needed besides a functional and up-to-date (OS 3.0 or later) iPhone and an iTunes online account to download the software.
 
 ----
 
