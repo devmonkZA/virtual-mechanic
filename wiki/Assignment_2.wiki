@@ -4,4 +4,8 @@ http://code.google.com/p/virtual-mechanic/wiki/Assignment_2_Requirements_Documen
 
 Design Document:
 
+http://code.google.com/p/virtual-mechanic/wiki/Assignment_2_Design_Document
+
 Quality Assurance Plan:
+
+http://code.google.com/p/virtual-mechanic/wiki/Assignment_2_Quality_Assurance_Plan
