@@ -91,10 +91,8 @@ Tutorial
 =User Acceptence Testing=
 There shall be 2 user acceptence tests at different points of the implementation phase:
 
-*(Not sure exacly when this shall be any1 have any ideas?)*
-
-- The 1st earlier in the phase to gain a sense for anything that might be improved early on.<br>
-- The 2nd towards the end of the project not after having finished (what would be the point)
+- The 1st test date is November 2, 2009 to gain a sense for anything that might be improved early on.<br>
+- The 2nd testing date is November 17, 2009
 == Testing Locations ==
 The testing will be done in two different locations:
 
