@@ -1,5 +1,14 @@
 <wiki:toc max_depth="3" />
 
+
+(last thing: I don't know if I asked do my dates look reasonalbe for the user testing?)
+
+
+
+
+
+
+
 =Software Testing=
 
 The project will use two frameworks to automatically test the software during development. They are:
@@ -96,9 +105,9 @@ There shall be 2 user acceptence tests at different points of the implementation
 == Testing Locations ==
 The testing will be done in two different locations:
 
-*SFU*
+*SFU*<br>
 There shall be tests conducted at sfu to test the software in an academic enviroment, with with university students of varying majors (focused around mechanics).  The tests shall be conducted in a variety of settings from load busy hallways to the quiet of the library. This is to test how quickly users can engage in the software in distracting or calm enviroments.  
-*An auto shop*
+*An auto shop*<br>
 The autoshop test shall test the viability of the software in a grungy enviroment, where the users might not have clean hands.  It will also be an opportunity to test the software with trades workers, some of whom have been to trade school, some not.  Again the software shall be tested in load and quiet enviroments.
 == Testing Plan==
 
