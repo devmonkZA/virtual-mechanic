@@ -25,6 +25,70 @@ The project will use two frameworks to automatically test the software during de
 
 ----
 
+=Team FTW User testing=
+
+3. User Acceptance Testing
+
+
+User Acceptance Test Date: July 29th, 2009 
+
+
+The user will go through several possible scenarios that demonstrate the features outlined in the original design document. These will include: 
+
+Case1: 
+
+Starting from the main menu, the user will choose to play a song by selecting a song and import it from their music library, then begin playing the level. The user will use touchscreen buttons to navigate their ship through each track, and verify that it is impossible to move through the side walls. During the gameplay, the user's ship will hit several good lane objects, and then hit several bad lane objects. By looking at the progress bar at the top of the screen, the user will note that their progress through the track is being kept. When the track ends, the user will be taken to the end song menu to view their score, and choose the next song to play. 
+
+Desired outcome: 
+
+The user should be able to select a song from the library on their device. Then the song should be imported, and then converted into a track. Afterwards, the user should be able to play the track, until the song finishes. The user will be able to move their ship left and right using the touchscreen buttons, and will not be able to pass through the side walls. When the user's ship hits a good lane object, their score will increase, and will decrease when they hit a bad lane object. Throughout the gameplay, the user's progress should be tracked down by the progress bar. When the song ends, the user should then be brought to the end song menu, they should be shown the top local scores and given the option to choose a new song or go to the next song. If the user chooses the next song, then the next sequential song in their library should start.
+
+Features tested: 
+Choose Song Menu 
+Importing a Song 
+Dynamic Track creation 
+Game play 
+Touchscreen Button Movement 
+Score System 
+Progress Bar 
+Local High Scores Records 
+End Song Menu 
+Next Song Play 
+
+
+Case2: 
+
+Starting from the main menu, the user will select Options, then select accelerometer as the control mode. The user will then select difficulty, and set it to hardest. Then the user will return to the main menu, where they will select new song. The user will select a song from their library to be imported, and a track will be created, then the user will play the track. Using the accelerometer, the user will be able to move their ship left and right, and will not be able to move through the side walls. When then song ends, the user will see the end song menu, and will select view online high scores. Then they will select new song, and will play it.
+
+Desired outcome: 
+
+The user should be able to move from the main menu to the Options menu. From there, the user should be able to find the control mode menu. The user should be given two options, and when the user selects the accelerometer, the game should acknowledge this and bring the user back to the Options menu. When they select difficulty, it should give them the choice of easy, medium, and hard. After the user selects hard as their difficulty, the game should acknowledge it and bring them back to the options menu. The user should then be able to return to the main menu. From there, the user should be able to play a new song. While playing, the user should be able to use the accelerometer to control their ship. The user should notice that the more they tilt left/right, the faster they move left/right, and will not be able to move through the side walls. Also, the user should notice that their ship is moving faster than normal, and the objects are spaced closer due to the increased difficulty. After the level is finished, the user should be shown the end song menu. When the user select view online high scores, their device should connect them to the online server, and will show a list of the highest scores for that particular song. Then the the user selects choose new song, which should bring the user back to the Choose New Song menu.
+
+
+Features Tested: 
+Options Menu 
+Accelerometer Menu 
+Difficulty Menu 
+Accelerometer control 
+Difficulty 
+Online Records 
+New song from end song menu 
+
+Case3: 
+
+From the main menu, the user will select Instructions. The user will be given the option to view a tutorial, in which case, the user will decline and be returned to the main menu. Then the user will select help again, and will accept the tutorial. The game will give the user a demonstration on how to import a song and play the game. At the end of the tutorial, the user will be given the options to watch again, or go back to main menu. The user will choose to watch again, then the user will choose to go back to the main menu when they are given the options at the end of the tutorial.
+
+
+Desired Outcome: 
+
+The user should be able to go to the help menu from the main menu by selecting Instructions, and should be able to return to the main menu. When the user selects a tutorial, the user should be able to watch the corresponding tutorial. At the end of the tutorial, the user should have the options to watch the tutorial again after it is finished, or to return to the main menu.
+
+Features Tested: 
+Instructions 
+Tutorial
+
+----
+
 =User Testing=
 
 3.  Give the time, date, and location for when user acceptance testing of version 3 of
