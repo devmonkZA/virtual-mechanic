@@ -39,7 +39,7 @@ The files used in development of the project will be mainly:
   # .gif files for each component
   # .jpeg files which users upload from their iPhones
   # .txt files to store user comments and details
-  # .sql files to store usernames, passwors, and possibly as an alternative to replace .txt file for storing comments, details, and all other information. 
+  # .sql files to store usernames, passwords, and possibly as an alternative to replace .txt file for storing comments, details, and all other information. 
 
 Images will be used to depict different components (layers) of the machines for users to explore. The type of all images will be of the .GIF format. All images will be stored in the Image folder under the project folder on both the iPhone and server. It is important to note that when image files are “imported”, the physical directories of the files do not change.
 
