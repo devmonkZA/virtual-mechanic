@@ -2,7 +2,7 @@
 
 =Software Testing=
 
-The project will use two programs to automatically test the software during development. They are:
+The project will use two frameworks to automatically test the software during development. They are:
 
   #  OCUnit: a unit testing framework for Objective-C that integrates with Xcode. The team writes test cases that include assertions about the code under test. Test suites are collections of test cases that are run uniformly by a test runner. When the tests are run, they check their own results and provide an unambiguous pass or fail message.
 
