@@ -13,6 +13,8 @@ group could run it for you.
 =User Acceptence Testing=
 There shall be 2 user acceptence testsat different points of the implementation phase:
 
+*(Not sure exacly when this shall be any1 have any ideas?)*
+
 - The 1st earlier in the phase to gain a sense for anything that might be improved early on.<br>
 - The 2nd towards the end of the project not after having finished (what would be the point)
 == Testing Locations ==
@@ -23,6 +25,4 @@ There shall be tests conducted at sfu to test the software in an academic enviro
 ===An auto shop===
 The autoshop test shall test the viability of the software in a grungy enviroment, where the users might not have clean hands.  It will also be an opportunity to test the software with trades workers, some of whom have been to trade school, some not.  Again the software shall be tested in load and quiet enviroments.
 == Testing Format ==
-
-
 
