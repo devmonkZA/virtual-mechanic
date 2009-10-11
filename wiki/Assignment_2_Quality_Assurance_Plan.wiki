@@ -105,13 +105,13 @@ The autoshop test shall test the viability of the software in a grungy enviromen
 == Testing Plan==
 The tester will have the following list:
 
-Iphone experience
-- Load a machine and move parts of the machine (2 min)
-- Comment/view photos of a part/machine (4 min)
+Iphone experience<br>
+- Load a machine and move parts of the machine (2 min)<br>
+- Comment/view photos of a part/machine (4 min)<br>
 
-No Iphone experience
-- Load a machine and move parts of the machine (10 min)
-- Comment on a part/machine (20 min)
+No Iphone experience<br>
+- Load a machine and move parts of the machine (10 min)<br>
+- Comment on a part/machine (20 min)<br>
 
 The test subject will first be asked if they have any experience with the ipod touch or iphone.  The test subject is then told to experiment with the software and see what they think.  A stopwatch is started when the user begins to experiment.  At 2 min into the test(10 min for a user with no iphone experience) the user will be asked to go to the main menu and open a machine, and move some of the parts of the machine.  If the user is able to perform the required tasks then the user acceptence test has been passed.  This procedure is repeated for other items on the list.
 ----
