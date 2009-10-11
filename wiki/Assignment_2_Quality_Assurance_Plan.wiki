@@ -31,37 +31,41 @@ The project will use two frameworks to automatically test the software during de
 
 =Integration Testing=
 
-4.  Detail what kind of integration testing you expect to do, and how you expect to do it.
-It's wise to avoid "big bang" integration, where all the models are combined and
-tested at once. Instead, tell us how you plan to incrementally integrate and test the
-system. Be clear about how this testing differs from the unit testing you are also
-doing.
+The team shall incrementally integrate and test different components of the system during development. The basic menu features will be tested first, before moving on to viewing machines, interacting with them, and commenting on them, and so on. 
 
-Intergration testing is the plan that includes all testing of avoiding "big bugs." We use the Bottom Up Testing system to test our application. First, we test the lowest components in the application. If the lowest components are correct, then we test the component that one level higher than the lowest components. We keep this rutine until all level components are correct.
+*Step 1 - Verify menu controls and help funtion*
 
-*Step 1 - Download Machine*
+Without opening a machine, a user should be able to navigate the menu properly, change any basic settings in the settings menu, and be able to view the help documentation at all times by clicking on the "?" icon. 
 
-In the beginning we will have to download the machine to have something that we can  disassemble, or analyze. Then we can download machines from server and the following bugs may occur.
+*Step 2 - Opening new machines*
 
-   
-While downloading machine, the possible bug may be the following problem: Cannot downlaod the machien from the server. For exmaple, if we are trying to downlaod the images of a personal computer, we cannot downlaod so the error will occur. This would be a "big but" of downlaoding the images because of the failture of uplaoding images from other usesrs.
+Users should be able to open a machine, switch between machines, and selecting different components of the machine. 
 
-*Step 2 - Dragging part of the machine* 
+*Step 3 - Dragging part of the machine* 
 
-Once we have the machines to disassemble, we may want to drag, disassembl the machine part by part. While users usings their fingers to drag the pictures, the following bugs may occur. 
+Components should be moveable by selecting them and moving them with the user's fingers. The following bugs may occur:
 
-1.If we wanna drag any part of the machine, the possible bug may occur would be that users cannot selected the part that users would lilke to drag. For example, if the users want to drag the DVD driver in a personal computers and the origional creator did not upoad to ther server, or users cannot get the images from ther server then the user would not able to drag the part they want to.
-2.While dragging a part of the machine, delaying may occur. For example, the images cannot follow the moving of our finger. it may takes 5-10 seconds to start move the images.
-3.If we are dragging a part of a machine, the cordinate are calcualted wrong, then the images would not move to the exactly place where the users want.
-4.One bug maybe occuring in dragging images. For example, while we move an image form on place to other plece and we will pass by an other images, then the users may also drag the images we just pass by.
+  #  If we want to drag any part of the machine, a possible bug may be that users cannot select the part that users would like to drag. This may be because components are too close together, or that the particular component is not selectable. 
 
-*Step 3 - Posting new comments*
+  #  While dragging a part of the machine, delay may occur due to slow processing speed or other non-funtional reasons. For example, the images cannot follow the moving of our finger. In the worst case, it may take 5-10 seconds before seeing the moving of components
 
-In this stept, as the highest level, we would try to post the comments to ther server. And the following bugs may occur.
+  #  If we are dragging a part of a machine, and the coordinates are calculated wrongly, then the images would not move to exactly where the users want them to be.
 
-1. If the users type the font that iPhone cannot dispaly the code of the font then it would be shown as confused symbols that cannot be read.
-2. If the users cannot connect to the server, then their comments cannot be viewed on others's iPhone so the new comments would only be shown on the users' screen.
-3. Transfer error: when we uplolading the comments to ther server, then the comments would be changed into a signal, so there would be some errors in transforming the singals. For example, if we posted the comment "How this work," it may appear in server as "!@# $%! !%!#." 
+  #  While moving a component from one place to another and it passes by another component, the program must not allow users to also drag the images were passed by.
+
+*Step 4 - Posting new comments and photos*
+
+In this high-level test, the user would try to view and post comments or photos to the server. The following issues may occur:
+
+  #  If the users type the font that iPhone cannot display the code of the font then it would be shown as confused symbols that cannot be read. Thus, restrictions need to be made on the allowed font, language, colours and size. 
+  #  If the users cannot connect to the server, then their comments and photos are not uploaded.
+  #  Network errors may occur, causing data that are not received properly. However, this is not an application layer problem but a network or data link layer problem which is out of the team's scope. 
+  #  Images which are too large to upload are rejected. (Max size is 300kb)
+  #  Discriminatory or vulgar comments need to be filtered.
+
+*Step 5 - Downloading new machines*
+
+Users should be able to download new machines within 10 minutes and view them immediately with no additional settings. They must also be able to perform all the functions listed above.
 
 ----
 
