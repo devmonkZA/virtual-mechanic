@@ -7,7 +7,7 @@ The project will use two frameworks to automatically test the software during de
 
   #  OCUnit: a unit testing framework for Objective-C that integrates with Xcode. The team writes test cases that include assertions about the code under test. Test suites are collections of test cases that are run uniformly by a test runner. When the tests are run, they check their own results and provide an unambiguous pass or fail message.
 
-  #  X-Code Shark: A framework which also integrates with Xcode. It traces CPU and memory usage by processes and can reveal bottlenecks or areas that can be optimized by multithreading or wrtiting of code.
+  #  X-Code Shark: A framework which also integrates with Xcode. It traces CPU and memory usage by processes and can reveal bottlenecks or areas that can be optimized by multithreading or rewriting of code.
 
 ==Test cases==
 
@@ -40,7 +40,7 @@ The project will use two frameworks to automatically test the software during de
 || Tilt iPhone horizontally || Does nothing ||
 || Shake iPhone || Resets components positions (if setting is turned on!) ||
 
-Test cases will be added whenever there are new features or when a feature is found to have many bugs. During testing, the team will keep track of the number of failures and the severity of them. Features with high-importance should have no failures at all. All strange and unexpected behavior will be recorded, along with how they occurred. New test cases can then be created for them to avoid reoccurance. 
+Test cases will be added whenever there are new features or when a feature is found to have many bugs. During testing, the team will keep track of the number of failures and the severity of them. Features with high-importance should have no failures at all. All strange and unexpected behavior will be recorded, along with how they occurred. New test cases can then be created for them to avoid reoccurrences. 
 
 ----
 
@@ -59,8 +59,8 @@ Test cases will be added whenever there are new features or when a feature is fo
 
 ----
 
-=User Acceptence Testing=
-There shall be 2 user acceptence tests at different points of the implementation phase:
+=User Acceptance Testing=
+There shall be 2 user acceptance tests at different points of the implementation phase:
 
 - The 1st test date is November 2, 2009 to gain a sense for anything that might be improved early on.<br>
 - The 2nd testing date is November 17, 2009
@@ -68,26 +68,26 @@ There shall be 2 user acceptence tests at different points of the implementation
 The testing will be done in two different locations, SFU and in an auto shop.
 
 *SFU*<br>
-There shall be tests conducted at SFU to test the software in an academic environment, with with university students of varying majors (focused around mechanics).  The tests shall be conducted in a variety of settings from load busy hallways to the quiet of the library. This is to test how quickly users can engage in the software in distracting or calm enviroments.  
+There shall be tests conducted at SFU to test the software in an academic environment, with with university students of varying majors (focused around mechanics).  The tests shall be conducted in a variety of settings from load busy hallways to the quiet of the library. This is to test how quickly users can engage in the software in distracting or calm environments.  
 
 *An auto shop*<br>
-The autoshop test shall test the viability of the software in a grungy enviroment, where the users might not have clean hands.  It will also be an opportunity to test the software with trades workers, some of whom have been to trade school, some not. Again the software shall be tested in load and quiet enviroments.
+The autoshop test shall test the viability of the software in a grungy environment, where the users might not have clean hands.  It will also be an opportunity to test the software with trades workers, some of whom have been to trade school, some not. Again the software shall be tested in load and quiet environments.
 
 *Testing Plan*<br>
 Case 1: The user will begin in the main menu and will be asked to open a machine by clicking the start button and selecting the machine, and then go back to the main menu by clicking the back button.  The user will then be asked to again click the start button and select a machine to load opening the machine view.  The user will then be asked to select a part and move it to a different part of the screen.  The user will then be asked to comment on the part, by clicking on the comment button.  The user will then click post and write a comment on the part and submit it to the server.  Finally the user will view the comments for that part and verify that it is on the device.
 
-A succesful test: The test could be considered succesfull if the user is able to navigate through all the windows as the description of the software says it should, the comment is actually posted, and if this test may be completed within 5 minutes.
+A successful test: The test could be considered successfull if the user is able to navigate through all the windows as the description of the software says it should, the comment is actually posted, and if this test may be completed within 5 minutes.
 
-Case 2: The user will begin in the main menu, and will be asked to open the help window.  From here the user will be asked to search the help contents for a word of their choice.  The user will then be asked to go back and bring up the help table of contents and view a page of their choice.  Then the user will be asked to go back to the main menu and open another machine via the start button and selecting their machine.  The user will then be asked to select a part and view the photos for that part by clicking the photo button on the control bar.  When the user is viewing the photos the user will be asked to add a photo from their Iphone.  Finally the user will be asked to go to the phot viewing page and ensure that their new photo is there.
+Case 2: The user will begin in the main menu, and will be asked to open the help window.  From here the user will be asked to search the help contents for a word of their choice.  The user will then be asked to go back and bring up the help table of contents and view a page of their choice.  Then the user will be asked to go back to the main menu and open another machine via the start button and selecting their machine.  The user will then be asked to select a part and view the photos for that part by clicking the photo button on the control bar.  When the user is viewing the photos the user will be asked to add a photo from their iPhone.  Finally the user will be asked to go to the photo viewing page and ensure that their new photo is there.
 
-A succesful test: The test could be considered succesfull if the user is able to navigate through all the windows as the description of the software says it should, the photo is actually posted, and if this test may be completed within 5 minutes.
+A successful test: The test could be considered successful if the user is able to navigate through all the windows as the description of the software says it should, the photo is actually posted, and if this test may be completed within 5 minutes.
 ----
 
 =Integration Testing=
 
 The team shall incrementally integrate and test different components of the system during development. The basic menu features will be tested first, before moving on to viewing machines, interacting with them, and commenting on them, and so on. 
 
-*Step 1 - Verify menu controls and help funtion*
+*Step 1 - Verify menu controls and help function*
 
 Without opening a machine, a user should be able to navigate the menu properly, change any basic settings in the settings menu, and be able to view the help documentation at all times by clicking on the "?" icon. 
 
@@ -101,7 +101,7 @@ Components should be moveable by selecting them and moving them with the user's 
 
   #  If we want to drag any part of the machine, a possible bug may be that users cannot select the part that users would like to drag. This may be because components are too close together, or that the particular component is not selectable. 
 
-  #  While dragging a part of the machine, delay may occur due to slow processing speed or other non-funtional reasons. For example, the images cannot follow the moving of our finger. In the worst case, it may take 5-10 seconds before seeing the moving of components
+  #  While dragging a part of the machine, delay may occur due to slow processing speed or other non-functional reasons. For example, the images cannot follow the moving of our finger. In the worst case, it may take 5-10 seconds before seeing the moving of components
 
   #  If we are dragging a part of a machine, and the coordinates are calculated wrongly, then the images would not move to exactly where the users want them to be.
 
@@ -141,7 +141,7 @@ If the project grows too large to keep note of numbers by hand, then "Xcode Menu
   # Document progress in a thorough manner.
   # Have supervisors for each testing phase for added assurance.
   # Take notes through each use case testing to document errors.
-  # Continously update these documents.
+  # Continuously update requirements documents.
   # Notify users of program updates/documentation.
   # Appoint a team member as Assurance Officer.
   # Weekly group meeting to discuss progress.
