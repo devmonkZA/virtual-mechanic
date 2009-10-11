@@ -2,8 +2,11 @@
 
 =Software Testing=
 
-1.  The software tool(s) you are using to perform automatic unit testing, and any other
-kinds of software testing. Tell us how you generate and manage your test cases.
+The project will use two programs to automatically test the software during development. They are:
+
+  #  OCUnit: a unit testing framework for Objective-C that integrates with Xcode. The team writes test cases that include assertions about the code under test. Test suites are collections of test cases that are run uniformly by a test runner. When the tests are run, they check their own results and provide an unambiguous pass or fail message.
+
+  #  X-Code Shark: A framework which also integrates with Xcode. It traces CPU and memory usage by processes and can reveal bottlenecks or areas that can be optimized by multithreading or wrtiting of code.
 
 ----
 
