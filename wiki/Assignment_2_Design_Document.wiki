@@ -8,7 +8,11 @@ The development of the software will be based on the Mac OS. The whole developme
 
 The whole project will be implemented using the iPhone SDK 3.0. For more detail: The connection between server side and client side will be implemented using the CFNetwork framework; And user interface design will be based on the Interface Builder provided by Apple; The image processing, page switch and all other user interface functionality will be implemented based on the UIKit framework.
 
-The tools listed above are all free to use. Since the frameworks are only used and not modified for financial means, there is no copyright issues. No royalties nor acknowledgements need to be made. 
+The tools listed above are all free to use. Since the frameworks are only used and not modified for financial means, there is no copyright issues. No royalties nor acknowledgements need to be made.  
+
+Information about users will be kept confidential. The only information that will be released to the public are usernames. Passwords may be accessed only by an account's owner and administrators. 
+
+
 
 ----
 
@@ -32,24 +36,36 @@ The files used in development of the project will be mainly:
   # .m files which are implementation of classes.
   # .plist files which contain configuration information of the project
   # .xib files which are actually user interface files based on Interface Builder;
+  # .gif files for each component
+  # .jpeg files which users upload from their iPhones
+  # .txt files to store user comments and details
+  # .sql files to store usernames, passwors, and possibly as an alternative to replace .txt file for storing comments, details, and all other information. 
 
-Images will be used to depict different components (layers) of the machines for users to explore. The type of all images will be of the .GIF format. All images will be stored in the Image folder under the project folder. It is important to note that when image files are “imported”, the physical directories of the files do not change.
+Images will be used to depict different components (layers) of the machines for users to explore. The type of all images will be of the .GIF format. All images will be stored in the Image folder under the project folder on both the iPhone and server. It is important to note that when image files are “imported”, the physical directories of the files do not change.
+
+The user will interact with the software with only his/her fingers. No additional hardware or software is needed besides a functional and up-to-date (OS 3.0 or later) iPhone and a iTunes online account to download the software.
 
 ----
 
-==I/O requirements==  
+=Feature Priority=
 
-===Main menu===
-
-  Touching on the menu's navigation bar allows the user to switch between different pages. Users will be able download new machines or open existing ones. 
- 
-===Machine view===
-
- The user can touch any component of the machine to 'select' it; meaning that the user will be able to view information about it as well as move it around. Using two fingers to drag the screen will zoom in or zoom out the image of the machine (or component of the machine). Also, zooming in and out using two fingers can control the transparent of the current top layer of the build of the machine. The user can drag any component of the machine to see parts under this component.
-
-When User shake the iphone ,all components of the machine which were draged to somewhere will return  to
-where they originally located.
-
-===Commenting===
-
- When commenting, users will be presented with a 'touch keyboard' on screen to type in their message. A click-and-drag function is available to scan through the page for posts if there are more messages than can fit on-screen.
+|| *Feature* || *Version 1* || *Version 2* || *Version 3* ||
+|| View machine || x || x || x ||
+|| Drag-and-Drop || x || x || x ||
+|| Layered images || x || x || x ||
+|| Help/Instructions || x || x || x ||
+|| Menus || x || x || x ||
+|| User friendly interface || x || x || x ||
+|| Reset || x || x || x ||
+|| Set background colour || x || x || x ||
+|| Back button || x || x || x ||
+|| Undo button || x || x || x ||
+|| Commenting ||  || x || x ||
+|| Photo posting ||  || x || x ||
+|| Save on exit ||  || x || x ||
+|| Register new user ||  || x || x ||
+|| Shake to reset ||  || x || x ||
+|| Download new machines ||  ||  || x ||
+|| Auto update ||  ||  || x ||
+|| Zoom in ||  ||  || x ||
+|| Zoom out ||  ||  || x ||
