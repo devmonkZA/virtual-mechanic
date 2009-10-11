@@ -101,17 +101,14 @@ There shall be tests conducted at sfu to test the software in an academic enviro
 ===An auto shop===
 The autoshop test shall test the viability of the software in a grungy enviroment, where the users might not have clean hands.  It will also be an opportunity to test the software with trades workers, some of whom have been to trade school, some not.  Again the software shall be tested in load and quiet enviroments.
 == Testing Plan==
-The tester will have the following list:
 
-Iphone experience<br>
-- Load a machine and move parts of the machine (2 min)<br>
-- Comment/view photos of a part/machine (4 min)<br>
+Case 1: The user will begin in the main menu and will be asked to open a machine by clicking the start button and selecting the machine, and then go back to the main menu by clicking the back button.  The user will then be asked to again click the start button and select a machine to load opening the machine view.  The user will then be asked to select a part and move it to a different part of the screen.  The user will then be asked to comment on the part, by clicking on the comment button.  The user will then click post and write a comment on the part and submit it to the server.  Finally the user will view the comments for that part and verify that it is on the device.
 
-No Iphone experience<br>
-- Load a machine and move parts of the machine (10 min)<br>
-- Comment on a part/machine (20 min)<br>
+Case 2: The user will begin in the main menu, and will be asked to open the help window.  From here the user will be asked to search the help contents for a word of their choice.  The user will then be asked to go back and bring up the help table of contents and view a page of their choice.  Then the user will be asked to go back to the main menu and open another machine via the start button and selecting their machine.  The user will then be asked to select a part and view the photos for that part by clicking the photo button on the control bar.  When the user is viewing the photos the user will be asked to add a photo from their Iphone.  
 
-The test subject will first be asked if they have any experience with the ipod touch or iphone.  The test subject is then told to experiment with the software and see what they think.  A stopwatch is started when the user begins to experiment.  At 2 min into the test(10 min for a user with no iphone experience) the user will be asked to go to the main menu and open a machine, and move some of the parts of the machine.  If the user is able to perform the required tasks then the user acceptence test has been passed.  This procedure is repeated for other items on the list.
+(still working on it)
+
+
 ----
 
 =Integration Testing=
