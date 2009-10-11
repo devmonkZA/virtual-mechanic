@@ -130,20 +130,20 @@ Users should be able to download new machines within 10 minutes and view them im
 || 2 || 500 || 6 || 10 || 2 || 2MB || 
 || 3 || 800 || 7 || 15 || 2/3 || 3MB || 
 
-No software tools will be used to measure these figues. Instead, the team will record the actual numbers from observations (ie. noting the number of lines in the xcode, recording the total size of the project folder, etc.) and continuously update these figures.
+Software tools will not be mandatory for keeping track of the project complexity. Instead, the team will record the actual numbers from observations (ie. noting the number of lines in the xcode, recording the total size of the project folder, etc.) and continuously update these figures.
+
+If the project grows too large to keep note of numbers by hand, then "Xcode Menu Script" can be used to automatically count the number of lines of code. "Code Sense" is another Xcode tool which can be used to view all the classes during development.
 
 ----
 
-=Miscellaneous=
-
-6.  List everything else you are doing to ensure the quality of your project. Give specific
-times and dates whenever possible.
+=Miscellaneous Quality Assurance=
 
   # Document progress in a thorough manner.
   # Have supervisors for each testing phase for added assurance.
   # Take notes through each use case testing to document errors.
   # Continously update these documents.
   # Notify users of program updates/documentation.
-  # Assign a team member as Assurance Officer
+  # Appoint a team member as Assurance Officer.
+  # Weekly group meeting to discuss progress.
 
 ----
