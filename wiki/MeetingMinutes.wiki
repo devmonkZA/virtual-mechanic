@@ -105,10 +105,18 @@ _Tuesday, October 6, 2009, 12:30 @ CSIL @ SFU_
 _Tuesday, October 20, 2009, 12:30 @ CSIL @ SFU_
 
 - Chien absent, everyone else present - <br>
-- Went over returned grades on Assignment 2 -
-- Checked out Tyler's version of our program so far.
+- Went over returned grades on Assignment 2. <br>
+- Checked out Tyler's version of our program so far. <br>
 - Checklist of what we need to do:
  * Implement features of Version 1 in a working version.
  * Update our requirements and design documents to reflect our work
  * Critical tasks as set out by Jeff. Please work on these!
   * A copy of this list is available on the downloads page now.
+ * We will meet again on Thursday, 4:00 PM, at the Mac Lab in the eastern AQ (near Renaissance Cafe) to re-establish our roles and check on each other's progress. It is important that we have something to show for the next two day's of work.
+  * It is, of course, midterm time, but please have _something_ to show. A finished product is not expected, only something to build on.
+==Member Tasks==
+ * Work on critical tasks in the document that Jeff has drawn up.
+ * Have something to show the rest of the group members related to what you're working on.
+ * Read assignment 2 marking document, and summary as well.
+ * Keep notes of what you work on (not just commenting in the code but actually write these things down on paper so we can keep a logbook of our progress). Documentation, as we have seen, is VERY important.
+ * When in doubt, please consult meeting minutes, Assignment 2 summary, design document, quality assurance plan, and requirements document.
