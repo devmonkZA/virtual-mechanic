@@ -100,3 +100,15 @@ _Tuesday, October 6, 2009, 12:30 @ CSIL @ SFU_
 ==Member Tasks==
 - Finish up Assignment 2a requirements and start on 2b <br>
 - Meet up again tomorrow to regroup <br>
+
+=Meeting 5=
+_Tuesday, October 20, 2009, 12:30 @ CSIL @ SFU_
+
+- Chien absent, everyone else present - <br>
+- Went over returned grades on Assignment 2 -
+- Checked out Tyler's version of our program so far.
+- Checklist of what we need to do:
+ * Implement features of Version 1 in a working version.
+ * Update our requirements and design documents to reflect our work
+ * Critical tasks as set out by Jeff. Please work on these!
+  * A copy of this list is available on the downloads page now.
