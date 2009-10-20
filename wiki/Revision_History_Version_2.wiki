@@ -1,0 +1,43 @@
+#summary Version release for features
+
+4.  Feature Priority You will be going through three implementation iterations during
+the course of this project --- version 1, version 2, and version 3. Label each feature
+listed in your user manual, as being delivered in version 1, 2, or 3. Hint: An ordered
+list of hyperlinks to the relevant features in the user manual might be a good way to
+organize this.
+ 
+Remember that your Project planning document from the previous assignment should have a
+similar (but less detailed) list of what features are planned for each version; so that would be
+a good starting point.
+ 
+It is important that version 1 (and, of course, each following version) be a usable system.
+Version 1 should implement all your promised version 1 features completely and correctly!
+Also keep in mind that version 3 is the final "gold" version of your project, and anything not
+implemented by version 3 will not be implemented at all (at least during this course!).
+ 
+Think hard about a good ordering for your features, taking into account things like their
+dependencies, usefulness, and complexity. Do not over-promise (too many features) or
+under-deliver (too few features).
+
+|| *Feature* || *Version 1* || *Version 2* || *Version 3* ||
+|| View machine || x || x || x ||
+|| Drag-and-Drop || x || x || x ||
+|| Layered images || x || x || x ||
+|| Help/Instructions || x || x || x ||
+|| Menus || x || x || x ||
+|| User friendly interface || x || x || x ||
+|| Reset || x || x || x ||
+|| Set background colour || x || x || x ||
+|| Back button || x || x || x ||
+|| Undo button || x || x || x ||
+|| Commenting ||  || x || x ||
+|| Photo posting ||  || x || x ||
+|| Save on exit ||  || x || x ||
+|| Register new user ||  || x || x ||
+|| Shake to reset ||  || x || x ||
+|| Download new machines ||  ||  || x ||
+|| Auto update ||  ||  || x ||
+|| Zoom in ||  ||  || x ||
+|| Zoom out ||  ||  || x ||
+|| Report a bug ||   ||   || X  ||
+||  ||  ||  ||  ||
