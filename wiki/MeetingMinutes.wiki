@@ -119,4 +119,44 @@ _Tuesday, October 20, 2009, 12:30 @ CSIL @ SFU_
  * Have something to show the rest of the group members related to what you're working on.
  * Read assignment 2 marking document, and summary as well.
  * Keep notes of what you work on (not just commenting in the code but actually write these things down on paper so we can keep a logbook of our progress). Documentation, as we have seen, is VERY important.
- * When in doubt, please consult meeting minutes, Assignment 2 summary, design document, quality assurance plan, and requirements document.
+ * When in doubt, please consult meeting minutes, Assignment 2 summary, design document, quality assurance plan, and requirements document. <br>
+
+=Meeting 6=
+_Thursday, October 22, 2009, 4:00 PM @ Mac lab in AQ_
+
+- Everyone present - <br>
+- Discussed program features - <br>
+- Reviewed checklist of to-do items -
+==Member Tasks==
+ * Continue working on critical tasks <br>
+ * Refine X-Code knowledge
+
+=Meeting 7=
+_Tuesday, October 27, 2009, 12:30 @ Mac lab in AQ_
+
+- Everyone present - <br>
+- Went over current version of software - <br>
+- Continued with coding - <br>
+- Not much to discuss for this meeting - <br>
+==Member Tasks==
+ * Continue working on the program to have it ready for submission!
+
+=Meeting 8=
+_Tuesday, November 3, 2009, 2:00 PM @ RCB, lower level by the pond_
+
+- Chien absent. Everyone else present - <br>
+- Topics covered this meeting:
+ * Unit testing and integration testing
+ * Directory structure for server side (version 2)
+ * Presentation of Version 1
+  * Need a script to cover what we will say.
+   * Priorities: 1. Powerpoint 2. Script
+ * Help file implementation
+ * Screenshots (updated ones) - Tyler to work on these
+ * Updating documents for Version 1 submission
+  * MS Word - Clickable table of contents - look into it!
+ * Members helping manage each other for better accountability
+==Member Tasks==
+ * Put final touches on Version 1
+ * Finalize updates for documentation
+ * Get ready for presentation!
