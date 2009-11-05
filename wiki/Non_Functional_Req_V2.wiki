@@ -9,8 +9,6 @@ Reliability: The application is designed to run smoothly on the iPhone platform.
 ===Usability Requirements===
 After 10 minutes of experience with the software, an iPhone user with at least 5 hours of iPhone experience should be able to perform any of the functions when asked, with no training necessary. 
 
-The app should be user-friendly and easily navigated. The system should be designed with this in mind.
-
 ===Performance Requirements===
 The Following functions should be performed with no noticeable delay:
   *  Selecting a part
