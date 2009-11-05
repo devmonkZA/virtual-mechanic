@@ -37,6 +37,31 @@ ________________________________________
 ===Standards Requirements===
 Current coding standards accepted for the iPhone and Objective-C will be followed for this project. 
 
+
+Names of All UIViewController subclasses must follow the format:  class's service + ViewController
+ex:  PhotoViewController  means a UIViewController subclass that displays photo of components of machine.
+
+all class header should include:<br>
+
+<br>
+ Person Worked on: <br>
+ Change History: <br>
+ Problem to be solved: <br>
+ Description: <br>
+<br>
+
+
+Important and methods  that is not easy to be understood should begin with<br>
+ <br>
+@description:<br>
+@parameters:<br>
+@precondition<br>
+@postcondition<br>
+<br>
+
+All variable names should be self-explainatory.</br>
+
+
 ===Delivery Requirements===
 This application requires the application’s executable file to run, as well as all related source code. Also, all of the data such as component images and related comments will be delivered from the server, and can be accessed from the download a machine feature. 
 
