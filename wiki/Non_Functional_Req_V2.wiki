@@ -13,21 +13,31 @@ The app should be user-friendly and easily navigated. The system should be desig
 
 ===Performance Requirements===
 The Following functions should be performed with no noticeable delay:
+
 - Selecting a part
+
 - Dragging a part
+
 - Zooming in the Machine view or when viewing a photo
 
+
 The following functions should be performed within 1 second:
+
 -Switching between any of the windows
 
 ===Space Requirements===
 The program itself will take up at most 10MB of flash drive space.
 
 Each machine will require space for:
+
 - MachineView.txt (About 29bytes + 230Bytes/component)
+
 -Description.txt (max 500 characters(500bytes))
+
 Each machine component will require space for:
+
 -MachineViewImage.png (max 40KB)
+
 -Description.txt (max 500 characters(500bytes))
 
 ===Reliability Requirements===
