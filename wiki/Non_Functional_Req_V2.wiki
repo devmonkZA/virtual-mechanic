@@ -14,11 +14,9 @@ The app should be user-friendly and easily navigated. The system should be desig
 ===Performance Requirements===
 The Following functions should be performed with no noticeable delay:
 
-- Selecting a part
-
-- Dragging a part
-
-- Zooming in the Machine view or when viewing a photo
+* Selecting a part
+* Dragging a part
+* Zooming in the Machine view or when viewing a photo
 
 
 The following functions should be performed within 1 second:
