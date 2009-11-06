@@ -239,13 +239,13 @@ The Virtual Mechanic application will never ask for the user to submit any perso
 
 ==Example Tutorials==
 This tutorial shows how to open up a new machine, move components around, and post a comment for a DVD drive. 
-STEP1 - The main screen after starting the application 
+ * STEP1 - The main screen after starting the application 
  
 Tap on the start button (in the picture above) to open a machine. 
-STEP2 - Analyze the machine by dissembling it 
+ * STEP2 - Analyze the machine by dissembling it 
  
 In this tutorial, we choose the personal computer as an example. Tap the personal computer, the screen will show the picture in step3. 
-STEP3 - See the comments and description of the component of machine 
+ * STEP3 - See the comments and description of the component of machine 
  
 Once we tap the personal computer, the whole machine will shown on the screen like the picture above. And now we can drag any component of the machine to anywhere in the screen. In this example, we choose the DVD driver. We can drag the DVD driver to the up left corner like the picture shown below. 
  
@@ -253,7 +253,7 @@ Or we can put it into the original place.
  
 Now we can see and analyze the whole machine. In the next step we want to see the comments, by choosing one component of the machine which the user wants see the information about (in this example we choose the DVD driver) and tapping on the "Details & Discuss" button the screen will show the following picture. 
  
-Step4 - Adding our comments of the component of machine 
+ * Step4 - Adding our comments of the component of machine 
 We want to add our comments of the component of machine so we can press the button called "Post new comment.." 
 Then the keyboard and the comments text field will appear after pressing the "Post new comment" button as the picture show below. 
 In this example we type the question that is shown on the picture, after that we can press the "post" then the comments will be posted on the comments where others could see. 
@@ -261,22 +261,60 @@ In this example we type the question that is shown on the picture, after that we
 ----
 ==Glossary==
 App: Short for "application", this refers to the Virtual Mechanic application. 
+
+
 Canvas: The background of the application's Machine View 
+
+
 Comments: A body of text, attached by a user, relating to a certain component. 
-Comments Page: A page where one may view, or add comments about a component, or a machine. 
+
+
+Comments Page: A page where one may view, or add comments about a component, or a machine.
+
+ 
 Component: An image of a single section of a machine. Comments and photos can be associated with a component just as they are with the machine. 
+
+
 Control bar: The control bar contains the options for the user's current view (i.e. Machine View, Main menu, etc.). 
+
+
 Description: A comment left by the author of the machine for a component or the machine itself
+
+
 Device: The iPhone upon which the application has been installed. 
+
+
 FTP: File Transfer Protocol: a software protocol for exchanging information between computers over a network. 
+
+
 FTP Server: A network server program or computer which responds to requests for files via FTP. 
+
+
 Layered Image: An image that is actually comprised of more than one image. Each image is given a hierarchal position so that it seems to cover over some other image(s) and is covered by others. This creates the "layering" effect. 
+
+
 Mac OSX: An operating system implemented by Apple for their computer systems. 
-Machine: A composition of images of different components of a machine, placed on top of each other to recreate the machine as viewed from some angle. A collection of comments associated with the components s and with the machine itself are accessible through this. 
+
+
+Machine: A composition of images of different components of a machine, placed on top of each other to recreate the machine as viewed from some angle. A collection of comments associated with the components s and with the machine itself are accessible through this.
+
+ 
 Machine View: The screen where one may disassemble or select different components of the machine. 
+
+
 Main Menu: A user's default screen upon loading up the application. From this point a user may select a machine to view, download new content from the web service, or access the Settings Menu. 
+
+
 Photo: A user-uploaded picture file of a component or machine. 
+
+
 Photo Page: A page where one may view, or add photos, and comments about a component or a machine. 
+
+
 Screen: A reference to the view for a certain function (i.e. Machine View). 
-Settings Menu: A menu of the application where a user can choose their personal preferences for the behaviour of the application. 
+
+
+Settings Menu: A menu of the application where a user can choose their personal preferences for the behaviour of the application.
+
+ 
 Title bar: The bar shown at the top of the screen which shows the name of the currently selected component, and is visible at the machine view, the comments page, and the photo page. 
