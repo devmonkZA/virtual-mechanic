@@ -168,9 +168,7 @@ The Comments.txt files will follow the following format:
 
 MachineView.txt
 The MachineView.txt files will follow the following format         
-<machinename>        <component 1>                <img: "machinename_component1.png">                <location_x:    X/>                <location_y:    Y/> 	        <size_width:    Width/>                <size_height:  Height/>       </component 1>        <component 2>
-               <img: "machinename_component2.png">                <location_x:    X/>                <location_y:    Y/> 	        <size_width:    Width/>                <size_height:  Height/>         </component 2>
-</machinename>
+
 4.	 Feature Priority
 
 
