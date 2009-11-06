@@ -43,22 +43,17 @@ Names of All UIViewController subclasses must follow the format:  class's servic
 ex:  PhotoViewController  means a UIViewController subclass that displays photo of components of machine.
 
 all class header should include:<br>
-
-<br>
  Person Worked on: <br>
  Change History: <br>
  Problem to be solved: <br>
  Description: <br>
-<br>
 
 
 Important and methods  that is not easy to be understood should begin with<br>
- <br>
 @description:<br>
 @parameters:<br>
 @precondition<br>
 @postcondition<br>
-<br>
 
 All variable names should be self-explainatory.</br>
 
