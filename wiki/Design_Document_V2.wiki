@@ -137,23 +137,25 @@ The MachineView.txt files will follow the following format
                <img: "machinename_component2.png">                <location_x:    X/>                <location_y:    Y/> 	        <size_width:    Width/>                <size_height:  Height/>         </component 2>
 </machinename>
 4.	 Feature Priority
-||Feature	          ||Version 1	||Version 2	||Version 3
-||View machine	          ||x	||x	||X
-||Drag-and-Drop	          ||x	||x	||x
-||Layered images  	  ||x	||x	||x
-||Help/Instructions  	  ||x	||x	||x
-||Menus	                  ||x	||x	||x
-||User friendly interface ||x	||x	||x
-||Reset	                  ||x	||x	||x
-||Set background colour   ||	||x	||x	
-||Back button	          ||x	||x	||x
-||Undo button	          ||x	||x	||x
-||Commenting	          ||	||x	||x
-||Photo posting	          ||	||x	||x
-||Save on exit		  ||    ||x	||x
-||Register new user	  ||	||x	||x
-||Shake to reset	  ||	||x	||x
-||Download new machines	  ||    ||	||x
-||Auto update		  ||	||      ||x
-||Zoom in	          ||	||      ||x
-||Zoom out		  ||	||      ||x
+
+
+||Feature	          ||Version 1	||Version 2	||Version 3||
+||View machine	          ||x	||x	||X||
+||Drag-and-Drop	          ||x	||x	||x||
+||Layered images  	  ||x	||x	||x||
+||Help/Instructions  	  ||x	||x	||x||
+||Menus	                  ||x	||x	||x||
+||User friendly interface ||x	||x	||x||
+||Reset	                  ||x	||x	||x||
+||Set background colour   ||	||x	||x||	
+||Back button	          ||x	||x	||x||
+||Undo button	          ||x	||x	||x||
+||Commenting	          ||	||x	||x||
+||Photo posting	          ||	||x	||x||
+||Save on exit		  ||    ||x	||x||
+||Register new user	  ||	||x	||x||
+||Shake to reset	  ||	||x	||x||
+||Download new machines	  ||    ||	||x||
+||Auto update		  ||	||      ||x||
+||Zoom in	          ||	||      ||x||
+||Zoom out		  ||	||      ||x||
