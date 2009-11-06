@@ -33,6 +33,7 @@ Each machine component will require space for:
 ===Reliability Requirements===
 If the user performs an illegal operation, error checking methods will be initiated and the program will either ignore the operation or alert the user, depending on the situation.
 ________________________________________
+
 ==Organizational Requirements==
 ===Standards Requirements===
 Current coding standards accepted for the iPhone and Objective-C will be followed for this project. 
@@ -68,6 +69,7 @@ This application requires the application’s executable file to run, as well as
 ===Implementation Requirements===
 The software will be developed using the XCode programming environment, SDK 3.0, in the Objective-C programming language. The GUI will be fine-tuned using the XCode Interface Builder. The software will run on Mac OSX on the iPhone platform. The frameworks involved are: Cocoa touch, CFNetwork. The online user interactivity will be based on an FTP server. 
 ________________________________________
+
 ==External Requirements==
 Comments and photos for each part will be stored in an FTP server as associations of each machine that has been uploaded. 
 
