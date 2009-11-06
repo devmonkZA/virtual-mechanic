@@ -31,32 +31,32 @@ User Groups
 The application is quite general and may apply to almost any sort of mechanical device one can imagine: Computers, cars, boats, buildings, clocks, etc.  For that reason the application will be of interest to a wide variety of technicians, mechanics, and students.  The user groups are expected to have particular interest in performing their learning in a social setting. Users require no more than a basic understanding of how to operate an iPhone. The groups may be categorized as follows: 
 
 
-* Students learning about mechanical devices. (From trade schools, universities, high schools)
+ * Students learning about mechanical devices. (From trade schools, universities, high schools)
 
 
-* People working in the field maintaining mechanical devices. (Auto mechanics, airplane mechanics)
+ * People working in the field maintaining mechanical devices. (Auto mechanics, airplane mechanics)
 
 
-* People interested in developing mechanical devices. 
+ * People interested in developing mechanical devices. 
 
 
-* People who enjoy learning about mechanical devices as a hobby. 
+ * People who enjoy learning about mechanical devices as a hobby. 
 
 
 ==User Requirements==
-* The application is completely visual and thus is unavailable to the visually-impaired.
+ * The application is completely visual and thus is unavailable to the visually-impaired.
 
 
-* The users must have access to an iPhone, iTunes with internet access. 
+ * The users must have access to an iPhone, iTunes with internet access. 
 
 
-* In order to view comments, or download new content the user must have access to the internet. 
+ * In order to view comments, or download new content the user must have access to the internet. 
 
 
-* Because the application is so heavily text based the user should also have an intermediate understanding of the English language. 
+ * Because the application is so heavily text based the user should also have an intermediate understanding of the English language. 
 
 
-* In order to post photos the user will require either an iPhone with a camera, to upload photos which have directly taken, or a way of getting the photos they wish to post onto the iPod.
+ * In order to post photos the user will require either an iPhone with a camera, to upload photos which have directly taken, or a way of getting the photos they wish to post onto the iPod.
 
 
 
@@ -79,10 +79,10 @@ Shows a catalog of machines available for download from the server.  Each downlo
 Settings
 
 
-* Shake to reset on/off - Toggles the option to reset all component to their default locations by shaking the iPhone rigorously. 
-* Auto update on/off - Toggles option to update current machines on device automatically. 
-* Save on exit - Toggles option to save component positions automatically on exit. 
-* Background color - Lets users choose from a selection of 11 colors for the machine view background.
+ * Shake to reset on/off - Toggles the option to reset all component to their default locations by shaking the iPhone rigorously. 
+ * Auto update on/off - Toggles option to update current machines on device automatically. 
+ * Save on exit - Toggles option to save component positions automatically on exit. 
+ * Background color - Lets users choose from a selection of 11 colors for the machine view background.
 Machine View
 The Interface
 The Machine view (shown below) is the screen where the user may disassemble, and interact with the Machine of interest.  We begin by describing what each button does, and then lastly describe how the user can interact with the Machine.
@@ -92,24 +92,24 @@ The Title Bar
 The title bar is displayed at the very top of the screen and contains:
  
  
-* To the far left the Back Button.  The back button will display the name of the previous page, and tapping this button will always take the user back to the previous page. 
-* Centered in the title bar is the Selected status, which displays the name of the current component which is selected, and if no component is selected it will display the name of the machine currently being viewed.
-* To the far right the help button.  Tapping the help button takes the user to a page where they may choose to:
-* View the help table of contents
-* Search the help manual for help pages containing a word or phrase
-* Report a bug
+ * To the far left the Back Button.  The back button will display the name of the previous page, and tapping this button will always take the user back to the previous page. 
+ * Centered in the title bar is the Selected status, which displays the name of the current component which is selected, and if no component is selected it will display the name of the machine currently being viewed.
+ * To the far right the help button.  Tapping the help button takes the user to a page where they may choose to:
+ * View the help table of contents
+ * Search the help manual for help pages containing a word or phrase
+ * Report a bug
 When viewing the help pages tapping the help button again or tapping the back button returns the user to the previous screen. 
 
 The Control Bar	
 The control bar is present whenever the user has a machine open. It is displayed at the bottom of the screen and contains 4 tappable buttons: 
  
-* Undo – When the undo button is tapped it returns the most recently moved component to its last position.
+ * Undo – When the undo button is tapped it returns the most recently moved component to its last position.
  
-* Discuss – When the Discuss button is tapped it opens the comments page for a particular component (when a component is selected) or the comments page for the machine itself (if no component is currently selected).  If the comments page is already open tapping the Discuss button closes the comment page (returning the machine view). 
+ * Discuss – When the Discuss button is tapped it opens the comments page for a particular component (when a component is selected) or the comments page for the machine itself (if no component is currently selected).  If the comments page is already open tapping the Discuss button closes the comment page (returning the machine view). 
 
-* Photos – When the Photo button is tapped it opens the photo page for a particular component (when a component is selected) or the photo page for the machine itself (if no component is currently selected).  If the photo page is already open tapping the photo button closes the photo page (returning the machine view). 
+ * Photos – When the Photo button is tapped it opens the photo page for a particular component (when a component is selected) or the photo page for the machine itself (if no component is currently selected).  If the photo page is already open tapping the photo button closes the photo page (returning the machine view). 
 
-* Reset Button – When the reset button is tapped it returns all the components of the machine to their default location.
+ * Reset Button – When the reset button is tapped it returns all the components of the machine to their default location.
 
 Available actions while in the Machine View
 The Machine view is the screen where the user may view and interact with the machine. It is here that the user may disassemble the Machine or perform other actions. 
@@ -117,16 +117,16 @@ Disassembly
 
 
 
-* To select a component: The user taps the component with their finger. The name of the component is displayed at the top of the screen in the title bar to show that the correct component has been selected. Also the selected component is highlighted by becoming slightly transparent. 
+ * To select a component: The user taps the component with their finger. The name of the component is displayed at the top of the screen in the title bar to show that the correct component has been selected. Also the selected component is highlighted by becoming slightly transparent. 
 
 
-* To deselect a component: The user taps on any empty space on the screen. The component becomes fully opaque, and the title bar updates to show that the machine is now selected. If the user taps on a different component, then the previously selected 
+ * To deselect a component: The user taps on any empty space on the screen. The component becomes fully opaque, and the title bar updates to show that the machine is now selected. If the user taps on a different component, then the previously selected 
 component becomes opaque, the newly selected component becomes slightly transparent, and the title bar also updates to display the name of the newly selected component. 
 
-* To move a component: Once the component is selected the user may gently press their finger down on the component, and drag their finger along the screen to the desired location.  Releasing their finger at the desired location will drop the component in the desired location.
+ * To move a component: Once the component is selected the user may gently press their finger down on the component, and drag their finger along the screen to the desired location.  Releasing their finger at the desired location will drop the component in the desired location.
 
 
-* Zooming: To zoom in on a particular point of the screen, the user gently presses two fingers down on the desired point, and pulls their fingers apart while maintaining contact with the screen.  To zoom out the user gently places their fingers on different points of the screen, and drags them together (maintaining contact with the screen) towards the point that they want to be the center of the screen.
+ * Zooming: To zoom in on a particular point of the screen, the user gently presses two fingers down on the desired point, and pulls their fingers apart while maintaining contact with the screen.  To zoom out the user gently places their fingers on different points of the screen, and drags them together (maintaining contact with the screen) towards the point that they want to be the center of the screen.
 
 
 The Comments Page
@@ -137,13 +137,13 @@ The Comments page is where the user can participate in discussions about a parti
  
 Viewing Comments
 The comments page will provide the user with a list of up to 11 comments on the component or on the machine that they have selected.
-* The first comment is a description which is saved onto the device, and is written by the creator of the machine.  The description will give a basic description of the component, and includes only a comment.
+ * The first comment is a description which is saved onto the device, and is written by the creator of the machine.  The description will give a basic description of the component, and includes only a comment.
 
 
-* The following (up to) 10 comments are posted by users and include: date posted, username, and the comment made by the user. These comments are loaded from the server and if no connection may be achieved will instead be replaced by the comment: Could not connect to the server. (The comment format is displayed below)
+ * The following (up to) 10 comments are posted by users and include: date posted, username, and the comment made by the user. These comments are loaded from the server and if no connection may be achieved will instead be replaced by the comment: Could not connect to the server. (The comment format is displayed below)
 
  
-* If the comments need more space than offered on the screen then the user may scroll down on the list of comments by gently pressing their finger down on the component of the screen which displays the comments and dragging their finger towards the top of the screen.  To scroll up the user repeats the procedure described above, only the user drags their finger towards the bottom of the screen instead of the top.
+ * If the comments need more space than offered on the screen then the user may scroll down on the list of comments by gently pressing their finger down on the component of the screen which displays the comments and dragging their finger towards the top of the screen.  To scroll up the user repeats the procedure described above, only the user drags their finger towards the bottom of the screen instead of the top.
 Posting a comment
 To post a comment tap the post a comment button at the bottom of the comments pane and the post a comment window will be displayed.  (shown below)
  
@@ -178,25 +178,25 @@ The program should open within 10 seconds of the user tapping on the program’s
 The following functions should be performed with no more than 3 seconds delay: 
 
 
-* Selecting a part 
-* Dragging a part 
-* Undo previous drag and drop
-* Reset positions
-* Zooming in the Machine View or when viewing a photo 
-* Pressing the “Home” button on the bottom of the iPhone
+ * Selecting a part 
+ * Dragging a part 
+ * Undo previous drag and drop
+ * Reset positions
+ * Zooming in the Machine View or when viewing a photo 
+ * Pressing the “Home” button on the bottom of the iPhone
 The following functions should be performed within 1 second: 
-* Switching between any of the windows (i.e. views)
-* Exiting to main menu
-* Changing backgrounds in settings
+ * Switching between any of the windows (i.e. views)
+ * Exiting to main menu
+ * Changing backgrounds in settings
 
 ===Space Requirements===
 The program itself will take up at most 10MB of flash drive space on the iPhone and harddisk space at the iTunes store.
 Each machine will require space for: 
-* MachineView.txt (About 50bytes + 300Bytes/component) 
-* Description.txt (max 500 characters(500bytes)) 
+ * MachineView.txt (About 50bytes + 300Bytes/component) 
+ * Description.txt (max 500 characters(500bytes)) 
 Each machine component will require space for: 
-* MachineViewImage.png (max 50KB each) 
-* Description.txt (max 500 characters(500bytes)) 
+ * MachineViewImage.png (max 50KB each) 
+ * Description.txt (max 500 characters(500bytes)) 
 
 ===Reliability Requirements===
 If the user performs an illegal operation, error checking methods (report, explain and offer solution for the error) will be initiated. For minor errors, the program will either ignore the operation or alert the user. For fatal errors like null pointers or memory overflow, the program will quit to home page with a popup alert.
