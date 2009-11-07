@@ -47,3 +47,17 @@ In this test, the user would try to view and post comments or photos to the serv
 
 Step 5 - Downloading new machines 
 Users should be able to download new machines within 5 minutes and view them immediately with no additional settings. They must also be able to perform all the functions listed above.
+
+
+|| Input|| Output|| Test Date||Test Success ||
+|| Click "Start"|| Show list of machines to open|| Nov-05||YES ||
+||Click on a machine || Open the selected machine, and show the machine view with tabs below|| Nov-05|| YES||
+|| Click on "Download new.."|| Open the Download Machines menu|| Nov-05|| ||
+||Click on "Download Machines" || Open the Download Machines menu||Nov-05 || ||
+||Click on a machine to download || Download machine and update the list of machines|| Nov-05|| ||
+|| Click on "?"|| Show help menu|| Nov-05|| ||
+||Click on "View topics" || Show all help topics|| Nov-05|| ||
+||Click on "Search" || Show text field and keyboard for entering search term|| Nov-05|| ||
+||Click "Report a bug.." ||Show text field and keyboard for bug reporting and submit button|| Nov-05|| YES||
+||Click "Settings" and manipulate options ||Show settings menu and change settings as desired || Nov-05||YES ||
+ 
