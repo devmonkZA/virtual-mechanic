@@ -111,12 +111,22 @@ testing will also be done on the iPhone 3G platform.
 
 2.	 System Diagrams
 2.1.	State Machine Diagram
- 
+
+
+ [http://virtual-mechanic.googlecode.com/files/State%20Machine%20Diagram.jpg]
+
+
 2.2.	Class Diagram
+
+[http://virtual-mechanic.googlecode.com/files/ClassDiagram.jpg]
  
 2.3.	iTouch Sequence Diagram
+
+[http://virtual-mechanic.googlecode.com/files/iTouchSequenceDiagram.jpg]
  
 2.4.	Server Side Sequence Diagram
+
+[http://virtual-mechanic.googlecode.com/files/serverSideSequenceDiagram.jpg]
  
 3.	 Data Requirements
 The files used in development of the project will be mainly: 
