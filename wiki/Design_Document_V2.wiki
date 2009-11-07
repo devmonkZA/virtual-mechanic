@@ -181,7 +181,10 @@ The Comments.txt files will follow the following format:
 ^date
 -comment
 
-MachineView.txt
+
+[http://virtual-mechanic.googlecode.com/files/mechineView.JPG]
+
+
 The MachineView.txt files will follow the following format         
 
 4.	 Feature Priority
