@@ -1,0 +1,49 @@
+Revision History
+
+||Change	|| Version||
+||Unit testing table added	||2||
+||Testing steps formalized	||2||
+||Potential bugs made a section	||2||
+||Integration table updated (test date, success columns added)	||2||
+||Version 1 User acceptance test table added	||2||
+||Size and complexity table updated	||2||
+
+|| Method Name|| Input||Expected output ||Function ||Tested? || Last date tested|| Comments||
+|| menuSelect(sender id)||Object (button that was clicked), a main menu button, then extract the corresponding tag number from the button || Gets the tag number of the button, gets the view corresponding to the tag number, then sends the corresponding view to MainMenuController.||Switch view according to button tag (Start, download, settings) ||YES ||5/11/2009 ||Tags: Start = 1, download new = 2, settings = 3 || 
+||menuSelect(sender id), tag 1 received (SelectMachineViewController view) || "Start" button object pressed|| Shows SelectMachineViewController view, shows list of machines available (Version 1.0 has Computer only)|| Shows the machine selection menu|| || 5/11/2009|| || 
+|| menuSelect(sender id), tag 3 received (SettingViewController view)||"Settings" button object pressed||Shows SettingViewController, runs modCell() which increases the width and text of the table cells (refer to screenshots of settings menu), shows modified table in view || Shows the settings menu, with bigger rows and 'nicer' text|| YES || 5/11/2009|| || 
+|| (NSIndexPath)didSelectRowAtIndexPath, in SettingsViewController|| NSIndexPath:row = 0 (first row)|| Shows ChangeBGViewController view, which shows a colour chooser menu|| Change background colour function, for background in MachineViewController, choice of 12 background colours|| YES || 5/11/2009|| Choice of 12 colours|| 
+|| nitVectorsOfBGPickers(), in ChangeBGViewController|| No inputs, hardcoded to have 12 colour choices|| NSMutableArray object of BGPicker objects. Then puts all the selected colours on the ChangeBGViewController view|| Makes a vector that holds all the colours, then displays the colour choices on the ChangeBGViewController||YES  ||  5/11/2009||Having a vector to hold the colours makes it easier to add more colours in the future ||
+||touchBegan(), for choosing colour in ChangeBGViewController view. Uses resetSelectedToUnselected() in ChangeBGViewController  || BGPicker object (12 choices), which is inherited from UIView, and contains a CGRect with colour information|| Depending on which colour (BGPicker object) is selected, the global variable BGColor:UIColor in static class StaticVariables is changed to the colour of the CGRect on touchesBegan. The selected BGPicker object is slightly expanded and the transparency is changes to setAlpha = 0.30. BGPicker objects that were selected previously is reset back to their original size and transparency (1.00, which is opaque) using resetSelectedToUnselected()|| Choose a background colour and updates the global variable, resets the previously selected BGPicker object (if applicable).|| YES ||  5/11/2009|| || 
+|| intComponentImages()|| Object (button that was clicked), the button for selecting which machine to open|| Initialize all .png images for that machine to  ComponentImage (super UIImageView). Sets variables for ComponentImage like position, is_moved, undostack reference, etc. (refer to class diagram). Adds all ComponentImage to an NSMutableArray = componentsVector (keeps tracking the positions easier)|| Creates ComponentImage objects from .png images. Initializes all the variables and references. Adds all components to an vector (NSMutableArray)||YES  ||  5/11/2009|| Calls drawComponentImage() concurrentl|| 
+|| drawComponentImage()|| ComponentImage objects||Draw ComponentImages to MachineViewController ||When intComponentImages() is done for each image, this method is called to draw ComponentImages to the machine view (MachineViewController)|| YES ||  5/11/2009|| || 
+||touchesBegan() || ComponentImage objects||ComponentImage object becomes semitransparent (setAlpha = 0.70). All other unselected ComponentImage becomes setAlpha = 1.00 (opaque) || When a component is selected, it becomes semitransparent to denote that it is selected. Also, all other components become opaque again.||YES  ||  5/11/2009||Overrides UIImageView method touchesBegan() ||
+||touchesMoved(), in MachineViewController view || ComponentImage objects||Track finger movement, move image to continously follow finger ||Dragging ComponentImage || YES ||  5/11/2009|| Overrides UIImageView method touchesMoved()||
+||touchedEnded(), in MachineViewController view || ComponentImage objects|| Push position of ComponentImage into UndoStack object (stack initially empty, cannot pop stack if empty). Updates ComponentImage position in the componentsVector.|| When letting go of object, the new position is pushed to the undo stack. This keeps track of the previous position of the component. Position is update in the vector.|| YES ||  5/11/2009|| Overrides UIImageView method touchesEnded()|| 
+|| undoAction()|| Object (button that was clicked) the "Undo" button|| Pop last ComponentImage and position of that image from the stack, and update the componentsVector vector with the corresponding ComponentImage and vectors|| Undo function of the program, returns the last image moved to the previous location|| YES ||  5/11/2009|| The undo stack is implemented using NSMutableArray and customized-created nodes (StackNode objects with ComponentImage objects and x,y CGFloats) with custom implemention for push(StackNode) and pop()|| 
+|| reset()||Object (button that was clicked) the "Reset" button || Runs intComponentImages (and the corresponding drawComponentImages) again. Resets all the positions in the componentsVector to their original positions|| Reset function of the program, returns all the components to their original locations|| YES ||  5/11/2009|| || 
+||backToMain(), automatically added navigation buttons, toolbar buttons, and any other buttons that switch user interface views ||Object (button that was clicked), with the intention of switching views ||Change views according to the button's purpose. Add slide left and right animation. The navigation bar (bar at the top) remembers the last view and adds a back button with the previous view name automatically on the new view. The toolbar (bottom bar) in machine view calls their corresponding methods when touched. The undo/reset calls the methods above, while the comments/photos button calls up new views corresponding to the component selected (version 2.0+ only) || Specifies the navigational control of the user interface|| YES ||  5/11/2009||Does not mention hidden .xib code and methods implemented in the UIView, UIViewController, and other superclasses since they are hidden or inherited without modification. ||
+
+1.3.	Integration Testing
+
+
+The team shall incrementally integrate and test different components of the system during development. The basic menu features will be tested first, before moving on to viewing machines, interacting with them, and commenting on them, and so on. 
+Testing steps:
+Step 1 - Verify menu controls and help function 
+Without opening a machine, a user should be able to navigate the menu properly, change any basic settings in the settings menu, and be able to view the help documentation at all times by clicking on the "?" icon. 
+
+
+Step 2 - Opening new machines 
+Users should be able to open a machine, as well as switch between machines. 
+
+
+Step 3 – Manipulating the machine 
+Components should be selectable, deselectable, and movable. The zooming functions should work.
+
+
+Step 4 - Posting new comments and photos 
+In this test, the user would try to view and post comments or photos to the server.
+
+
+Step 5 - Downloading new machines 
+Users should be able to download new machines within 5 minutes and view them immediately with no additional settings. They must also be able to perform all the functions listed above.
