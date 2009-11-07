@@ -48,6 +48,11 @@ In this test, the user would try to view and post comments or photos to the serv
 Step 5 - Downloading new machines 
 Users should be able to download new machines within 5 minutes and view them immediately with no additional settings. They must also be able to perform all the functions listed above.
 
+1.3.1.	Integration Test cases:
+
+
+1.3.1.1.	Main menu
+
 
 || Input|| Output|| Test Date||Test Success ||
 || Click "Start"|| Show list of machines to open|| Nov-05||YES ||
