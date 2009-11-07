@@ -173,16 +173,12 @@ Comments.txt
 
 The Comments.txt files will follow the following format:
 -------------------
-*username
-^date
--comment
--------------------
-*username
-^date
--comment
-
-
 [http://virtual-mechanic.googlecode.com/files/mechineView.JPG]
+
+-------------------
+
+
+
 
 
 The MachineView.txt files will follow the following format         
