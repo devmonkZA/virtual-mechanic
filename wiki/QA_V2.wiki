@@ -66,3 +66,18 @@ Users should be able to download new machines within 5 minutes and view them imm
 ||Click "Report a bug.." ||Show text field and keyboard for bug reporting and submit button|| Nov-05|| YES||
 ||Click "Settings" and manipulate options ||Show settings menu and change settings as desired || Nov-05||YES ||
  
+
+1.3.1.2.	Machine View, Comments, Photos
+
+
+|| Input|| Output|| Test Date||Test Success ||
+|| Click on a component|| Highlight component with red halo. Show name of component on title bar||Nov-05 ||YES ||
+|| Click on empty space|| Un-highlight any component. Show "Overall" on title bar|| Nov-05|| YES||
+|| Click on component and drag to left/right/up/down|| Move component left/right/up/down|| Nov-05|| YES||
+|| Release component|| Anchor component to place where it was released|| Nov-05|| YES||
+||Click undo || Undoes previous action|| Nov-05||YES ||
+||Click "Details and Discuss" || Show comments page for component (if selected) or overall machine|| Nov-05|| ||
+|| Click "Post new comment..|| Show text field and keyboard for comments and a submit button|| Nov-05|| ||
+||Click "Photos" || Show photos page for component (if selected) or overall machine|| Nov-05||YES ||
+||Tilt iPhone horizontally ||Does nothing || Nov-05|| YES||
+|| Shake iPhone||Resets components positions (if setting is turned on!) || || ||
