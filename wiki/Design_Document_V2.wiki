@@ -120,14 +120,19 @@ testing will also be done on the iPhone 3G platform.
 
 [http://virtual-mechanic.googlecode.com/files/ClassDiagram.jpg]
  
+
 2.3.	iTouch Sequence Diagram
+
 
 [http://virtual-mechanic.googlecode.com/files/iTouchSequenceDiagram.jpg]
  
+
 2.4.	Server Side Sequence Diagram
+
 
 [http://virtual-mechanic.googlecode.com/files/serverSideSequenceDiagram.jpg]
  
+
 3.	 Data Requirements
 The files used in development of the project will be mainly: 
 1.	.xcodeproject file which can directly launch XCode with the current project development window, which is convenient for distributing incomplete project files among team members. 
