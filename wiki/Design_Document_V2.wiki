@@ -1,5 +1,5 @@
 =Design Document =
-==Version History==
+==Revision History==
 Change	Version
 Technical guidelines rewritten	2
 Class diagram updated	2
