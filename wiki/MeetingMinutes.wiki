@@ -162,9 +162,9 @@ _Tuesday, November 3, 2009, 2:00 PM @ RCB, lower level by the pond_
  * Get ready for presentation!
 
 =Meeting 9=
-_Tuesday, Nov 10, 12pm, Outside CSIL_<br>
-- All present
-- Topics covered
+_Tuesday, Nov 10, 12pm @ Outside CSIL_<br>
+- All present<br>
+- Topics covered:
  * Version 2 documentation review
  * Plan for version 2 code
 ==Member Tasks==
