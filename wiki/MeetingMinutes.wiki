@@ -160,3 +160,32 @@ _Tuesday, November 3, 2009, 2:00 PM @ RCB, lower level by the pond_
  * Put final touches on Version 1
  * Finalize updates for documentation
  * Get ready for presentation!
+
+=Meeting 9=
+_Tuesday, Nov 10, 12pm, Outside CSIL_
+- All present
+- Topics covered
+ * Version 2 documentation review
+ * Plan for version 2 code
+==Member Tasks==
+ * Greg: 
+  * In charge of all documents from now on, to keep them consistent throughout
+  * Fix inconsistent coverpages, colors/fonts, wording (i.e. revision history vs. version history, parts vs. components, etc), reset formatting, redo numbering and table of contents. Label this as documentation version 2.1
+  * Powerpoint slides and script for self and Tyler by Saturday night. Use powerpoint templates
+  * Documents version 2.1 by Sunday night
+  * Gantt chart update?
+ * IMPORTANT: Greg will need to know any new design changes so it reflects in the documentation. Greg will also continuously remind us of this fact. 
+ * IMPORTANT: Chien will continue to update the version 2 documentation on the website
+ * Jeff and Tyler: Get iPhone app onto the iPhone (certificates, CSR, etc.)
+ * Jeff: Improve program aesthetics (i.e. buttons, app icon, backgrounds, logo, etc)
+ * Marc, Chien, Tyler and Jeff will work together on code for version 2:
+  * Use .plist to hold username and password. Ask only once in program first run. 
+  * Need to figure out how .plist gets/sets data
+  * IMPORTANT: Use .xml to hold comments and pointers (for components and their related pictures). Figure out how .xml in iPhone works
+  * Tyler has figured out .xml format for iPhone. Will review on Wednesday
+  * Comments will go into .xml file from now on. This will potentially simplify updating between server-client
+ * Chien has coded "shake to reset" function, and a show icon next to machine names in select machine view. Will need to integrate into main code
+ * Marc will finish help function by Wednesday, 11 Nov 2009
+ * Jeff will research on photo albums
+ * New button action: "comments" will change to "details", and clicking once shows a description (and possibly some photos), and a button on the bottom will link to the comments for that particular component/machine. 
+ 
