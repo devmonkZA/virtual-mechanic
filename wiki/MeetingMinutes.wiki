@@ -189,3 +189,34 @@ _Tuesday, Nov 10, 12pm @ Outside CSIL_<br>
  * Jeff will research on photo albums
  * New button action: "comments" will change to "details", and clicking once shows a description (and possibly some photos), and a button on the bottom will link to the comments for that particular component/machine. 
  
+=Meeting 10=
+_Monday, Nov. 16 @ SFU, outside CSIL_
+- Greg absent, Everyone else present <br>
+- 92% on the assignment 3, great work everyone! <br>
+- Discussed current version issues and updates:
+ * Need an executable (.exe) code for this version's release.
+ * Photo album is functional; "posting" photo's is still not working though.
+ * Commenting is still in progress.
+  * Need a loop to get user name, comment, and date from plist.
+ * Second 'machine' is in the works (Human chest)
+  * Need to update the glossary and other documentation to ensure there is no confusion that the app is not limited to only machines. It can also allow for biological objects and anything else!
+ * "Undo" stack limit suggested.
+  * Instead of mutable array, use pointer and queue?
+  * Definitely not a priority right now! 100000 moves is approximately 1 mB, so it isn't a memory intensive operation in the first place.
+   * Check out the sizes of CGFloat and reference pointers in Objective-C just to be sure.<br>
+- Gantt chart needs to be fixed and updated! Hasn't been done since Assignment 1!!!<br>
+- New screenshots for web page AND help docs needed. <br>
+- Update front page to reflect our project more accurately (now that we have a better idea). <br>
+- Email sent to Prof. Tsang regarding whether there is a presentation on Thursday.<br>
+- Need to update documentation about registering users.
+ * Using a .plist. (key - username, value - password)
+ * Two buttons at start up, with two text fields.
+  * Buttons - "Login" and "Register"
+  * Fields - "User name" and "Password"
+ * If log-in is successful, go to the main menu. If not, display a notification.
+==Member Tasks==
+- Marc needs to upload revised Help documents.(not including screenshots).<br>
+- Jeff working on button graphics and front page. <br>
+- Chien working on commenting. <br>
+- Tyler working on photo posting. <br>
+- Greg needs to update the documentation.
