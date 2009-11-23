@@ -1,11 +1,11 @@
 Requirements (Version 2):
 
-http://code.google.com/p/virtual-mechanic/wiki/Requirements_V2
+http://virtual-mechanic.googlecode.com/files/Group-12-RequirementsV2_Final.doc
 
 Design Document (Version 2):
 
-http://code.google.com/p/virtual-mechanic/wiki/Design_Document_V2
+http://virtual-mechanic.googlecode.com/files/Group-12-DesignV2.doc
 
 Quality Assurance (Version 2):
 
-http://code.google.com/p/virtual-mechanic/wiki/QA_V2
+http://virtual-mechanic.googlecode.com/files/Group-12-QA_V2_Final.doc
