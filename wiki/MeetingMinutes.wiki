@@ -162,7 +162,7 @@ _Tuesday, November 3, 2009, 2:00 PM @ RCB, lower level by the pond_
  * Get ready for presentation!
 
 =Meeting 9=
-_Tuesday, Nov 10, 12pm @ Outside CSIL_<br>
+_Tuesday, Nov 10, 12pm @ Outside CSIL_ <br>
 - All present<br>
 - Topics covered:
  * Version 2 documentation review
@@ -190,7 +190,7 @@ _Tuesday, Nov 10, 12pm @ Outside CSIL_<br>
  * New button action: "comments" will change to "details", and clicking once shows a description (and possibly some photos), and a button on the bottom will link to the comments for that particular component/machine. 
  
 =Meeting 10=
-_Monday, Nov. 16 @ SFU, outside CSIL_
+_Monday, Nov. 16 @ SFU, outside CSIL_ <br>
 - Greg absent, Everyone else present <br>
 - 92% on the assignment 3, great work everyone! <br>
 - Discussed current version issues and updates:
@@ -222,7 +222,7 @@ _Monday, Nov. 16 @ SFU, outside CSIL_
 - Greg needs to update the documentation.
 
 =Meeting 11=
-_Tuesday, Nov. 24, 12:30 @ SFU, outside CSIL_
+_Tuesday, Nov. 24, 12:30 @ SFU, outside CSIL_ <br>
 - Everyone present <br>
 - Script will be written up for our presentation (Greg) <br>
  * Chien, Tyler, and Greg will present
