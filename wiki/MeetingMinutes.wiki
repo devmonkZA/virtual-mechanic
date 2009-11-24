@@ -230,7 +230,7 @@ _Tuesday, Nov. 24, 12:30 @ SFU, outside CSIL_ <br>
 - Need to email Prof. Tsang about presentation date and time (Marc) <br>
 - Need a *Getting Started Tutorial* and a demo movie <br>
 - Updates for documents will only be small changes now <br>
-- Everyone should contribute to post-mortem
+- Everyone should contribute to post-mortem <br>
 - Greg's laptop is down, he will try to fix it tonight
  * If he can't, he will work more at SFU
 - Next meeting Tuesday, Dec. 1, CSIL
