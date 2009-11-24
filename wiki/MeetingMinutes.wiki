@@ -241,22 +241,22 @@ _Tuesday, Nov. 24, 12:30 @ SFU, outside CSIL_
 * Server-side for downloading/uploading
 * Update the help docs to include screenshots
 ==Member Tasks==
-* *Marc*
+*Marc*
  * Email Prof. Tsang about presentation
  * Get screenshots for final submission
  * Update help docs
-* *Chien*
+*Chien*
  * Clean up commenting code to make it more presentable
  * Finish implementing shake-to-reset
  * Meet with Greg and Tyler about presentation
-* *Jeff*
+*Jeff*
  * Work on downloading from the server
  * Start on the demo movie and tutorial
-* *Greg*
+*Greg*
  * Start working on presentation script and slideshow
  * Meet with Chien and Tyler about presentation
  * Fix your laptop!
-* *Tyler*
+*Tyler*
  * Work on photo-taking and posting
  * Work with the rest of the group to integrate their updates into the final version
  * Meet with Chien and Greg about presentation
