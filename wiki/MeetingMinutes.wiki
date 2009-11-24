@@ -220,3 +220,43 @@ _Monday, Nov. 16 @ SFU, outside CSIL_
 - Chien working on commenting. <br>
 - Tyler working on photo posting. <br>
 - Greg needs to update the documentation.
+
+=Meeting 11=
+_Tuesday, Nov. 24, 12:30 @ SFU, outside CSIL_
+- Everyone present <br>
+- Script will be written up for our presentation (Greg) <br>
+ * Chien, Tyler, and Greg will present
+ * They will meet tomorrow at 4:30 to discuss everything
+- Need to email Prof. Tsang about presentation date and time (Marc) <br>
+- Need a *Getting Started Tutorial* and a demo movie <br>
+- Updates for documents will only be small changes now <br>
+- Everyone should contribute to post-mortem
+- Greg's laptop is down, he will try to fix it tonight
+ * If he can't, he will work more at SFU
+- Next meeting Tuesday, Dec. 1, CSIL
+==Final implementations for V.M. app==
+* Photo-taking and posting
+* Commenting needs cleaning up
+* Shake-to-reset setting
+* Server-side for downloading/uploading
+* Update the help docs to include screenshots
+==Member Tasks==
+* *Marc*
+ * Email Prof. Tsang about presentation
+ * Get screenshots for final submission
+ * Update help docs
+* *Chien*
+ * Clean up commenting code to make it more presentable
+ * Finish implementing shake-to-reset
+ * Meet with Greg and Tyler about presentation
+* *Jeff*
+ * Work on downloading from the server
+ * Start on the demo movie and tutorial
+* *Greg*
+ * Start working on presentation script and slideshow
+ * Meet with Chien and Tyler about presentation
+ * Fix your laptop!
+* *Tyler*
+ * Work on photo-taking and posting
+ * Work with the rest of the group to integrate their updates into the final version
+ * Meet with Chien and Greg about presentation
