@@ -1,0 +1,7 @@
+The "Virtual Mechanic" app for iPhone is a teaching tool that allows users to learn about how things work by virtually dissecting machines on the device's touchscreen. Potentially anyone who yearns to learn about how everyday machines work can consult our program without getting their hands dirty. This valuable teaching tool finds a unique niche in today's modern classrooms and teaching environments, where people can come together online and discuss how their favorite machines work.
+
+The developers of the program will provide content by creating various virtual machines for users to play with. For each machine, the user is presented with many layered images that can be selected and dragged around to reveal other images below and around them. All this is accomplished without using any tools or any of the hassle that is associated with putting the machines back together again.
+
+When presented with a machine, users can click and drag parts of the machine around on the screen so that it feels like the user is actually dismantling the machine. Users can find out more about what each part does by reading the part description, viewing other people's comments, and seeing relevant photos.
+
+Users can share knowledge and ideas by posting photos that are taken by the iPhone. They can also post comments and photos on a specific part of the machine or the entire machine in general. This inflow of new information not only increases the learning value of the software, but also promotes

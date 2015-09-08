@@ -1,0 +1,80 @@
+
+
+This document lists the guidelines, system diagrams, data requirements and feature priority of the project.
+
+# Guidelines #
+
+The development of the software will be based on the Mac OS. The whole development process will be using the Objective-C programming language and the development environment will be XCode, provided by Apple. The iPhone Simulator and compiler tools from XCode will be applied during the development phase. There will be an FTP server supporting the online discussion and bug reporting features of the product. The database on the server side will be a MySQL database, which will record user information, uploaded files and files ready for downloading. The language used in development of the database is the SQL programming language.
+
+The whole project will be implemented using the iPhone SDK 3.0. For more detail: The connection between server side and client side will be implemented using the CFNetwork framework; And user interface design will be based on the Interface Builder provided by Apple; The image processing, page switch and all other user interface functionality will be implemented based on the UIKit framework.
+
+The tools listed above are all free to use. Since the frameworks are only used and not modified for financial means, there is no copyright issues. No royalties nor acknowledgements need to be made.
+
+Information about users will be kept confidential. The only information that will be released to the public are usernames. Passwords may be accessed only by an account's owner and administrators.
+
+For machines, we will take our own pictures and blur out logos, brandnames, and other identifying trademarks of the machines. We will only represent simple, frequently seen machines, and will not allow offensive or dangerous (eg. bombs, guns, prank toys, etc) machines.
+
+
+---
+
+
+# State Machine Diagram #
+
+![http://i684.photobucket.com/albums/vv204/tyrelltle/Screenshot2009-10-07at656.jpg](http://i684.photobucket.com/albums/vv204/tyrelltle/Screenshot2009-10-07at656.jpg)
+
+
+---
+
+
+# Class Diagram #
+![http://i684.photobucket.com/albums/vv204/tyrelltle/classDia.jpg](http://i684.photobucket.com/albums/vv204/tyrelltle/classDia.jpg)
+
+
+---
+
+
+# Data Requirements #
+
+The files used in development of the project will be mainly:
+
+  1. .xcodeproject file which can directly launch XCode with the current project development window, which is convenient for distributing incomplete project files among team members.
+  1. .h files which are header files of the classes.
+  1. .m files which are implementation of classes.
+  1. .plist files which contain configuration information of the project
+  1. .xib files which are actually user interface files based on Interface Builder;
+  1. .gif files for each component
+  1. .jpeg files which users upload from their iPhones
+  1. .txt files to store user comments and details
+  1. .sql files to store usernames, passwords, and possibly as an alternative to replace .txt file for storing comments, details, and all other information.
+
+Images will be used to depict different components (layers) of the machines for users to explore. The type of all images will be of the .GIF format. All images will be stored in the Image folder under the project folder on both the iPhone and server. It is important to note that when image files are “imported”, the physical directories of the files do not change.
+
+The user will interact with the software with only his/her fingers. No additional hardware or software is needed besides a functional and up-to-date (OS 3.0 or later) iPhone and an iTunes online account to download the software.
+
+
+---
+
+
+# Feature Priority #
+
+| **Feature** | **Version 1** | **Version 2** | **Version 3** |
+|:------------|:--------------|:--------------|:--------------|
+| View machine | x             | x             | x             |
+| Drag-and-Drop | x             | x             | x             |
+| Layered images | x             | x             | x             |
+| Help/Instructions | x             | x             | x             |
+| Menus       | x             | x             | x             |
+| User friendly interface | x             | x             | x             |
+| Reset       | x             | x             | x             |
+| Set background colour | x             | x             | x             |
+| Back button | x             | x             | x             |
+| Undo button | x             | x             | x             |
+| Commenting  |               | x             | x             |
+| Photo posting |               | x             | x             |
+| Save on exit |               | x             | x             |
+| Register new user |               | x             | x             |
+| Shake to reset |               | x             | x             |
+| Download new machines |               |               | x             |
+| Auto update |               |               | x             |
+| Zoom in     |               |               | x             |
+| Zoom out    |               |               | x             |

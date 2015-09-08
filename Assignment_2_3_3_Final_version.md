@@ -1,0 +1,26 @@
+3.  Give the time, date, and location for when user acceptance testing of version 3 of
+your project (the final version) will be done. If you also want to do user testing for
+one or both of the earlier versions, then include the time, date, and location for those
+tests as well.
+Also tell us how this testing will be done: what will you be asking the users to do?
+Describe your the testing you plan to do in enough detail so that someone not in your
+group could run it for you.
+
+**Working on this, sorry its so late, I've had some pretty bad comp problems in the last day : ( I'll tell u guys about it next week**
+
+
+# User Acceptence Testing #
+There shall be 2 user acceptence testsat different points of the implementation phase:
+
+**(Not sure exacly when this shall be any1 have any ideas?)**
+
+- The 1st earlier in the phase to gain a sense for anything that might be improved early on.<br>
+- The 2nd towards the end of the project not after having finished (what would be the point)<br>
+<h2>Testing Locations</h2>
+The testing will be done in two different locations:<br>
+<br>
+<h3>Sfu</h3>
+There shall be tests conducted at sfu to test the software in an academic enviroment, with with university students of varying majors (focused around mechanics).  The tests shall be conducted in a variety of settings from load busy hallways to the quiet of the library. This is to test how quickly users can engage in the software in distracting or calm enviroments.<br>
+<h3>An auto shop</h3>
+The autoshop test shall test the viability of the software in a grungy enviroment, where the users might not have clean hands.  It will also be an opportunity to test the software with trades workers, some of whom have been to trade school, some not.  Again the software shall be tested in load and quiet enviroments.<br>
+<h2>Testing Format</h2>

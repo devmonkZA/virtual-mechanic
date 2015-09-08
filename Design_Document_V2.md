@@ -1,0 +1,213 @@
+# Design Document #
+## Revision History ##
+Change	Version
+Technical guidelines rewritten	2
+Class diagram updated	2
+iTouch, and server sequence diagrams added	2
+Server, iPod directory structures added	2
+File structure section added	2
+Help functions moved to version 2	2
+
+
+## Guidelines ##
+1.1.	Technical Guidelines
+
+
+1.1.1.	Coding
+
+
+1.1.1.1.	Coding for the project is done using the XCode development environment on the Mac OSX platform.=====
+
+
+1.1.1.2.	Codes were programmed in the Objective-C 2.0 programming language.
+
+
+1.1.1.3.	Testing thus far has been done using XCode’s iPhone simulator. Further
+testing will also be done on the iPhone 3G platform.
+
+
+1.1.2.	GUI and Media
+
+
+1.1.2.1.	The software’s graphical user interface (GUI) was programmed using the XCode UIKit and refined with the XCode Interface Builder.
+
+
+1.1.2.2.	All images are stored as Portable Network Graphics (PNG)
+
+
+1.1.2.3.	All comment files are stored as text files (TXT)
+
+
+1.1.3.	Online Data Repository
+
+
+1.1.3.1.	An FTP server will handle all relevant downloadable data.
+
+
+1.1.3.2.	A uniform directory structure will be used for ordering files. The structure will be specific for the of the Virtual Mechanic software.
+
+
+1.1.4.	Documentation
+
+
+1.1.4.1.	All project documentation is available in either Word document (DOC) or Google wiki format or both.
+
+
+1.1.4.2.	Meeting minutes are recorded in the Meeting Minutes section of the Google wiki on the team’s website.
+
+
+1.1.4.3.	The Gantt chart was created using Microsoft Project 2007.
+
+
+1.1.4.4.	System diagrams designed using the OmniGraffle Professional program for Mac OSX.
+
+
+1.1.4.5.	Mockup iPhone screenshots created using Axure RP Pro 5.6.
+
+
+1.2.	Ethical and Legal Guidelines
+
+
+1.2.1.	Coding and Documents
+
+
+1.2.1.1.	All graphics are open source or created by the Virtual Mechanics team, specifically for this project.
+
+
+1.2.1.2.	All code is original, written by the Virtual Mechanics software team, unless otherwise noted in the project code comments.
+
+
+1.2.2.	Users
+
+
+1.2.2.1.	No user information, aside from a user name, is retained by the software.
+
+
+1.2.2.2.	Usage is not tracked, and so cannot be released to third parties for any reasons.
+
+
+1.2.2.3.	User names are public to other users of the software, as they are attached to submitted comments and photos.
+
+
+1.2.2.4.	Users are expected to maintain control of their account as it will be bound to their iPhone or iTouch.
+
+
+1.2.3.	Ethics and Legalities
+
+
+1.2.3.1.	Any logos, brand names, or other identifying marks will be removed from photos before they are displayed to the public forum.
+
+
+1.2.3.2.	All submissions will be screened for dangerous or offensive content before release.
+
+
+
+
+
+
+
+
+
+
+2.	 System Diagrams
+2.1.	State Machine Diagram
+
+
+> ![http://virtual-mechanic.googlecode.com/files/State%20Machine%20Diagram.jpg](http://virtual-mechanic.googlecode.com/files/State%20Machine%20Diagram.jpg)
+
+
+2.2.	Class Diagram
+
+![http://virtual-mechanic.googlecode.com/files/ClassDiagram.jpg](http://virtual-mechanic.googlecode.com/files/ClassDiagram.jpg)
+
+
+2.3.	iTouch Sequence Diagram
+
+
+![http://virtual-mechanic.googlecode.com/files/iTouchSequenceDiagram.jpg](http://virtual-mechanic.googlecode.com/files/iTouchSequenceDiagram.jpg)
+
+
+2.4.	Server Side Sequence Diagram
+
+
+![http://virtual-mechanic.googlecode.com/files/serverSideSequenceDiagram.jpg](http://virtual-mechanic.googlecode.com/files/serverSideSequenceDiagram.jpg)
+
+
+3.	 Data Requirements
+The files used in development of the project will be mainly:
+1.	.xcodeproject file which can directly launch XCode with the current project development window, which is convenient for distributing incomplete project files among team members.
+  * .h files which are header files of the classes.
+  * .m files which are implementation of classes.
+  * .plist files which contain configuration information of the project
+  * .xib files which are actually user interface files based on Interface Builder;
+  * .gif files for each component
+  * .jpeg files which users upload from their iPhones
+  * .txt files to store user comments and details
+  * .sql files to store usernames, passwords, and possibly as an alternative to replace .txt file for storing comments, details, and all other information.
+Images will be used to depict different components (layers) of the machines for users to explore. The type of all images will be of the .PNG format. All images will be stored in the Image folder under the project folder on both the iPhone and server. It is important to note that when image files are “imported”, the physical directories of the files do not change.
+The user will interact with the software with only his/her fingers. No additional hardware or software is needed besides a functional and up-to-date (OS 3.0 or later) iPhone and an iTunes online account to download the software.
+
+
+
+
+
+
+
+
+
+
+3.1.	Server Directory Structure
+The server will contain a folder “Virtual mechanic” which will contain the folders: Machine1, Machine2, Machine… For the following diagrams the brown squares are folders, the white are .txt files, and the red are .png files.
+
+3.2.	iPod Directory Structure
+The iPod will contain a folder “Virtual mechanic” which will contain the folders: Machine1, Machine2, Machine…
+
+
+3.3.	File Structure
+(Note: Red values are the values of the variable)
+Descrition.txt
+
+The Descrition.txt files will contain only a description of the part or the Machine, and will simply be read without any symbols or notation for parsing.
+
+Comments.txt
+
+The Comments.txt files will follow the following format:
+
+---
+
+http://virtual-mechanic.googlecode.com/files/mechineView.JPG
+
+
+---
+
+
+
+
+
+
+The MachineView.txt files will follow the following format
+
+4.	 Feature Priority
+
+
+|Feature	          |Version 1	|Version 2	|Version 3|
+|:-----------------|:---------|:---------|:--------|
+|View machine	          |x	        |x	        |X        |
+|Drag-and-Drop	          |x	        |x	        |x        |
+|Layered images  	  |x	        |x	        |x        |
+|Help/Instructions  	  |x	        |x	        |x        |
+|Menus	                  |x	        |x	        |x        |
+|User friendly interface |x	        |x	        |x        |
+|Reset	                  |x	        |x	        |x        |
+|Set background colour   |x	        |x	        |x        |
+|Back button	          |x	        |x	        |x        |
+|Undo button	          |x	        |x	        |x        |
+|Commenting	          |	         |x	        |x        |
+|Photo posting	          |	         |x	        |x        |
+|Save on exit		    |          |x	        |x        |
+|Register new user	  |	         |x	        |x        |
+|Shake to reset	   |	         |x	        |x        |
+|Download new machines	  |          |	         |x        |
+|Auto update		     |	         |          |x        |
+|Zoom in	          |	         |          |x        |
+|Zoom out		        |	         |          |x        |

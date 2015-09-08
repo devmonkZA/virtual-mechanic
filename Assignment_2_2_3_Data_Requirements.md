@@ -1,0 +1,36 @@
+# Introduction #
+
+The files used in development of the project will be mainly:
+
+  1. .xcodeproject file which can directly launch XCode with the current project development window, which is convenient for distributing incomplete project files among team members.
+  1. .h files which are header files of the classes.
+  1. .m files which are implementation of classes.
+  1. .plist files which contain configuration information of the project
+  1. .xib files which are actually  user interface files based on Interface Builder;
+
+Images will be used to depict different components (layers) of the machines for users to explore. The type of all images will be of the .GIF format. All images will be stored in the Image folder under the project folder.
+
+Audio files will be stored in the Sound folder under the project folder.
+
+The generated file extension will be of the .ss (SoundScape) format. The file is used to store information regarding an audio file, such as pitch and volume. The file also stores the physical directory of the file. The data is stored as a complex matrix serialized as a text file. It is important to note that when audio files are “imported”, the physical directories of the files do not change.
+
+
+---
+
+
+## I/O requirements ##
+
+### Main menu ###
+
+> Touching on the menu's navigation bar allows the user to switch between different pages. Users will be able download new machines or open existing ones.
+
+### Machine view ###
+
+> The user can touch any component of the machine to 'select' it; meaning that the user will be able to view information about it as well as move it around. Using two fingers to drag the screen will zoom in or zoom out the image of the machine (or component of the machine). Also, zooming in and out using two fingers can control the transparent of the current top layer of the build of the machine. The user can drag any component of the machine to see parts under this component.
+
+When User shake the iphone ,all components of the machine which were draged to somewhere will return  to
+where they originally located.
+
+### Commenting ###
+
+> When commenting, users will be presented with a 'touch keyboard' on screen to type in their message. A click-and-drag function is available to scan through the page for posts if there are more messages than can fit on-screen.

@@ -1,0 +1,131 @@
+
+
+
+# Project Plan #
+
+## Introduction ##
+
+The goal of the project is to create a flexible image layering system for the iTouch,  platform, that will allow instructors to create a virtual representation of whatever mechanical device they are teaching about.  The user will be able to select a component of the device, and for that component:  Read some information about the component, read other user comments about the component, post their own comments about the component, or drag the component to the side of the screen possibly exposing other components of the device.
+
+
+## Risks ##
+
+
+<table cellpadding='2' border='1'>
+<tr>
+<td width='250'><b>Risk</b></td>
+<td><b>Occurence</b></td>
+<td><b>Severity</b></td>
+<td width='400'><b>Anticipation</b></td>
+<td width='400'><b>Reaction</b></td>
+</tr>
+
+<tr>
+<td>Permanent Loss of a team member</td>
+<td>Low</td>
+<td>High</td>
+<td> - Ensure that everybody documents their work thoroughly.<br>
+<br>- Have back ups for each leading role, who maintain close communication with the current leader.</br></td>
+<td>- Backup steps in and to pick up the slack<br>
+<br>- Other team members ease some of the backups old work off and maintain communication with the backup, allowing a smooth transition. </br></td>
+</tr>
+
+<tr>
+<td>A team member is sick/absent</td>
+<td>Medium</td>
+<td>Low</td>
+<td>- Ensure that everybody documents their work thoroughly.<br>
+<br>- Have back ups for each leading role, who maintain close communication with the current leader.</br></td>
+<td>- Backup steps in  to pick up the slack, if possible keeping the absent member informed of his tasks progress.<br>
+<br>- Other team members ease some of the backups old work off and maintain communication with the backup.</br></td>
+</tr>
+
+<tr>
+<td>Too little time to finish the origional project</td>
+<td>Medium</td>
+<td>Medium</td>
+<td>- Start working early in a phase!<br>
+<br>- Many of the optional features may be stripped from the project plan</br></td>
+<td>- Strip away unnecessary aspects of the project</td>
+</tr>
+
+<tr>
+<td>Particular member of the team is struggling with their role</td>
+<td>Medium</td>
+<td>Medium</td>
+<td>- Ensure that everybody documents their work thoroughly.<br>
+<br>- Have back ups for each leading role, who maintain close communication with the current leader.</br></td>
+<td>Two cases here:<br>
+<br>- If the struggling member is a leader, the backup assumes the leadership role and the struggling member is swapped with a backup from another (hopefully more comfortable) section</br>
+<br>- If the struggling member is a backup, they are simply swapped with a backup from another section.</br></td>
+</tr>
+
+<tr>
+<td>Can't find a way to edit code in windows</td>
+<td>Unknown</td>
+<td>Medium</td>
+<td>- Start searching for a method early. </td>
+<td>- Try to install Mac on our machines.<br>
+<br>- If that fails go to the Mac lab at sfu. </br></td>
+</tr>
+
+<tr>
+<td>Team members in disagreement about some aspect of the project</td>
+<td>Low</td>
+<td>Low-Medium</td>
+<td>- Make sure that distinct leadership roles are assigned, to the correct people.<br>
+<br>- Maintain clear communication with respect to our intentions and idea of the direction of the project as it continues to grow.</br></td>
+<td>Depending on the Nature of the disagreement we shall:<br>
+<br>- Address the disagreement with a group vote. </br>
+<br>- Or leave the decision to the leader of the relevant section</br></td>
+</tr>
+</table>
+
+## Hardware and Software Resource Requirements ##
+
+<table cellpadding='2' border='1'><tr>
+<td width='200'>Hardware</td><td width='200'>Software (Documentation)</td><td width='200'>Software(Development)</td>
+</tr>
+<tr><td>Computer with OSX installed</td><td>MS Project</td><td>Xcode Ide</td>
+</tr><tr><td></td><td>MS word</td></tr>
+</table>
+
+## Work Breakdown ##
+
+<p>Besides the actual coding, the group members will also contribute in:</p>
+
+<table cellpadding='2' border='1'><tr>
+<td>Team Member</td>
+<td>Role</td>
+</tr>
+
+<tr>
+<td>Jeffrey</td>
+<td>Media, website, documentation</td>
+</tr><tr>
+<td>Marc</td>
+<td>Documentation</td>
+</tr><tr>
+<td>Chien</td>
+<td>Media, documentation</td>
+</tr><tr>
+<td>Tyler</td>
+<td>Code management</td>
+</tr><tr>
+<td>Greg</td>
+<td>Website, code management</td>
+</tr>
+</table>
+
+## Project Schedule ##
+
+![http://i34.tinypic.com/bednjk.jpg](http://i34.tinypic.com/bednjk.jpg)
+
+## Project Website ##
+http://code.google.com/p/virtual-mechanic/
+
+## Meeting Minutes ##
+http://code.google.com/p/virtual-mechanic/wiki/MeetingMinutes
+
+## Revision History ##
+http://code.google.com/p/virtual-mechanic/updates/list

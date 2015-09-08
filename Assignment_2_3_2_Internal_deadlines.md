@@ -1,0 +1,20 @@
+2.  The internal deadlines your group sets for unit/system testing of the code for release.
+Naturally, these deadlines must be well enough before the project submission date to
+give you time to do the testing and fix errors that might arise, but also late enough so
+that the development group has time to get all the features implemented.
+
+# Important Deadlines #
+
+| **Version** | **Action** | **Start Date** | **End Date** | **Supervisor** |
+|:------------|:-----------|:---------------|:-------------|:---------------|
+| 1           | Unit testing and Revision | October 30, 2009 | November 2, 2009 | Greg           |
+| 1           | Integration testing and Revision | November 2, 2009 | November 4, 2009 | Tyler          |
+| 1           | Submission | -              | November 5, 2009 |                |
+| 2           | Unit testing and Revision | November 12, 2009 | November 14, 2009 | Chien          |
+| 2           | Integration testing and Revision | November 14, 2009 | November 17, 2009 | Marc           |
+| 2           | Submission | -              | November 19, 2009 |                |
+| 3           | Unit testing and Revision | November 25, 2009 | November 28, 2009 | Jeff           |
+| 3           | Integration testing and Revision | November 28, 2009 | December 1, 2009 | Greg           |
+| 3           | Submission | -              | December 3, 2009 |                |
+
+**Okay supervisor's aren't definite yet, just placeholders. We can discuss this at a later date**

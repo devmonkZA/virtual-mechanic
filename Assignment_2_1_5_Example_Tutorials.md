@@ -1,0 +1,66 @@
+Example Tutorials
+
+# Example Tutorial #
+**Introduction**
+
+In this tutorial we are going to use the application called "Virtual Mechanic" to analyze machines and viewing/adding comments of the part of the machine. In other word, That's get start knowing how this application performs!!!
+
+
+---
+
+**STEP1 - The initial screen once we start the application**
+
+![http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/MainPage.jpg](http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/MainPage.jpg)
+
+First We click on the start button(in the picture above) to get this application start working. Once we click start button, then the screen will show the picture below.
+
+---
+
+**STEP2 - Analyze the machine by dissembling it**
+
+
+![http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/LoadMachine.jpg](http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/LoadMachine.jpg)
+
+
+Then, in this tutorial, we choose the personal computer as an example. Click the personal computer , the screen will show the picture in step3.
+
+---
+
+**STEP3 - See the comments and description of the part of machine**
+
+![http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/TheMachineView.jpg](http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/TheMachineView.jpg)
+
+Once we click the personal computer, the whole machine will shown on the screen like the picture above. And  now we can drag any part of the machine to anywhere in the screen. In this example, we choose the DVD driver. We can drag the DVD driver to the up left corner like the picture shown below.
+
+![http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/Open__Drag1.jpg](http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/Open__Drag1.jpg)
+
+Or we can put it into the original place.
+
+![http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/TheMachineView.jpg](http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/TheMachineView.jpg)
+
+Now we can see and analyze the whole machine. In the next step we want to see the comments, by choosing one part of the machine which the user wants see the information about (in this example we choose the DVD driver)and clicking on the Detail & discuss button The screen will show the following picture.
+
+![http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentingInterface.jpg](http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentingInterface.jpg)
+
+---
+
+**Step4 - Adding our comments of the part of machine**
+
+![http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentsPage.jpg](http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/CommentsPage.jpg)
+
+We want to add our comments of the part of machine so we can press the button called "Post new Comments"
+
+![http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/CommentingInterface.jpg](http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/CommentingInterface.jpg)
+
+Then the keyboard and the comments text field will appear after pressing the "Post new Comments" button as the picture show below.
+
+![http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/Comment_Post.jpg](http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/Comment_Post.jpg)
+
+In this example we type the question that is shown on the picture, after that we can press the "post" then the comments will be posted on the comments where others could see. We do not have to type user name every time we posting comments, because the user id or password are already memorized once we typed in the beginning of application.
+
+
+![http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/CommentsPage1.jpg](http://i875.photobucket.com/albums/ab318/greg1337Steff/ChensTut/CommentsPage1.jpg)
+
+---
+
+**End of this Example Tutorial!!!**

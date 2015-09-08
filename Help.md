@@ -1,0 +1,19 @@
+# Help #
+The option to access the help page is given to the far right in the title bar of every page.
+
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/Help.jpg?t=1255042429
+
+## View by topic ##
+The view by topic button will bring up a window which displays a list of the 5 different help pages:
+
+- Help<br>
+- Main Menu<br>
+- The Machine View <br>
+- The comments page <br>
+- The photos page<br>
+<br>
+<h2>Search</h2>
+The search button brings up text field underneath where the user can enter a keyword.  After entering the keyword the user presses the search button again to search all the help pages for that word.  The returned result will be a page listing the help pages containing the word, or a page saying sorry the word could not be found.<br>
+<br>
+<h2>Report a bug</h2>
+The option to report a bug can be found at the bottom of the page.  Upon clicking the button the user will be directed to a window showing the titlebar (with the title of the page and the back button), and a textfield.  Here the user can enter the report and submit it by clicking the submit button, and they will be redirected to the help page.  Or they can go back by clicking the back button

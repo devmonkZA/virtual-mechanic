@@ -1,0 +1,32 @@
+ok feel free to change the format or wording or whatever, I just think this is a nice simple layout for explaining the interface piece by piece.  I think if we do this for all the other pages (with a few little alterations) this would make a fine features section.
+
+# The Machine View #
+## The Interface ##
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/TheMachineView.jpg?t=1255029587
+### The Title Bar ###
+The title bar is displayed at the very top of the screen and contains:
+
+http://i875.photobucket.com/albums/ab318/greg1337Steff/Tutorial%20Photos/THeTitleBar.jpg?t=1255029726
+
+-To the far left the option to go back to the previous page  (Button image)<br>
+-In the center the name of the current object selected, if no object is selected it will display the name of the Machine.<br>
+-To the right is give the option to access this help page <--- (Is this necissary? I think it is often in help documents)  (Image)<br>
+
+<h3>The Control Bar</h3>
+The control bar is displayed at the very bottom of the page and contains 4 Buttons:<br>
+<br>
+<a href='http://i875.photobucket.com/albums/ab318/greg1337Steff/TheControlBar.jpg?t=1255027176'>http://i875.photobucket.com/albums/ab318/greg1337Steff/TheControlBar.jpg?t=1255027176</a>
+
+-The Comments button will open up the (comments window) <--(link to comments window help) (Button image)<br>
+-The Photo button will open up the (photo window) <-- link (Button image)<br>
+-The undo button will undo the last manipulation of the Machine.  That is it will return the most recently moved part to its last position.<br>
+-The reset button will return all parts to their origional positions.<br>
+<br>
+<h2>The Canvas</h2>
+The canvas is the screen on which the machine is displayed.  It is here that you may dissasemble the Machine on the canvas one may perform 3 actions.<br>
+<br>
+(Image of only the canvas in the process of dissasembly)<br>
+<br>
+-To select a part simply tap the part that you wish to select and its name will be displayed at the top of the screen.<br>
+-To move a part, first select it, and then click and hold the part, add drag the part to where you wish to place it.<br>
+-To zoom in and (Gonna copy instructions in here)

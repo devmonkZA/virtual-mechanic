@@ -1,0 +1,15 @@
+1. Guidelines List all technical guidelines (e.g. "Development will be done using the
+Eclipse IDE"), and any relevant ethical or legal issues.
+
+# Introduction #
+
+The development of the software will be based on the Mac OS. The whole development process will be using the Objective-C programming language and the development environment will be XCode, provided by Apple. The iPhone Simulator and compiler tools from XCode will be applied during the development phase. There will be an FTP server supporting the online discussion and bug reporting features of the product. The database on the server side will be a MySQL database, which will record user information, uploaded files and files ready for downloading. The language used in development of the database is the SQL programming language.
+
+The whole project will be implemented using the iPhone SDK 3.0. For more detail: The connection between server side and client side will be implemented using the CFNetwork framework; And user interface design will be based on the Interface Builder provided by Apple; The image processing, page switch and all other user interface functionality will be implemented based on the UIKit framework.
+
+# Details #
+
+Add your content here.  Format your content with:
+  * Text in **bold** or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
